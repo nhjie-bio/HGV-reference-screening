@@ -1,0 +1,6 @@
+HGV-V3 E9 EXPLAINABILITY v1
+Attribution target: frozen G2 D3 seed20260915 pair distance.
+Integrated-gradient subset: 256 canonical G2 test pairs, balanced positive/negative where available; zero baseline; 16 steps.
+Permutation audit: top-50 IG canonical 6-mer features permuted across the 356 frozen G2 test genomes, then AUROC/AUPRC recomputed.
+Confound audit: absolute pairwise differences in GC, genome length, contig count, N50, and completeness (when available), evaluated overall and by pair class.
+These analyses describe model sensitivity/association; they do not assign biological causality to individual k-mers.

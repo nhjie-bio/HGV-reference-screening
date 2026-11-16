@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "seed_list": [
+    20260915,
+    20260916,
+    20260917
+  ],
+  "mag_count": 80,
+  "HGV_checkpoint_SHA256": {
+    "20260915": "f72626472b7b9687569305ccf0b7a115549fe56aaa3de4e22976dc5feb372e54",
+    "20260916": "c1a56c9fb56a42881486e730d98c4658d414ea9f3c66c252fc1709d924a9e6d6",
+    "20260917": "eaabe0550756c94568ae59979a47868daa81ad1b8c89a287747449313950f793"
+  },
+  "PCA_A_only_SHA256": "518e2bbe76aa9a4ef0d3848ff91fea82f33f4349ef9f71834e93887768d1f4e1",
+  "mag_input_SHA256": "800cb85bef6c5a86fc61bfe905a7fb8913a4a67d2438ff4c7f52491d14eb19c8",
+  "E11_rank_replay": "780/780 PASS",
+  "checkpoint_retrained": false,
+  "PCA_refitted": false,
+  "MAG_near_duplicate_ANI_screen": "PENDING",
+  "MAG_taxonomy_label_audit": "PENDING",
+  "metric_denominator": "Observed GTDB-target-eligible MAGs in each prespecified stratum"
+}

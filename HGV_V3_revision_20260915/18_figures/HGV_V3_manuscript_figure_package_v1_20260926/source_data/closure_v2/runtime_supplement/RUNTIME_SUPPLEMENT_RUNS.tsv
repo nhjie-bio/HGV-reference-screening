@@ -1,0 +1,4 @@
+method	mode	rep	build_s	query_s	combined_s	maxrss_kb	index_bytes	status
+Mash	cached_sketch_query	1	6.91	0.47	NA	64636	19855536	PASS
+Mash	cached_sketch_query	2	6.85	0.47	NA	64672	19855536	PASS
+Mash	cached_sketch_query	3	6.96	0.48	NA	64628	19855536	PASS

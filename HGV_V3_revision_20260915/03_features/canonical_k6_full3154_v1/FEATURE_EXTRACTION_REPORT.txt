@@ -1,0 +1,19 @@
+HGV-V3 CANONICAL K=6 FEATURE EXTRACTION
+========================================================================
+
+STATUS: PASS
+Genomes: 3154
+Feature dimension: 2080
+Feature dtype: float32
+Matrix shape: (3154, 2080)
+Maximum row normalization error: 6.91215973347e-09
+Elapsed seconds: 3.004
+Throughput genomes/sec: 1049.807293
+
+COHORT COUNTS
+A: 2374
+B1: 391
+B2_seen_genus: 196
+B2_unseen_genus: 193
+
+FEATURE_EXTRACTION=PASS

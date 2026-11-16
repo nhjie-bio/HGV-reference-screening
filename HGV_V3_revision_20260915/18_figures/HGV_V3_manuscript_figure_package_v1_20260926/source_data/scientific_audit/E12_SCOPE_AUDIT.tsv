@@ -1,0 +1,7 @@
+component	present_in_E12_v1	evidence	interpretation
+HGV real FASTA canonical-k6 feature extraction	True	E12_REAL_FASTA_END_TO_END.tsv / E12_REAL_FASTA_SUMMARY.tsv	real frozen FASTA, not cached-vector-only timing
+HGV model inference	True	reference_model_inference_wall_s / query_model_inference_wall_s	reported separately from feature extraction
+HGV exact 64-D scan	True	exact_scan_cold_s / exact_scan_warm_median_s	exact O(Nd), d=64
+vector index size / bytes per genome / process RSS	True	vector_index_bytes / bytes_per_genome / process_maxrss_kb	HGV benchmark process
+10^4-10^6 vector-search microbenchmark	True	E12_VECTOR_MICROBENCHMARK.tsv	synthetic tiling of real HGV vectors; NOT million-real-genome end-to-end
+Mash/Dashing2/skani/FastANI matched end-to-end timing in E12 v1	False	not produced by 14_run_e12_scalability_v1.py	must be sourced from an already-frozen E5/runtime block if available; do not claim E12 v1 alone provides this comparison

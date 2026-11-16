@@ -1,0 +1,118 @@
+==============================================================================
+HGV V3 WINDOWS W02 - EXISTING EVIDENCE AUDIT
+==============================================================================
+
+[1] HGV VS PCA-64 PAIRED RESULTS
+Paired comparison rows: 18
+B1 | seed=20260915 | n=391 | HGV_R1=98.4655% | PCA_R1=96.9309% | Delta=1.5345pp | HGV_only=6 | PCA_only=0 | McNemar_p=0.03125
+B1 | seed=20260916 | n=391 | HGV_R1=98.2097% | PCA_R1=96.9309% | Delta=1.2788pp | HGV_only=6 | PCA_only=1 | McNemar_p=0.125
+B1 | seed=20260917 | n=391 | HGV_R1=98.7212% | PCA_R1=96.9309% | Delta=1.7903pp | HGV_only=7 | PCA_only=0 | McNemar_p=0.015625
+B2_seen_genus | seed=20260915 | n=196 | HGV_R1=81.6327% | PCA_R1=100.0% | Delta=-18.3673pp | HGV_only=0 | PCA_only=36 | McNemar_p=0.0
+B2_seen_genus | seed=20260916 | n=196 | HGV_R1=82.6531% | PCA_R1=100.0% | Delta=-17.3469pp | HGV_only=0 | PCA_only=34 | McNemar_p=0.0
+B2_seen_genus | seed=20260917 | n=196 | HGV_R1=84.1837% | PCA_R1=100.0% | Delta=-15.8163pp | HGV_only=0 | PCA_only=31 | McNemar_p=0.0
+B2_unseen_genus | seed=20260915 | n=193 | HGV_R1=22.7979% | PCA_R1=60.1036% | Delta=-37.3057pp | HGV_only=8 | PCA_only=80 | McNemar_p=0.0
+B2_unseen_genus | seed=20260916 | n=193 | HGV_R1=24.3523% | PCA_R1=60.1036% | Delta=-35.7513pp | HGV_only=6 | PCA_only=75 | McNemar_p=0.0
+B2_unseen_genus | seed=20260917 | n=193 | HGV_R1=34.1969% | PCA_R1=60.1036% | Delta=-25.9067pp | HGV_only=0 | PCA_only=50 | McNemar_p=0.0
+Note: B1 uses species Rank-1; B2_seen_genus uses genus Rank-1; B2_unseen_genus uses family Rank-1.
+
+[2] NEW STRATIFIED Q50 - FROZEN PREDICTIONS
+Prediction rows: 8
+HGV_Dashing2_tau0p98 | seed=20260915 | correct=49/50 | R1=98.0%
+HGV_Dashing2_tau0p98 | seed=20260916 | correct=49/50 | R1=98.0%
+HGV_Dashing2_tau0p98 | seed=20260917 | correct=49/50 | R1=98.0%
+PCA64_Euclidean | seed=fixed | correct=48/50 | R1=96.0%
+PCA64_L2 | seed=fixed | correct=48/50 | R1=96.0%
+RawK6_BrayCurtis | seed=fixed | correct=49/50 | R1=98.0%
+RawK6_Cosine | seed=fixed | correct=49/50 | R1=98.0%
+RawK6_Euclidean | seed=fixed | correct=49/50 | R1=98.0%
+IMPORTANT: These values come from frozen predictions, not a new runtime benchmark.
+
+[3] 500 STRATIFIED RESAMPLINGS
+HGV_Dashing2_tau0p98 | seed=20260915 | mean=98.092% | P2.5=96.0% | P97.5=100.0%
+HGV_Dashing2_tau0p98 | seed=20260916 | mean=97.852% | P2.5=94.0% | P97.5=100.0%
+HGV_Dashing2_tau0p98 | seed=20260917 | mean=98.448% | P2.5=96.0% | P97.5=100.0%
+PCA64_Euclidean | seed=fixed | mean=96.348% | P2.5=92.0% | P97.5=100.0%
+PCA64_L2 | seed=fixed | mean=96.576% | P2.5=92.0% | P97.5=100.0%
+Resampling quantiles describe subset variation; they are not 500 independent experiments.
+
+[4] ORIGINAL E12B RESOURCE RESULTS
+Original Table 7 rows: 11
+Unique methods: 11
+HGV | R1=0.940000 | build_s=243.357022 | query_s=14.040048 | complete_s=250.668986 | index_MiB=0.579590
+Raw6_BrayCurtis | R1=0.940000 | build_s=236.445243 | query_s=13.620881 | complete_s=250.962234 | index_MiB=18.836670
+Raw6_Cosine | R1=0.940000 | build_s=232.879783 | query_s=12.637737 | complete_s=245.599565 | index_MiB=18.836670
+Raw6_Euclidean | R1=0.940000 | build_s=237.058534 | query_s=12.392636 | complete_s=248.244313 | index_MiB=18.836670
+PCA64_Euclidean | R1=0.940000 | build_s=237.871257 | query_s=12.503968 | complete_s=248.210741 | index_MiB=0.579590
+PCA64_L2 | R1=0.940000 | build_s=233.686444 | query_s=12.492953 | complete_s=248.831056 | index_MiB=0.579590
+Mash | R1=0.980000 | build_s=7.053965 | query_s=1.082920 | complete_s=7.784347 | index_MiB=18.935715
+Dashing2 | R1=0.980000 | build_s=4.588287 | query_s=0.327076 | complete_s=4.614835 | index_MiB=18.564987
+skani | R1=0.980000 | build_s=2.075515 | query_s=3.060055 | complete_s=5.080668 | index_MiB=1016.284942
+FastANI | R1=0.980000 | build_s= | query_s= | complete_s=260.148424 | index_MiB=
+DNABERT-S | R1=0.840000 | build_s=1148.798308 | query_s=29.288926 | complete_s=1170.326131 | index_MiB=6.955078
+E12B not-reported metric cells: 3
+
+Original E12B final status:
+E12B SYNCHRONIZED RESOURCE EXECUTION: PASS
+METHODS: 11/11
+REPEATS: 3
+DNABERT-S BOUNDED-CACHE: PASS
+DNABERT-S V2/V3 NUMERICAL EQUIVALENCE: PASS
+TABLE7 SOURCE DATA: FROZEN
+MANUSCRIPT CONSISTENCY AUDIT: STILL REQUIRED
+IMPORTANT: Original E12B used the old Q50. Do not attribute these runtimes to the new Q50.
+
+[5] ORIGINAL E8 FRAGMENTATION
+E8 columns: condition, n_seeds, AUROC_mean, AUROC_sd, AUPRC_mean, AUPRC_sd, MCC_mean, MCC_sd, F1_mean, F1_sd, BalancedAccuracy_mean, BalancedAccuracy_sd
+E8 rows: 6
+condition=full | n_seeds=3 | AUROC_mean=0.973128089568677 | AUROC_sd=0.0112929339131692 | AUPRC_mean=0.9721798678120317 | AUPRC_sd=0.013014255733608256 | MCC_mean=0.7966649325684717 | MCC_sd=0.0005000894374863118 | F1_mean=0.8994889698878428 | F1_sd=0.00024124505987829724 | BalancedAccuracy_mean=0.8882575757575758 | BalancedAccuracy_sd=0.0002982181142508949
+condition=100kb | n_seeds=3 | AUROC_mean=0.8852128298385811 | AUROC_sd=0.007735354867619605 | AUPRC_mean=0.8834194514816724 | AUPRC_sd=0.008447543026856508 | MCC_mean=0.34984317497062484 | MCC_sd=0.05936703699769114 | F1_mean=0.3916824901103972 | F1_sd=0.11540809060463639 | BalancedAccuracy_mean=0.6189738292011019 | BalancedAccuracy_sd=0.04018509837490016
+condition=50kb | n_seeds=3 | AUROC_mean=0.8210468728655829 | AUROC_sd=0.01879849241222503 | AUPRC_mean=0.8195564611799381 | AUPRC_sd=0.00871183814790368 | MCC_mean=0.24007192018026235 | MCC_sd=0.05153237548851543 | F1_mean=0.24066111373042065 | F1_sd=0.09418033166747895 | BalancedAccuracy_mean=0.5643939393939394 | BalancedAccuracy_sd=0.027649177914801426
+condition=20kb | n_seeds=3 | AUROC_mean=0.7456915457875146 | AUROC_sd=0.039743036246778884 | AUPRC_mean=0.7573982712178199 | AUPRC_sd=0.034050393556541714 | MCC_mean=0.1355690413123569 | MCC_sd=0.05602873400243556 | F1_mean=0.08877153311163642 | F1_sd=0.06706586352812716 | BalancedAccuracy_mean=0.5222968319559228 | BalancedAccuracy_sd=0.017715762475885626
+condition=5kb | n_seeds=3 | AUROC_mean=0.61697361362498 | AUROC_sd=0.016805908749688587 | AUPRC_mean=0.6295168642226692 | AUPRC_sd=0.00949386553336366 | MCC_mean=0.055845550276508636 | MCC_sd=0.007332262034765625 | F1_mean=0.016689547931511495 | F1_sd=0.008175795326857272 | BalancedAccuracy_mean=0.5037878787878788 | BalancedAccuracy_sd=0.0015567442596440444
+condition=5x5kb | n_seeds=3 | AUROC_mean=0.7971832898623727 | AUROC_sd=0.011541749985035392 | AUPRC_mean=0.8002627833034438 | AUPRC_sd=0.01219906484594788 | MCC_mean=0.17587008102436222 | MCC_sd=0.06125679271087229 | F1_mean=0.13203555560464714 | F1_sd=0.08061246290614653 | BalancedAccuracy_mean=0.5346074380165289 | BalancedAccuracy_sd=0.02267291348521552
+IMPORTANT: E8 evaluates simulated fragmentation, not independently sourced real MAGs.
+
+[6] FIND G2/G3/G4 MCC SOURCE FILES
+Candidate files found: 26
+score=14 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\e5_internal_11method_final_v1_20260918\E5_INTERNAL_11METHOD_PRIMARY_TABLE.tsv
+score=13 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\e5_internal_11method_final_v1_20260918\E5_INTERNAL_11METHOD_PROTOCOL_SUMMARY.tsv
+score=13 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\e5_internal_11method_final_v1_20260918\E5_INTERNAL_11METHOD_SPLIT_LEVEL.tsv
+score=12 | 08_main_generalization\blind_test_evaluation_v1_20260917\PRIMARY_ALLPAIR_TEST_SUMMARY.tsv
+score=12 | 09_baselines\E5_unified_baseline_v1_20260917\06_dnaberts\10_blind_test_evaluation_v1_20260918\DNABERTS_PRIMARY_BLIND_TEST_SUMMARY.tsv
+score=12 | 09_baselines\E5_unified_baseline_v1_20260917\06_dnaberts\11_blind_test_freeze_v1_20260918\DNABERTS_PRIMARY_BLIND_TEST_SUMMARY.tsv
+score=12 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\core_native_merge_v2_20260917\E5_CORE_NATIVE_PRIMARY_TABLE.tsv
+score=11 | 08_main_generalization\blind_test_evaluation_v1_20260917\test_metrics_protocol_summary.tsv
+score=11 | 08_main_generalization\blind_test_evaluation_v1_20260917\test_metrics_run_level.tsv
+score=11 | 08_main_generalization\blind_test_evaluation_v1_20260917\test_metrics_split_level.tsv
+score=11 | 09_baselines\E5_unified_baseline_v1_20260917\06_dnaberts\10_blind_test_evaluation_v1_20260918\DNABERTS_BLIND_TEST_PROTOCOL_SUMMARY.tsv
+score=11 | 09_baselines\E5_unified_baseline_v1_20260917\06_dnaberts\11_blind_test_freeze_v1_20260918\DNABERTS_BLIND_TEST_PROTOCOL_SUMMARY.tsv
+score=11 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\core_native_merge_v2_20260917\E5_CORE_NATIVE_PROTOCOL_SUMMARY.tsv
+score=11 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\native_blind_test_evaluation_v1_20260917\native_test_metrics_protocol_summary.tsv
+score=11 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\native_blind_test_evaluation_v1_20260917\native_test_metrics_split_level.tsv
+score=10 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\e5_internal_11method_final_v1_20260918\E5_INTERNAL_11METHOD_LONG.tsv
+score=8 | 09_baselines\E5_unified_baseline_v1_20260917\06_dnaberts\09_validation_threshold_freeze_v1_20260918\DNABERTS_VALIDATION_SUMMARY.tsv
+score=8 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\native_blind_test_evaluation_v1_20260917\native_test_metrics_protocol_summary_long.tsv
+score=7 | 09_baselines\E5_unified_baseline_v1_20260917\07_unified_internal\e5_internal_11method_final_v1_20260918\E5_INTERNAL_11METHOD_METHOD_CATALOG.tsv
+score=6 | 17_statistics\E6_species_block_bootstrap_v1_20260925_v6\E6_SEED_LEVEL_TEST_METRICS.tsv
+E5 source selection is not automatic: final frozen provenance must be confirmed.
+
+[7] SOURCE CHECKSUMS
+W01_paired SHA256=c3a44b85a561d9aa92d8e9c01547a244a8b6f9fbeba1e28cf922bb0ee1407b80
+W01_Q50 SHA256=1f5537f5daa69eb2e65d070a2ef171d3afbb7e46ad7d2833b928ac8c1eae2037
+E8 SHA256=5d82a34f34465ab3358844248692c071c7e7816b11e527941bb3fe0616b87c6a
+E12B_Table7 SHA256=f15eb4dd821fc9be15170577a6e501e5f16ff0527d0189296ee41e9423f32e87
+
+==============================================================================
+W02 EXISTING EVIDENCE AUDIT: COMPLETE
+==============================================================================
+HGV/PCA external paired data: AVAILABLE
+Species-stratified Q50 accuracy: AVAILABLE
+E8 fragmentation evidence: AVAILABLE
+Original E12B resource measurements: AVAILABLE
+G2/G3/G4 frozen MCC source: REQUIRES IDENTIFICATION
+New stratified Q50 runtime: NOT MEASURED
+Real MAG evaluation: NOT PERFORMED
+Public repository: NOT YET VERIFIED
+
+No model training performed.
+No original experimental results modified.

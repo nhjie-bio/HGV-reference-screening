@@ -1,0 +1,36 @@
+HGV-V3 SPLIT PREFLIGHT REPORT
+============================================================================
+
+STATUS: PASS
+
+FEATURES
+Matrix shape: (3154, 2080)
+Feature dtype: float32
+Max row normalization error: 6.91215973347e-09
+Manifest-feature row identity: PASS
+
+COHORTS
+A: 2374
+B1: 391
+B2_seen_genus: 196
+B2_unseen_genus: 193
+
+DEVELOPMENT TAXONOMY
+Species clusters: 200
+Genera: 100
+Families: 88
+Minimum genomes/species cluster: 2
+
+NEGATIVE-PAIR CAPACITY
+Genera with >=2 species: 50
+Genera with >=3 species: 50
+Families with >=2 genera: 12
+
+EXTERNAL DESIGN
+B1 species not in A: 0
+B2-seen species overlap A: 0
+B2-seen genera not in A: 0
+B2-unseen species overlap A: 0
+B2-unseen genera overlap A: 0
+
+SPLIT_PREFLIGHT=PASS

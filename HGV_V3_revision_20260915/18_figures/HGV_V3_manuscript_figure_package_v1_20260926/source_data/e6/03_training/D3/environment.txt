@@ -1,0 +1,9 @@
+python=3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) 
+[GCC 13.3.0]
+platform=Linux-6.14.0-37-generic-x86_64-with-glibc2.39
+torch=2.8.0+cu128
+numpy=2.0.2
+cuda_available=True
+gpu=NVIDIA GeForce RTX 3060
+test_used=False
+external_used=False

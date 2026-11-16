@@ -1,0 +1,6 @@
+script=HGV_V3_revision_20260915/scripts_v3_20260917_e5_baselines/26j_finalize_e5_internal_11method_v1.py
+script_sha256=2dd7e07be7e35419a635660eb3c8b5f9b5e24f540a0f0f7692a5f990b7c5e6a0
+python=3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) 
+[GCC 13.3.0]
+numpy=1.26.4
+pandas=2.2.3

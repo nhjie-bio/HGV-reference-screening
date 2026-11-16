@@ -1,0 +1,20 @@
+{
+  "manifest": "HGV_V3_revision_20260915/01_manifest/final_3154_freeze_v1_20260916/final_master_manifest_3154.tsv",
+  "mash_source": "HGV_V3_revision_20260915/06_teacher/teacher_cache_v1_20260916/mash/mash_triangle_edges.tsv",
+  "mash_source_sha256": "8812654b62c6f3b711f3744a86c26cabad2663caf3ce1dfc6aa22a3d08b0c0aa",
+  "mash_line_count": 2816751,
+  "mash_expected_complete_edges": 2816751,
+  "dashing2_source": "HGV_V3_revision_20260915/06_teacher/teacher_cache_v1_20260916/dashing2_set/dashing2_set_similarity.tsv",
+  "dashing2_source_sha256": "298753095ab4816cf7cdc9435f1aa2b066f8ebf94af495c94219d60fda72c9df",
+  "dashing2_source_count": 2374,
+  "dashing2_matrix_rows": 2374,
+  "frozen_pair_occurrences": 34882,
+  "unique_target_pairs": 24047,
+  "mash_target_pairs_found": 24047,
+  "dashing2_target_pairs_found": 24047,
+  "mash_missing_target_pairs": 0,
+  "dashing2_missing_target_pairs": 0,
+  "mash_score_semantics": "native distance; unified similarity = 1 - distance",
+  "dashing2_score_semantics": "native SetSketch similarity; unified similarity = native similarity",
+  "status": "PASS"
+}

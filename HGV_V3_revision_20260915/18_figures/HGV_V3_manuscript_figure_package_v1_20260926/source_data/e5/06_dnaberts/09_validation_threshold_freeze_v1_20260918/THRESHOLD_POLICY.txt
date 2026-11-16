@@ -1,0 +1,31 @@
+DNABERT-S E5 validation threshold policy
+
+Score:
+cosine similarity between frozen DNABERT-S genome embeddings.
+
+Prediction:
+positive iff cosine_similarity >= threshold.
+
+Threshold source:
+validation pairs only.
+
+Tie-breaking:
+1. maximum validation MCC
+2. maximum Balanced Accuracy
+3. maximum F1
+4. threshold closest to 0.5
+5. lower threshold
+
+Threshold candidates:
+- every unique observed validation score
+- one nextafter(max_score, +inf) sentinel
+
+Coverage:
+100% for all validation pairs.
+
+Test access:
+No test-pair manifest is read by this script.
+No test score is used for threshold selection.
+
+Status:
+FROZEN

@@ -1,0 +1,9 @@
+method	model_seed	draws	mean_accuracy_pct	p025_accuracy_pct	p975_accuracy_pct
+HGV_Dashing2_tau0p98	20260915	500	98.092	96.0	100.0
+HGV_Dashing2_tau0p98	20260916	500	97.852	94.0	100.0
+HGV_Dashing2_tau0p98	20260917	500	98.448	96.0	100.0
+PCA64_Euclidean	fixed	500	96.348	92.0	100.0
+PCA64_L2	fixed	500	96.576	92.0	100.0
+RawK6_BrayCurtis	fixed	500	97.6	94.0	100.0
+RawK6_Cosine	fixed	500	97.6	94.0	100.0
+RawK6_Euclidean	fixed	500	97.6	94.0	100.0

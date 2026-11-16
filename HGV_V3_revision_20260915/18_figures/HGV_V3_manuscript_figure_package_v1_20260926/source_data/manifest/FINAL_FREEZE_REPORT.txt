@@ -1,0 +1,57 @@
+HGV-V3 FINAL 3154 FREEZE REPORT
+========================================================================
+
+STATUS: PASS
+Freeze version: final_3154_freeze_v1_20260916
+
+INPUT / EXCLUSION
+Logical input genomes: 3200
+Sequence-QC failures: 36
+Duplicate exclusion targets: 12
+QC/duplicate overlap: 2
+Additional duplicate exclusions after overlap: 10
+Unique exclusions: 46
+Final retained genomes: 3154
+
+FINAL COHORTS
+A: 2374
+B1: 391
+B2 seen-genus: 196
+B2 unseen-genus: 193
+External total: 780
+
+CANONICAL SEQUENCE AUDIT
+Duplicate groups before exclusion: 11
+Duplicate members before exclusion: 22
+Cross-cohort duplicate groups before exclusion: 0
+Duplicate groups after exclusion: 0
+Cross-cohort duplicate groups after exclusion: 0
+
+FASTA
+Existing mapped FASTA: 3154
+Missing FASTA: 0
+Duplicate retained FASTA paths: 0
+
+TAXONOMY SUMMARY
+All retained species clusters: 240
+All retained genera: 120
+All retained families: 93
+Development A species clusters: 200
+Development A genera: 100
+Development A families: 88
+
+DETECTED COLUMNS
+Primary accession: assembly_accession
+Audit accession: assembly_accession
+FASTA map accession: assembly_accession
+FASTA path: fasta_path
+Canonical sequence hash: canonical_contigset_sha256
+Species cluster: gtdb_species_cluster
+Species: gtdb_species
+Genus: gtdb_genus
+Family: gtdb_family
+
+FINAL MASTER SHA256
+b7c34ba059e221822eca574509f5e8b3a751862f2b1e1a9a8f03620cda40cae3
+
+FINAL_FREEZE=PASS

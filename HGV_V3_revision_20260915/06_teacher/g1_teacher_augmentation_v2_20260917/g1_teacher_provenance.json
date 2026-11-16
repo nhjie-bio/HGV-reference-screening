@@ -1,0 +1,20 @@
+{
+  "dashing2_k": 31,
+  "dashing2_mode": "onepermsetsketch",
+  "dashing2_rerun": false,
+  "dashing2_sketch_size": 1024,
+  "distance_transform": "1 - Dashing2 similarity",
+  "external_used": false,
+  "matrix_path": "/media/nhjie/lucky/HGV_V3_revision_20260915/06_teacher/teacher_cache_v1_20260916/dashing2_set/dashing2_set_similarity.tsv",
+  "matrix_sha256": "298753095ab4816cf7cdc9435f1aa2b066f8ebf94af495c94219d60fda72c9df",
+  "matrix_value_semantics": "similarity",
+  "split_id": "G1_seed20260915",
+  "status": "PASS",
+  "tau": 0.98,
+  "teacher": "Dashing2 SetSketch",
+  "test_used": false,
+  "train_pair_sha256": "ec4912f54acfc5a48b41687c7bbadc0bab538f33603641be6a56765f54cdb5c3",
+  "val_pair_sha256": "ce23e9aec1d43093a0166436f09cd7dda8c7cedee16efd27a30f582c2383100b",
+  "wanted_pairs": 13124,
+  "wanted_pairs_found": 13124
+}

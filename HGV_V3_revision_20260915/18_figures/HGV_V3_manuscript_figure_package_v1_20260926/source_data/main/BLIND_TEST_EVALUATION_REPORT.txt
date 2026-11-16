@@ -1,0 +1,47 @@
+HGV-V3 LOCKED BLIND TEST EVALUATION
+==============================================================================
+
+STATUS: PASS
+
+G2/G3/G4 test used: YES
+External B1/B2 used: NO
+
+Frozen HGV checkpoints evaluated: 27
+Frozen HGV thresholds used: 27
+Frozen baseline thresholds used: 45
+PCA refit on test: NO
+Threshold retuning on test: NO
+
+Statistical unit: taxonomy split seed
+HGV model seeds were averaged within each taxonomy split before protocol-level mean +/- SD.
+
+PRIMARY ALL-PAIR TEST RESULTS
+------------------------------------------------------------------------------
+
+[G2]
+HGV_Dashing2_tau0p98     AUROC=0.984543 +/- 0.012716; AUPRC=0.982942 +/- 0.013687; MCC=0.875852 +/- 0.068751
+RawK6_BrayCurtis         AUROC=0.982281 +/- 0.022731; AUPRC=0.982499 +/- 0.022027; MCC=0.871371 +/- 0.067376
+RawK6_Cosine             AUROC=0.981644 +/- 0.024515; AUPRC=0.981762 +/- 0.024232; MCC=0.873705 +/- 0.068402
+RawK6_Euclidean          AUROC=0.983058 +/- 0.025483; AUPRC=0.983371 +/- 0.024954; MCC=0.896027 +/- 0.089489
+PCA64_Euclidean          AUROC=0.979511 +/- 0.025499; AUPRC=0.978741 +/- 0.026042; MCC=0.901243 +/- 0.093756
+PCA64_L2                 AUROC=0.976512 +/- 0.022858; AUPRC=0.975170 +/- 0.023065; MCC=0.872926 +/- 0.068034
+
+[G3]
+HGV_Dashing2_tau0p98     AUROC=0.994819 +/- 0.005118; AUPRC=0.994646 +/- 0.005236; MCC=0.915087 +/- 0.041030
+RawK6_BrayCurtis         AUROC=0.998228 +/- 0.002352; AUPRC=0.998278 +/- 0.002278; MCC=0.909412 +/- 0.039947
+RawK6_Cosine             AUROC=0.996605 +/- 0.005343; AUPRC=0.996611 +/- 0.005342; MCC=0.885892 +/- 0.076163
+RawK6_Euclidean          AUROC=0.998720 +/- 0.002092; AUPRC=0.998738 +/- 0.002065; MCC=0.880180 +/- 0.077602
+PCA64_Euclidean          AUROC=0.997031 +/- 0.004672; AUPRC=0.996907 +/- 0.004899; MCC=0.934815 +/- 0.048406
+PCA64_L2                 AUROC=0.991022 +/- 0.010831; AUPRC=0.989844 +/- 0.012610; MCC=0.860018 +/- 0.169013
+
+[G4]
+HGV_Dashing2_tau0p98     AUROC=0.990895 +/- 0.006168; AUPRC=0.990458 +/- 0.006604; MCC=0.894009 +/- 0.053359
+RawK6_BrayCurtis         AUROC=0.995542 +/- 0.003901; AUPRC=0.995472 +/- 0.003940; MCC=0.906195 +/- 0.076978
+RawK6_Cosine             AUROC=0.995711 +/- 0.003805; AUPRC=0.995644 +/- 0.003840; MCC=0.909499 +/- 0.074579
+RawK6_Euclidean          AUROC=0.994806 +/- 0.004514; AUPRC=0.994652 +/- 0.004631; MCC=0.880577 +/- 0.101364
+PCA64_Euclidean          AUROC=0.994491 +/- 0.004961; AUPRC=0.994330 +/- 0.004983; MCC=0.929793 +/- 0.074167
+PCA64_L2                 AUROC=0.995553 +/- 0.004145; AUPRC=0.995515 +/- 0.004108; MCC=0.911095 +/- 0.045595
+
+No model, teacher, tau, checkpoint, PCA transform, or decision threshold was selected using test results.
+
+BLIND_TEST_EVALUATION=PASS

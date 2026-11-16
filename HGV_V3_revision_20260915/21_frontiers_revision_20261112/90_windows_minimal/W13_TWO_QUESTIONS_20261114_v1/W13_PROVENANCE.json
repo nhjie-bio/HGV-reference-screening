@@ -1,0 +1,31 @@
+{
+  "study": "post_hoc_frozen_exploratory",
+  "no_HGV_training": true,
+  "no_change_prior_freezes": true,
+  "E11_PCA_fit": "original_frozen_G1",
+  "E6_PCA_fit": "G2_train_only_if_available",
+  "bootstrap_reps": 1000,
+  "bootstrap_rng": 20261114,
+  "modules": {
+    "E11_EQUAL_BUDGET": {
+      "status": "PASS",
+      "queries": 780,
+      "references": 2374,
+      "frozen_PCA_sha256": "518e2bbe76aa9a4ef0d3848ff91fea82f33f4349ef9f71834e93887768d1f4e1"
+    },
+    "E6_SELECTIVE_DISTILLATION": {
+      "status": "INCOMPLETE",
+      "error": "Cannot uniquely identify D3 seed=20260915 checkpoint; candidate_count=0",
+      "traceback": "Traceback (most recent call last):\n  File \"HGV_V3_revision_20260915\\scripts_frontiers_windows\\W13_HGV_two_questions_oneshot_v1.py\", line 1176, in main\n    results[name] = fn()\n                    ^^^^\n  File \"HGV_V3_revision_20260915\\scripts_frontiers_windows\\W13_HGV_two_questions_oneshot_v1.py\", line 1170, in <lambda>\n    (\"E6_SELECTIVE_DISTILLATION\", lambda: module_e6(mm, fi, X)),\n                                          ^^^^^^^^^^^^^^^^^^^^\n  File \"HGV_V3_revision_20260915\\scripts_frontiers_windows\\W13_HGV_two_questions_oneshot_v1.py\", line 805, in module_e6\n    ckpt = get_checkpoint(mode, seed, manifest)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"HGV_V3_revision_20260915\\scripts_frontiers_windows\\W13_HGV_two_questions_oneshot_v1.py\", line 689, in get_checkpoint\n    need(\n  File \"HGV_V3_revision_20260915\\scripts_frontiers_windows\\W13_HGV_two_questions_oneshot_v1.py\", line 40, in need\n    raise RuntimeError(message)\nRuntimeError: Cannot uniquely identify D3 seed=20260915 checkpoint; candidate_count=0\n"
+    },
+    "E13_REAL_MAG": {
+      "status": "PASS_PRELIMINARY",
+      "mag_queries": 80,
+      "nonredundancy_qc": "PENDING"
+    }
+  },
+  "scope_note": "E11 and E6 use different training and reference splits; their results must not be pooled.",
+  "model_count_note": "Three-seed HGV ensemble is 768 B; single-model HGV and PCA64 are 256 B.",
+  "MAG_note": "E13 requires nonredundancy and taxonomy QC.",
+  "script_sha256": "bc625804b4eb2cb39559ba959260432a0c6e41483fe0a6b0ee21266975e75d2b"
+}

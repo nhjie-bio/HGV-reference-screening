@@ -1,0 +1,11 @@
+E11 successful source: 15_reference_screening\E11_reference_screening_v1_20260925_v6\E11_RETRIEVAL_SUMMARY.tsv
+E11 summary rows: 3
+E11 query rows: 780
+E11 summary columns:
+external_type | n_queries | MRR | Recall@1 | FN_rate@1 | candidate_reduction@1 | Recall@5 | FN_rate@5 | candidate_reduction@5 | Recall@10 | FN_rate@10 | candidate_reduction@10 | Recall@20 | FN_rate@20 | candidate_reduction@20 | Recall@50 | FN_rate@50 | candidate_reduction@50
+E11 query columns:
+query_accession | external_type | target_level | target_taxon | n_reference | first_relevant_rank | MRR | Recall@1 | candidate_reduction@1 | FN@1 | Recall@5 | candidate_reduction@5 | FN@5 | Recall@10 | candidate_reduction@10 | FN@10 | Recall@20 | candidate_reduction@20 | FN@20 | Recall@50 | candidate_reduction@50 | FN@50
+
+IMPORTANT:
+W01 external B2 metrics and E11 retrieval metrics must retain their original protocol definitions.
+The E11 FAILED_v7 directory was not used.

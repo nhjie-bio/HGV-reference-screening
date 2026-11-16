@@ -1,0 +1,37 @@
+{
+  "easy_negative_definition": "different family",
+  "external_policy": "B1/B2 external pair generation is deferred until model and threshold are frozen",
+  "hard_negative_definition": "same genus, different species cluster",
+  "medium_negative_definition": "same family, different genus",
+  "negative_shortage_policy": "clamp each target to unique capacity, then redistribute remaining deficit to available strata in hardness order hard -> medium -> easy; all realized counts are audited",
+  "negative_target_mix": {
+    "easy": 0.2,
+    "hard": 0.5,
+    "medium": 0.3
+  },
+  "pair_version": "pair_manifests_v1_20260916",
+  "positive_definition": "same GTDB species cluster",
+  "provenance_reaudit": "/media/nhjie/lucky/HGV_V3_revision_20260915/04_splits/g1_g4_provenance_reaudit_v1_20260916/PROVENANCE_REAUDIT_REPORT.txt",
+  "provenance_reaudit_sha256": "2dbe59264b9f47b220aab72fb08f742d226289445f36c2b875b5ffd88f709095",
+  "split_root": "/media/nhjie/lucky/HGV_V3_revision_20260915/04_splits/g1_g4_v1_20260916",
+  "split_root_report_sha256": "20655a0aa2732c3e73d27cb0fd4272062bc6e040212cc46228d94e931fe84b55",
+  "teacher_policy": "teacher supervision is permitted only for train_unique_pair_pool.tsv",
+  "test_policy": {
+    "negative_ratio": "1:1",
+    "positive_cap": 30000,
+    "teacher_allowed": false
+  },
+  "train_policy": {
+    "examples_per_epoch": 100000,
+    "negative_per_epoch": 50000,
+    "positive_per_epoch": 50000,
+    "sampling_with_replacement": true,
+    "unique_negative_pool_size": "equal to unique positive pool",
+    "unique_positive_pool": "all available unique positives"
+  },
+  "validation_policy": {
+    "negative_ratio": "1:1",
+    "positive_cap": 20000,
+    "teacher_allowed": false
+  }
+}

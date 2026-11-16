@@ -1,0 +1,42 @@
+{
+  "cells": 30,
+  "d3_main_parity": "PASS",
+  "d3_main_seeds": [
+    20260915,
+    20260916,
+    20260917
+  ],
+  "decision_rule": "similarity_score >= threshold",
+  "external_used": false,
+  "manifest_sha256": "dde063cbc4697aeec43b80480223509427a37c0afafa182cac1008aaf268fd26",
+  "modes": {
+    "D0": 5,
+    "D1": 5,
+    "D2": 5,
+    "D3": 5,
+    "D4": 5,
+    "D5": 5
+  },
+  "original_17c1_sha256": "2ded4d5af7f33f6cf2f86c50ac57b7971271256b6267e92a962034bf1337d052",
+  "original_main_thresholds_sha256": "a0b68c7299221c57f4412acaeb6cba0839943a926e2c4a0acece0a3136c9418c",
+  "post_test_tuning": false,
+  "protocol": "G2",
+  "retraining_performed": false,
+  "score_column": "similarity_score",
+  "split_seed": 20260915,
+  "stage": "E6 validation-only threshold freeze",
+  "status": "PASS",
+  "test_used": false,
+  "threshold_candidate_rule": [
+    "nextafter(max_score,+inf)",
+    "midpoint between adjacent unique score groups",
+    "nextafter(min_score,-inf)"
+  ],
+  "threshold_selection_rule": [
+    "maximum validation MCC",
+    "higher validation Balanced Accuracy",
+    "higher validation F1",
+    "threshold closest to 0.5",
+    "lower numerical threshold"
+  ]
+}

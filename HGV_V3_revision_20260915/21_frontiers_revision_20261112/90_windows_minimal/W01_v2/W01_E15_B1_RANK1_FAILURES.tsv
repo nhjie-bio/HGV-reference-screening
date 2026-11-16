@@ -1,0 +1,19 @@
+model_seed	query_accession	query_species	query_genus	query_family	query_cluster	HGV_top1_reference	HGV_top1_species	PCA64_L2_correct	PCA64_L2_top1_species
+20260915	GCA_000016465.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703615.1	GCF_019703545.1	0	GCF_019703545.1
+20260915	GCA_000016485.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703545.1	GCF_019703545.1	0	GCF_019703545.1
+20260915	GCA_000027305.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_044096575.1	GCF_019703545.1	0	GCF_019703545.1
+20260915	GCA_041937455.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703545.1	GCF_019703545.1	0	GCF_019703545.1
+20260915	GCA_041937465.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_000698365.1	GCF_019703545.1	0	GCF_019703545.1
+20260915	GCA_050819455.1	s__Bacillus_A cereus	g__Bacillus_A	f__Bacillaceae_G	GCF_000007825.1	GCF_030123185.1	GCF_001583695.1	0	GCF_000496285.1
+20260916	GCA_000016465.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_002985955.2	GCF_019703545.1	0	GCF_019703545.1
+20260916	GCA_000016485.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703545.1	GCF_019703545.1	0	GCF_019703545.1
+20260916	GCA_000027305.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703545.1	GCF_019703545.1	0	GCF_019703545.1
+20260916	GCA_001045415.1	s__Vibrio cholerae	g__Vibrio	f__Vibrionaceae	GCF_000621645.1	GCF_026639315.1	GCF_000354175.2	1	GCF_000621645.1
+20260916	GCA_041937455.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_044096575.1	GCF_019703545.1	0	GCF_019703545.1
+20260916	GCA_041937465.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_000698365.1	GCF_019703545.1	0	GCF_019703545.1
+20260916	GCA_050819455.1	s__Bacillus_A cereus	g__Bacillus_A	f__Bacillaceae_G	GCF_000007825.1	GCF_035621715.1	GCF_003049525.1	0	GCF_000496285.1
+20260917	GCA_000016465.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703615.1	GCF_019703545.1	0	GCF_019703545.1
+20260917	GCA_000016485.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_019703545.1	GCF_019703545.1	0	GCF_019703545.1
+20260917	GCA_000027305.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_000698365.1	GCF_019703545.1	0	GCF_019703545.1
+20260917	GCA_041937465.1	s__Haemophilus influenzae	g__Haemophilus	f__Pasteurellaceae	GCF_001457655.1	GCF_002984585.2	GCF_019703545.1	0	GCF_019703545.1
+20260917	GCA_050819455.1	s__Bacillus_A cereus	g__Bacillus_A	f__Bacillaceae_G	GCF_000007825.1	GCF_000833255.1	GCF_001042525.2	0	GCF_000496285.1

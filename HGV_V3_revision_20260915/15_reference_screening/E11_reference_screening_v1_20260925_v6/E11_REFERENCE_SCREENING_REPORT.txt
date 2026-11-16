@@ -1,0 +1,10 @@
+HGV-V3 E11 REFERENCE SCREENING v1
+Reference A=2374; external queries=780 (B1=391, B2-seen=196, B2-unseen=193).
+Ranking = exact Euclidean scan in frozen 64-D canonical A-only embeddings; ensemble distance is mean over 3 frozen model seeds.
+K = 1,5,10,20,50.
+Relevance: B1 species; B2 seen-genus genus; B2 unseen-genus family.
+Confirmatory skani: Top-50; FastANI confirmation: Top-50.
+skani confirmation: reported=0.1958, no-hit=0.8042, hard-fail=0.0000.
+FastANI confirmation: reported=0.2678, no-hit=0.7322, hard-fail=0.0000.
+No-hit means the ANI tool produced no comparison under its default reporting/sensitivity regime; ANI is left missing, not imputed.
+External data are evaluation-only; no model/threshold/tau/lambda selection occurs here.

@@ -1,0 +1,10 @@
+topic	status	evidence	allowed_wording
+E6 universal strict improvement	NOT_SUPPORTED	E6_CLAIM_DECISION_TABLE.tsv	Report comparator-specific deltas/CIs/Holm p-values; use geometry/mechanism wording where strict improvement is unsupported.
+E7 sensitivity	EXECUTED	E7_SENSITIVITY_SUMMARY.tsv	OFAT stability only; do not describe as full hyperparameter-grid search.
+E8 fragmentation	EXECUTED	E8_FRAGMENTATION_SUMMARY.tsv	Frozen full-assembly models tested on reduced sequence amount; no fragmentation-specific retraining or threshold retuning.
+E9 attribution causality	DESCRIPTIVE_ONLY	E9 IG/permutation/confound tables	Model sensitivity/association, not biological causality. Attribution uses frozen G2 D3 seed20260915.
+E9 undefined correlations	1_UNDEFINED_ROWS	E9_UNDEFINED_CORRELATIONS.tsv	Undefined when an input is constant; do not impute 0.
+E10 phylogeny/tree reconstruction	NO_TREE_CLAIM	E10_TREE_COMPONENT_STATUS.txt	ANI/AF and taxonomic consistency only unless a separate frozen tree analysis is later justified.
+E11 ANI tool no-hit semantics	REPORT_COVERAGE	E11_CONFIRMATION_COVERAGE_OVERALL.tsv	No-hit is structural missing under tool defaults; do not impute ANI=0.
+E12 million-genome evidence	VECTOR_MICROBENCHMARK_ONLY	E12_VECTOR_MICROBENCHMARK.tsv	10^4-10^6 vector-search microbenchmark; not million-real-genome end-to-end.
+E12 fair native-baseline runtime comparison	NOT_IN_E12_V1	E12_SCOPE_AUDIT.tsv	Do not claim E12 v1 alone benchmarks Mash/Dashing2/skani/FastANI end-to-end. First audit existing E5 runtime/memory outputs.

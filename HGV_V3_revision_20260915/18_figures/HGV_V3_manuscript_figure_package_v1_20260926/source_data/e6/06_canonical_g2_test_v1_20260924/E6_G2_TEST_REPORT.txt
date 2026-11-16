@@ -1,0 +1,41 @@
+================================================================================
+HGV-V3 E6 CANONICAL G2 TEST REPORT
+================================================================================
+
+STATUS: PASS
+
+Protocol: G2
+Split seed: 20260915
+Test pairs: 3872
+Cells evaluated: 30
+
+Test used: YES
+External used: NO
+Threshold reselection: NO
+Retraining: NO
+Post-test tuning: NO
+
+Score definition:
+  similarity_score = 1 - EuclideanDistance / 2
+
+Output normalization:
+  D0-D4 = L2
+  D5    = none
+
+D3 frozen-main test parity:
+  seeds 20260915/16/17 = PASS
+
+Mode summaries:
+  D0: AUROC=0.970447 +/- 0.017597; AUPRC=0.970143 +/- 0.018262; MCC=0.796954 +/- 0.000000
+  D1: AUROC=0.975002 +/- 0.010630; AUPRC=0.974922 +/- 0.010879; MCC=0.796954 +/- 0.000000
+  D2: AUROC=0.960488 +/- 0.022014; AUPRC=0.958977 +/- 0.022849; MCC=0.796771 +/- 0.005858
+  D3: AUROC=0.969293 +/- 0.014123; AUPRC=0.968529 +/- 0.015122; MCC=0.794289 +/- 0.005486
+  D4: AUROC=0.960843 +/- 0.019214; AUPRC=0.957719 +/- 0.022641; MCC=0.794709 +/- 0.004677
+  D5: AUROC=0.963019 +/- 0.017767; AUPRC=0.960652 +/- 0.020606; MCC=0.796954 +/- 0.000000
+
+NOTE:
+  The five model seeds represent initialization variability.
+  They are not five independent biological replicates.
+  Species-block bootstrap/statistical contrasts are performed later.
+
+E6_CANONICAL_G2_TEST=PASS

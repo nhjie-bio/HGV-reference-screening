@@ -1,0 +1,52 @@
+{
+  "G1": {
+    "group_unit": "genome",
+    "seed": 20260915
+  },
+  "G2": {
+    "group_unit": "gtdb_species_cluster",
+    "seeds": [
+      20260915,
+      20260916,
+      20260917
+    ]
+  },
+  "G3": {
+    "group_unit": "gtdb_genus",
+    "seeds": [
+      20260915,
+      20260916,
+      20260917
+    ]
+  },
+  "G4": {
+    "group_unit": "gtdb_family",
+    "seeds": [
+      20260915,
+      20260916,
+      20260917
+    ]
+  },
+  "development_cohort": "A",
+  "development_genomes": 2374,
+  "external_genomes": 780,
+  "external_policy": "B1/B2 remain external and are not used for split selection/model tuning",
+  "feature_rows": "HGV_V3_revision_20260915/03_features/canonical_k6_full3154_v1/canonical_k6_rows.tsv",
+  "feature_rows_sha256": "e73b17862041bc9f52febd6b91796cee94452552ed2605bd01ad0f9990576657",
+  "group_split_algorithm": "seeded random group order + greedy proportional genome/group balancing; best of 2000 deterministic attempts",
+  "manifest": "HGV_V3_revision_20260915/01_manifest/final_3154_freeze_v1_20260916/final_master_manifest_3154.tsv",
+  "manifest_sha256": "b7c34ba059e221822eca574509f5e8b3a751862f2b1e1a9a8f03620cda40cae3",
+  "pair_capacity_definition": {
+    "easy_negative": "different family",
+    "hard_negative": "same genus, different species cluster",
+    "medium_negative": "same family, different genus",
+    "positive": "same GTDB species cluster"
+  },
+  "pair_partition_rule": "future train/val/test pairs must be constructed within the same partition only",
+  "ratios": {
+    "test": 0.15,
+    "train": 0.7,
+    "val": 0.15
+  },
+  "split_version": "g1_g4_v1_20260916"
+}

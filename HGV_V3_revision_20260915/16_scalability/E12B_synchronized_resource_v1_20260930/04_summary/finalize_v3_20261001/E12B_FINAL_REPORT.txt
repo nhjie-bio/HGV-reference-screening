@@ -1,0 +1,32 @@
+HGV-V3 E12B FINAL SYNCHRONIZED RESOURCE BENCHMARK
+
+Methods: 11
+References: 2374
+Queries: 50 fixed B1 resource queries
+Repeats: 3
+
+DNABERT-S v3 bounded-cache:
+build median s = 1148.798308
+warm-query median s = 29.288926
+complete median s = 1170.326131
+full host PSS median MiB = 1629.518555
+full GPU process memory median MiB = 2084.000000
+index MiB = 6.955078
+
+DNABERT v2/v3 equivalence:
+HGV-V3 E12B DNABERT-S v2/v3 equivalence audit
+shape=(2374, 768)
+max_abs_diff=0
+min_cosine=1
+mean_cosine=1
+query_top1_identical=50/50
+STATUS=PASS
+
+STATUS:
+E12B 11-method synchronized resource execution COMPLETE.
+DNABERT-S bounded-cache measurement COMPLETE.
+Table 7 source data FINALIZED.
+
+IMPORTANT:
+Final manuscript wording still requires a separate consistency audit
+against historical E12 HGV timing before replacing the old Table 7.

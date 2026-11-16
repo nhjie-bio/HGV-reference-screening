@@ -1,0 +1,52 @@
+HGV-V3 E5 Core + Native Internal Merge Freeze
+Date: 2026-09-17
+
+Source:
+HGV_V3_revision_20260915/09_baselines/E5_unified_baseline_v1_20260917/07_unified_internal/core_native_merge_v2_20260917
+
+Expected structure:
+- split-level rows: 90
+- protocol-summary rows: 30
+- methods: 10
+- taxonomy split seeds per protocol: 3
+
+Methods:
+1. HGV_Dashing2_tau0p98
+2. RawK6_BrayCurtis
+3. RawK6_Cosine
+4. RawK6_Euclidean
+5. PCA64_Euclidean
+6. PCA64_L2
+7. Mash
+8. Dashing2_SetSketch
+9. FastANI
+10. skani
+
+Statistical unit:
+- taxonomy split seed
+- HGV: 3 model seeds averaged within each split
+- Raw/PCA: deterministic single result per split
+- native baselines: single native result per split
+- no run-level pooling
+
+Coverage interpretation:
+- HGV / Raw / PCA / Mash / Dashing2:
+  all_test_pairs
+- FastANI / skani:
+  reported_pairs_only
+  missing native scores were not imputed
+
+Critical audit:
+- frozen Core summary reproduction: PASS
+- 18/18 Core rows reproduced
+- unified split-level rows: 90
+- unified protocol rows: 30
+- methods: 10
+
+Important interpretation:
+FastANI/skani discrimination metrics are conditional on reported pairs
+and must always be presented together with overall, positive, and
+negative coverage.
+
+Status:
+FROZEN

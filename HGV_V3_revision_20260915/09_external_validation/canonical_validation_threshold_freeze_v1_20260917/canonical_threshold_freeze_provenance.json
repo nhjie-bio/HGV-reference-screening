@@ -1,0 +1,13 @@
+{
+  "G1_test_used": false,
+  "PCA_random_state": 20260915,
+  "PCA_train_genomes": 1662,
+  "baseline_thresholds": 5,
+  "external_used": false,
+  "feature_sha256": "bf86f75df6a15f49dda348dfac321a2b123b5d5b700676a81a175e34d4b96792",
+  "hgv_thresholds": 3,
+  "protocol_sha256": "f87483c1092f0481c63e6d9a55cd15c840fcc539355324ea1b95bb04dfa230eb",
+  "status": "PASS",
+  "total_thresholds": 8,
+  "validation_pair_sha256": "ce23e9aec1d43093a0166436f09cd7dda8c7cedee16efd27a30f582c2383100b"
+}

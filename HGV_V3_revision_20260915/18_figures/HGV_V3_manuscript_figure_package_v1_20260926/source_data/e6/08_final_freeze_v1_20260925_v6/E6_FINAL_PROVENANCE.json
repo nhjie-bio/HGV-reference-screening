@@ -1,0 +1,8 @@
+{
+  "claim_table_sha256": "e85b46bd10eaa1c96d63701d9250e611ce1d6433bfb9162c0082efbe6bb9fe81",
+  "e6_test_freeze_sha256": "e040c94b923b31fa87a670c520b3b68554485e05d98cec9fc6cf5e45a816ed4f",
+  "e6_test_predictions_sha256": "1a056f420deaa20654b310894dcff04424bac67c8f37f636fe51ec2be0725858",
+  "mechanism_pass_sha256": "f7376aa65ea094bded13ccf7cfbebfe42f2454fbab3a50e850ed8114c5bf0eca",
+  "stats_pass_sha256": "553192c0b31f96e1206576a2167ba1df81afec5672e84aa11108e8b9bac45b2b",
+  "strict_improvement_all_comparators": false
+}

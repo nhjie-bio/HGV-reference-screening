@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "analysis": "POST_HOC_EXPLORATORY",
+  "E11_B1_total": 391,
+  "eligible_queries": 254,
+  "excluded_queries": 137,
+  "G2_training_references": 1662,
+  "species_clusters": 26,
+  "G2_split_file": "HGV_V3_revision_20260915\\04_splits\\g1_g4_v1_20260916\\manifests\\G2_seed20260915.tsv",
+  "G2_split_column": "role",
+  "G2_split_sha256": "74237a2cc5d061e3a5dda962132b6cb0e046d4e1997cbc6c2b023d7bb246cd94",
+  "HGV_modes": [
+    "D0",
+    "D1",
+    "D3"
+  ],
+  "HGV_seeds": [
+    20260915,
+    20260916,
+    20260917,
+    20260918,
+    20260919
+  ],
+  "checkpoint_count": 15,
+  "HGV_retraining": false,
+  "PCA_fit": "G2_TRAIN_ONLY",
+  "PCA_components": 64,
+  "PCA_solver": "randomized",
+  "PCA_seed": 20260915,
+  "PCA_iterated_power": 5,
+  "bootstrap_replicates": 2000,
+  "bootstrap_unit": "species_cluster",
+  "source_hashes": {
+    "W13_script": "bc625804b4eb2cb39559ba959260432a0c6e41483fe0a6b0ee21266975e75d2b",
+    "E6_manifest": "dde063cbc4697aeec43b80480223509427a37c0afafa182cac1008aaf268fd26",
+    "W14_checkpoint_audit": "39f848ef54745cf0744663e6d1daa6539cc708de9b59d2bb9391d5d90d97d2ca",
+    "E11_results": "07dcb38bbd07b0ca38f2337bdcf1f675d612cc82a634db278234c8ac8fe79e0b",
+    "feature_matrix": "bf86f75df6a15f49dda348dfac321a2b123b5d5b700676a81a175e34d4b96792",
+    "W15_script": "8364506c0ee7254cff13d7454d6c6ea716a729b6253899d5625e2589f4634695"
+  },
+  "previous_outputs_modified": false
+}

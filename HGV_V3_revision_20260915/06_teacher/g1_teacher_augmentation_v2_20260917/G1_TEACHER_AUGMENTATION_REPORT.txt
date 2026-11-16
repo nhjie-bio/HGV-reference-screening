@@ -1,0 +1,26 @@
+HGV-V3 G1 DASHING2 TEACHER AUGMENTATION
+==============================================================================
+
+STATUS: PASS
+
+Split: G1_seed20260915
+Teacher: Dashing2 SetSketch
+k: 31
+sketch size: 1024
+tau: 0.98
+Matrix value semantics: similarity
+Teacher distance transform: 1 - similarity
+
+Production matrix: /media/nhjie/lucky/HGV_V3_revision_20260915/06_teacher/teacher_cache_v1_20260916/dashing2_set/dashing2_set_similarity.tsv
+Production sources: 2374
+Wanted unique pairs: 13124
+Wanted pairs found: 13124
+
+train: pairs=12620; positive=6310; negative=6310; informative-negative=1230/6310 (0.194929)
+val: pairs=504; positive=252; negative=252; informative-negative=41/252 (0.162698)
+
+G1 test used: NO
+External B1/B2 used: NO
+Dashing2 recomputed: NO
+
+G1_TEACHER_AUGMENTATION=PASS

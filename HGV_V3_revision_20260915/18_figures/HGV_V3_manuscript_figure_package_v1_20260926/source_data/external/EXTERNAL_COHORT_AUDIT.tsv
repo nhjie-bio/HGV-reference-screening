@@ -1,0 +1,4 @@
+cohort	n	species_seen_A	genus_seen_A	family_seen_A
+B1	391	391	391	391
+B2_seen_genus	196	0	196	196
+B2_unseen_genus	193	0	0	143

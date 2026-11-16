@@ -1,0 +1,6 @@
+check	observed	expected	gate
+retained_accession_duplicates	0	0	PASS
+retained_missing_fasta	0	0	PASS
+retained_duplicate_fasta_paths	0	0	PASS
+retained_canonical_duplicate_groups	0	0	PASS
+retained_cross_cohort_canonical_duplicate_groups	0	0	PASS

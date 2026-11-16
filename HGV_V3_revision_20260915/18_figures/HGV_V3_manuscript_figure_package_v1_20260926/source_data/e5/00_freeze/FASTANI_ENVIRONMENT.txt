@@ -1,0 +1,3 @@
+Thursday, September 17, 2026 AM02:51:57 +08
+<CONDA_ROOT>/envs/hgv_env/bin/fastANI
+fastani                     1.34             hb66fcc3_7            bioconda

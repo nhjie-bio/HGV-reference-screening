@@ -1,0 +1,4 @@
+accession	cohort	row_index	file_sha256_match	original_qc_match	bitwise_2080_match	differing_float32_features	max_abs_feature_delta	valid_kmers	result	windows_fasta_path
+GCF_000007425.1	A	780	PASS	PASS	PASS	0	0	1900516	PASS	HGV_V3_revision_20260915\02_genomes\development\ncbi_download\package\ncbi_dataset\data\GCF_000007425.1\GCF_000007425.1_ASM742v1_genomic.fna.gz
+GCA_000008525.1	B1	0	PASS	PASS	PASS	0	0	1667627	PASS	HGV_V3_revision_20260915\02_genomes\external_B1\ncbi_download\package\ncbi_dataset\data\GCA_000008525.1\GCA_000008525.1_ASM852v1_genomic.fna.gz
+GCA_000019825.1	B2_seen_genus	4	PASS	PASS	PASS	0	0	2073971	PASS	HGV_V3_revision_20260915\02_genomes\external_B2\seen_genus\ncbi_download\package\ncbi_dataset\data\GCA_000019825.1\GCA_000019825.1_ASM1982v1_genomic.fna.gz

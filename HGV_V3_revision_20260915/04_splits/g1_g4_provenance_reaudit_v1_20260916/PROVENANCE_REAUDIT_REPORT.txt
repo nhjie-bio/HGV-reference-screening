@@ -1,0 +1,23 @@
+HGV-V3 SPLIT PROVENANCE RE-AUDIT
+==============================================================================
+
+STATUS: PASS
+
+Final genomes: 3154
+Development A: 2374
+External: 780
+
+GLOBAL DUPLICATION
+Duplicate canonical-hash groups: 0
+Duplicate FASTA-file MD5 groups: 0
+
+A VS EXTERNAL
+BioSample overlap: 0
+Canonical hash overlap: 0
+FASTA MD5 overlap: 0
+Paired assembly edges: 0
+
+Split manifests audited: 10
+Failed split checks: 0
+
+PROVENANCE_REAUDIT=PASS

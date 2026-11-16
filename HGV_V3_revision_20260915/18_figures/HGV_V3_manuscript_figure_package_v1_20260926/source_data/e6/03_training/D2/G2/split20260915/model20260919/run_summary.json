@@ -1,0 +1,18 @@
+{
+  "best_checkpoint_reason": "ranking_score",
+  "best_epoch": 9,
+  "epochs_ran": 17,
+  "external_used": false,
+  "model_seed": 20260919,
+  "protocol": "G2",
+  "split_seed": 20260915,
+  "status": "PASS",
+  "test_used": false,
+  "train_pairs": 18176,
+  "val_AUPRC": 0.9999354792368037,
+  "val_AUROC": 0.9999331017926855,
+  "val_contrastive_loss": 0.02996225282549858,
+  "val_distill_loss": 0.19941367208957672,
+  "val_pairs": 3874,
+  "val_selection_score": 0.9999342905147446
+}

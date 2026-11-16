@@ -1,0 +1,173 @@
+{
+  "status": "PASS",
+  "experiment": "post_hoc frozen E6 G2 retrieval",
+  "script_sha256": "44b70c772193386f859a337cb703c4849e68cb95d4d593e198a3f0b0552381aa",
+  "original_W13_sha256": "bc625804b4eb2cb39559ba959260432a0c6e41483fe0a6b0ee21266975e75d2b",
+  "E6_manifest_sha256": "dde063cbc4697aeec43b80480223509427a37c0afafa182cac1008aaf268fd26",
+  "checkpoints": [
+    {
+      "cell_id": "D0_seed20260915",
+      "mode": "D0",
+      "model_seed": 20260915,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D0\\G2\\split20260915\\model20260915\\best_model.pt",
+      "expected_sha256": "0cc776745737db3b34b623cab285541c2fd42b7b2f62f2afef1201e0622580c2",
+      "actual_sha256": "0cc776745737db3b34b623cab285541c2fd42b7b2f62f2afef1201e0622580c2",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D0_seed20260916",
+      "mode": "D0",
+      "model_seed": 20260916,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D0\\G2\\split20260915\\model20260916\\best_model.pt",
+      "expected_sha256": "ef6a35149cfc6c4c4676ebef8df49ad4cda5a53c8f3ee933b3e2addd774dd3c3",
+      "actual_sha256": "ef6a35149cfc6c4c4676ebef8df49ad4cda5a53c8f3ee933b3e2addd774dd3c3",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D0_seed20260917",
+      "mode": "D0",
+      "model_seed": 20260917,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D0\\G2\\split20260915\\model20260917\\best_model.pt",
+      "expected_sha256": "8896eff319657417f62648cb8a07e4ce3c7147d65c7f8ee946ac943eac6d75ed",
+      "actual_sha256": "8896eff319657417f62648cb8a07e4ce3c7147d65c7f8ee946ac943eac6d75ed",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D0_seed20260918",
+      "mode": "D0",
+      "model_seed": 20260918,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D0\\G2\\split20260915\\model20260918\\best_model.pt",
+      "expected_sha256": "826b8bed66b6128b9209de51e464de02bcc6b38042c1acf21991b367e3cfc315",
+      "actual_sha256": "826b8bed66b6128b9209de51e464de02bcc6b38042c1acf21991b367e3cfc315",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D0_seed20260919",
+      "mode": "D0",
+      "model_seed": 20260919,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D0\\G2\\split20260915\\model20260919\\best_model.pt",
+      "expected_sha256": "fafcbe7c05d7a11eee23a3763decd299e8d628c02b847b5e84fbd6bef4370689",
+      "actual_sha256": "fafcbe7c05d7a11eee23a3763decd299e8d628c02b847b5e84fbd6bef4370689",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D1_seed20260915",
+      "mode": "D1",
+      "model_seed": 20260915,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D1\\G2\\split20260915\\model20260915\\best_model.pt",
+      "expected_sha256": "a1c1df3a8200d4983a4b78302bf1f1e59d33d17b9c174bab2abb03d178349c76",
+      "actual_sha256": "a1c1df3a8200d4983a4b78302bf1f1e59d33d17b9c174bab2abb03d178349c76",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D1_seed20260916",
+      "mode": "D1",
+      "model_seed": 20260916,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D1\\G2\\split20260915\\model20260916\\best_model.pt",
+      "expected_sha256": "8b9f52a61667f1bbbd3b652f88fea877f2472277c323d8f8600355eab944b24c",
+      "actual_sha256": "8b9f52a61667f1bbbd3b652f88fea877f2472277c323d8f8600355eab944b24c",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D1_seed20260917",
+      "mode": "D1",
+      "model_seed": 20260917,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D1\\G2\\split20260915\\model20260917\\best_model.pt",
+      "expected_sha256": "a701ea8743b0bfeed2e55cfdd580cdf816ff3447bbd5f7a985995973aa444b11",
+      "actual_sha256": "a701ea8743b0bfeed2e55cfdd580cdf816ff3447bbd5f7a985995973aa444b11",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D1_seed20260918",
+      "mode": "D1",
+      "model_seed": 20260918,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D1\\G2\\split20260915\\model20260918\\best_model.pt",
+      "expected_sha256": "2fd6a341053f9b4663bc127bfc009dbe38d447d65ddfe4f5425d8fb2f9cd52bb",
+      "actual_sha256": "2fd6a341053f9b4663bc127bfc009dbe38d447d65ddfe4f5425d8fb2f9cd52bb",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D1_seed20260919",
+      "mode": "D1",
+      "model_seed": 20260919,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D1\\G2\\split20260915\\model20260919\\best_model.pt",
+      "expected_sha256": "b919da6c89f634f3ea8847e731fdc5611313dfd55879a5924ffd743347f30237",
+      "actual_sha256": "b919da6c89f634f3ea8847e731fdc5611313dfd55879a5924ffd743347f30237",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D3_seed20260915",
+      "mode": "D3",
+      "model_seed": 20260915,
+      "source_block": "frozen_main_D3",
+      "checkpoint": "HGV_V3_revision_20260915\\08_main_generalization\\hgv_d3_dashing2_tau0p98_bn_safe_v1_20260916\\G2\\split20260915\\model20260915\\best_model.pt",
+      "expected_sha256": "45c7a12a9c251f2ddf839453bd9e1e614f782d5a21e2d573acacc53abcb4eeb6",
+      "actual_sha256": "45c7a12a9c251f2ddf839453bd9e1e614f782d5a21e2d573acacc53abcb4eeb6",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D3_seed20260916",
+      "mode": "D3",
+      "model_seed": 20260916,
+      "source_block": "frozen_main_D3",
+      "checkpoint": "HGV_V3_revision_20260915\\08_main_generalization\\hgv_d3_dashing2_tau0p98_bn_safe_v1_20260916\\G2\\split20260915\\model20260916\\best_model.pt",
+      "expected_sha256": "c43fb7d32a15443978feb836dc5a16c529a0f3b0539c2ed1768647724b7e46ce",
+      "actual_sha256": "c43fb7d32a15443978feb836dc5a16c529a0f3b0539c2ed1768647724b7e46ce",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D3_seed20260917",
+      "mode": "D3",
+      "model_seed": 20260917,
+      "source_block": "frozen_main_D3",
+      "checkpoint": "HGV_V3_revision_20260915\\08_main_generalization\\hgv_d3_dashing2_tau0p98_bn_safe_v1_20260916\\G2\\split20260915\\model20260917\\best_model.pt",
+      "expected_sha256": "c8368d83e0c47e8135e2281c1b90ed25c0f33bfeca31ce9d0728ec49cc145443",
+      "actual_sha256": "c8368d83e0c47e8135e2281c1b90ed25c0f33bfeca31ce9d0728ec49cc145443",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D3_seed20260918",
+      "mode": "D3",
+      "model_seed": 20260918,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D3\\G2\\split20260915\\model20260918\\best_model.pt",
+      "expected_sha256": "29d9daa169fc7fd254e6260ba6f9951ba8fa49e97d538c0bf4429396d63c1271",
+      "actual_sha256": "29d9daa169fc7fd254e6260ba6f9951ba8fa49e97d538c0bf4429396d63c1271",
+      "status": "PASS_SHA256"
+    },
+    {
+      "cell_id": "D3_seed20260919",
+      "mode": "D3",
+      "model_seed": 20260919,
+      "source_block": "formal_E6_20260922",
+      "checkpoint": "HGV_V3_revision_20260915\\10_ablation\\E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922\\03_training\\D3\\G2\\split20260915\\model20260919\\best_model.pt",
+      "expected_sha256": "eb2830f6c808ffec8bb8fbf3b523639997f1defb61386c9e292e3d902f37ded7",
+      "actual_sha256": "eb2830f6c808ffec8bb8fbf3b523639997f1defb61386c9e292e3d902f37ded7",
+      "status": "PASS_SHA256"
+    }
+  ],
+  "E6_results": {
+    "status": "PASS",
+    "queries": 356,
+    "references": 1662,
+    "split_file": "HGV_V3_revision_20260915\\04_splits\\g1_g4_v1_20260916\\manifests\\G2_seed20260915.tsv",
+    "split_role_column": "role",
+    "checkpoints": 15,
+    "PCA_G2": "G2_train_only_fit_randomized_PCA",
+    "no_HGV_retraining": true
+  },
+  "no_model_training": true,
+  "no_earlier_output_overwrite": true,
+  "E11_E13_rerun": false,
+  "inference_note": "Cluster bootstrap is exploratory. Five seeds are not independent taxonomy splits."
+}

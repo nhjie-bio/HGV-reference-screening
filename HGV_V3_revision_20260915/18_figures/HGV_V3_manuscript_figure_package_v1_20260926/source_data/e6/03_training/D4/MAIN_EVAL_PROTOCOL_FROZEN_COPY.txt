@@ -1,0 +1,79 @@
+HGV-V3 MAIN GENERALIZATION EVALUATION PROTOCOL
+==============================================
+
+Frozen before G2/G3/G4 test evaluation.
+
+FINAL MODEL
+-----------
+Input: canonical RC-invariant k=6, 2080-D
+Encoder: 2080 -> 256 -> 128 -> 64
+Hidden normalization: BatchNorm
+Pair forward: BN-safe concatenated endpoints
+Output: L2-normalized 64-D
+Distance: Euclidean
+Margin: 1.0
+
+Teacher: Dashing2 SetSketch
+tau: 0.98
+lambda_dist: 0.25
+
+Optimizer: AdamW
+learning_rate: 5e-4
+weight_decay: 1e-4
+batch_size: 512 pairs
+training_examples_per_epoch: 100000
+positive_per_epoch: 50000
+negative_per_epoch: 50000
+max_epochs: 50
+patience: 8
+precision: FP32
+
+DESIGN
+------
+Protocols:
+  G2 = unseen species
+  G3 = unseen genus
+  G4 = unseen family
+
+Taxonomy split seeds:
+  20260915
+  20260916
+  20260917
+
+Model seeds:
+  20260915
+  20260916
+  20260917
+
+Runs:
+  3 protocols x 3 taxonomy splits x 3 model seeds
+  = 27 final-model runs
+
+MODEL SELECTION
+---------------
+Primary:
+  validation mean(AUROC, AUPRC)
+
+Ceiling tie-break:
+  lower validation contrastive loss
+
+TEST POLICY
+-----------
+17b training stage:
+  test pairs MUST NOT be read.
+
+After all 27 checkpoints are frozen:
+  validation determines any threshold.
+  test is evaluated once without retuning.
+
+Statistical unit:
+  taxonomy split seed.
+
+The three model seeds within one taxonomy split are
+technical/model-initialization replicates and are averaged
+within that taxonomy split before protocol-level aggregation.
+
+External B1/B2:
+  NOT USED during this stage.
+
+MAIN_EVAL_PROTOCOL_FREEZE=PASS

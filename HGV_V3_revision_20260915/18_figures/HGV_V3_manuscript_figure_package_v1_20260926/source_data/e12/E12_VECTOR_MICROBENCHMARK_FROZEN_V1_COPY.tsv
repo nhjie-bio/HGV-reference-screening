@@ -1,0 +1,4 @@
+N_vectors	Q	dimension	database_bytes	exact_scan_first_s	exact_scan_warm_median_s	data_origin
+10000	10	64	2560000	0.007229310926049948	0.0064836309757083654	synthetic tiling of real frozen HGV vectors; not real million-genome end-to-end
+100000	10	64	25600000	0.08454182604327798	0.0822864439105615	synthetic tiling of real frozen HGV vectors; not real million-genome end-to-end
+1000000	10	64	256000000	0.9661940839141607	0.9674676235299557	synthetic tiling of real frozen HGV vectors; not real million-genome end-to-end

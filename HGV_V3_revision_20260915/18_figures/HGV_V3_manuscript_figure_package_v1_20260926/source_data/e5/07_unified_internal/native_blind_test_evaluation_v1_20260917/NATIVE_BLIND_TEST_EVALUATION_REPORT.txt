@@ -1,0 +1,28 @@
+E5 Native Blind-Test Evaluation v1
+================================================================================
+
+Threshold source:
+HGV_V3_revision_20260915/09_baselines/E5_unified_baseline_v1_20260917/00_native_validation/threshold_freeze_v1_20260917/FROZEN_NATIVE_VALIDATION_THRESHOLDS.tsv
+
+Thresholds were frozen on validation before this evaluator read blind-test results.
+
+Mash/Dashing2 metrics use all test pairs because coverage is 100%.
+FastANI/skani discrimination and threshold metrics use reported test pairs only; missing scores remain missing and coverage is reported separately.
+
+All FastANI/skani positive test coverage = 1.0: True
+
+            method protocol  coverage_mean  coverage_sd  positive_coverage_mean  negative_coverage_mean  test_auroc_covered_mean  test_auroc_covered_sd  test_auprc_covered_mean  test_auprc_covered_sd  test_mcc_covered_mean  test_mcc_covered_sd  test_f1_covered_mean  test_balanced_accuracy_covered_mean        metric_scope
+Dashing2_SetSketch       G2       1.000000     0.000000                     1.0                1.000000                      1.0           1.570092e-16                      1.0           0.000000e+00               0.995555             0.007698              0.997748                             0.997763      all_test_pairs
+Dashing2_SetSketch       G3       1.000000     0.000000                     1.0                1.000000                      1.0           7.850462e-17                      1.0           0.000000e+00               0.997613             0.002131              0.998802                             0.998804      all_test_pairs
+Dashing2_SetSketch       G4       1.000000     0.000000                     1.0                1.000000                      1.0           0.000000e+00                      1.0           0.000000e+00               0.994674             0.003786              0.997318                             0.997327      all_test_pairs
+           FastANI       G2       0.685192     0.037289                     1.0                0.370383                      1.0           0.000000e+00                      1.0           0.000000e+00               0.997783             0.003839              0.999310                             0.999312 reported_pairs_only
+           FastANI       G3       0.767162     0.032286                     1.0                0.534323                      1.0           0.000000e+00                      1.0           0.000000e+00               1.000000             0.000000              1.000000                             1.000000 reported_pairs_only
+           FastANI       G4       0.800642     0.009956                     1.0                0.601284                      1.0           0.000000e+00                      1.0           0.000000e+00               0.996987             0.004086              0.998882                             0.998884 reported_pairs_only
+              Mash       G2       1.000000     0.000000                     1.0                1.000000                      1.0           0.000000e+00                      1.0           0.000000e+00               0.996576             0.005931              0.998270                             0.998279      all_test_pairs
+              Mash       G3       1.000000     0.000000                     1.0                1.000000                      1.0           0.000000e+00                      1.0           0.000000e+00               0.997271             0.003876              0.998627                             0.998631      all_test_pairs
+              Mash       G4       1.000000     0.000000                     1.0                1.000000                      1.0           0.000000e+00                      1.0           7.850462e-17               0.995697             0.002849              0.997836                             0.997842      all_test_pairs
+             skani       G2       0.574275     0.037200                     1.0                0.148550                      1.0           0.000000e+00                      1.0           0.000000e+00               0.994130             0.010167              0.999224                             0.999226 reported_pairs_only
+             skani       G3       0.607118     0.028117                     1.0                0.214235                      1.0           0.000000e+00                      1.0           0.000000e+00               1.000000             0.000000              1.000000                             1.000000 reported_pairs_only
+             skani       G4       0.580811     0.022243                     1.0                0.161622                      1.0           0.000000e+00                      1.0           0.000000e+00               0.990754             0.016014              0.998339                             0.998347 reported_pairs_only
+
+STATUS: PASS

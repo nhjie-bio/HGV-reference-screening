@@ -1,0 +1,152 @@
+HGV-V3 CANONICAL DATASET-A MODEL PROTOCOL
+=========================================
+
+Freeze date: 2026-09-17
+
+PURPOSE
+-------
+Train the frozen final HGV configuration on the G1
+genome-level random development split for subsequent
+one-shot external B1/B2 evaluation.
+
+This stage does not use:
+  G1 test
+  B1
+  B2-seen
+  B2-unseen
+
+DATA
+----
+Development source:
+  Dataset A / RefSeq-GCF cohort
+
+Training split:
+  G1_seed20260915 train
+
+Validation split:
+  G1_seed20260915 validation
+
+G1 test:
+  NOT USED for model selection
+
+External B1/B2:
+  NOT USED
+
+FINAL HGV CONFIGURATION
+-----------------------
+Input:
+  canonical reverse-complement-invariant k=6
+  dimension = 2080
+
+Encoder:
+  2080 -> 256 -> 128 -> 64
+
+Hidden normalization:
+  BatchNorm
+
+Pair forward:
+  BN-safe concatenated endpoint forward
+
+Output:
+  L2-normalized 64-D embedding
+
+Distance:
+  Euclidean
+
+Contrastive margin:
+  1.0
+
+Teacher:
+  Dashing2 SetSketch
+
+Dashing2:
+  k = 31
+  sketch size = 1024
+  production matrix stores similarity
+
+Teacher distance:
+  1 - Dashing2 similarity
+
+D3 informative-negative tau:
+  0.98
+
+Distillation weight:
+  lambda_dist = 0.25
+
+TRAINING
+--------
+Optimizer:
+  AdamW
+
+Learning rate:
+  5e-4
+
+Weight decay:
+  1e-4
+
+Pair batch:
+  512
+
+Training examples per epoch:
+  100000
+
+Positive per epoch:
+  50000
+
+Negative per epoch:
+  50000
+
+Sampling:
+  with replacement from frozen G1 unique pair pool
+
+Maximum epochs:
+  50
+
+Early stopping patience:
+  8
+
+Gradient clipping:
+  1.0
+
+Precision:
+  FP32
+
+MODEL SEEDS
+-----------
+20260915
+20260916
+20260917
+
+Total canonical models:
+  3
+
+CHECKPOINT SELECTION
+--------------------
+Primary:
+  validation mean(AUROC, AUPRC)
+
+If validation ranking score ties within 1e-8:
+  lower validation contrastive loss
+
+EXTERNAL POLICY
+---------------
+All three frozen model seeds will be retained.
+
+No single seed will be chosen after looking at external results.
+
+Each seed will receive its own validation-derived threshold
+before any B1/B2 evaluation.
+
+B1/B2 will be evaluated once without model, checkpoint,
+teacher, tau, lambda, or threshold retuning.
+
+REPRODUCIBILITY
+---------------
+Fixed random seeds are used.
+
+For subsequent CUDA training processes:
+  CUBLAS_WORKSPACE_CONFIG=:4096:8
+
+Do not claim bitwise determinism unless explicitly verified.
+
+CANONICAL_A_MODEL_PROTOCOL_FREEZE=PASS

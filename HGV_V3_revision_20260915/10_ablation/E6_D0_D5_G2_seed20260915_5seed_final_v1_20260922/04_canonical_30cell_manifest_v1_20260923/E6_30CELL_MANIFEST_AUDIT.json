@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "purpose": "Canonical 30-cell E6 D0-D5 evaluation manifest",
+  "protocol": "G2",
+  "split_seed": 20260915,
+  "expected_cells": 30,
+  "observed_cells": 30,
+  "model_seeds": [
+    20260915,
+    20260916,
+    20260917,
+    20260918,
+    20260919
+  ],
+  "mode_counts": {
+    "D0": 5,
+    "D1": 5,
+    "D2": 5,
+    "D3": 5,
+    "D4": 5,
+    "D5": 5
+  },
+  "d3_composition": {
+    "frozen_main_count": 3,
+    "frozen_main_seeds": [
+      20260915,
+      20260916,
+      20260917
+    ],
+    "new_e6_count": 2,
+    "new_e6_seeds": [
+      20260918,
+      20260919
+    ]
+  },
+  "formal_e6_root": "HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922",
+  "frozen_main_d3_root": "HGV_V3_revision_20260915/08_main_generalization/hgv_d3_dashing2_tau0p98_bn_safe_v1_20260916",
+  "main_root_resolution": "primary_exact_path",
+  "training_freeze": "HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922/01_execution_freeze/E6_27RUN_TRAINING_FREEZE_v2.txt",
+  "training_freeze_sha256": "4307f8720f8bce5af4a1f4ef5df18c4b0fba5e988de57b173834b5482638f8f6",
+  "manifest": "HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922/04_canonical_30cell_manifest_v1_20260923/E6_30CELL_CANONICAL_MANIFEST.tsv",
+  "manifest_sha256": "dde063cbc4697aeec43b80480223509427a37c0afafa182cac1008aaf268fd26",
+  "validation_header_variants": 1,
+  "validation_headers": [
+    "accession_a\taccession_b\tlabel\tpair_type\tdistance\tsimilarity_score"
+  ],
+  "historical_e6_v1_v2_used": false,
+  "test_data_read": false,
+  "threshold_selection_performed": false,
+  "notes": [
+    "D3 model seeds 20260915/16/17 are reused from the frozen main HGV training.",
+    "D3 model seeds 20260918/19 are reused from the formal E6 20260922 training.",
+    "D0/D1/D2/D4/D5 use the five formal E6 model seeds 20260915-20260919.",
+    "This step does not read test predictions or select thresholds."
+  ]
+}

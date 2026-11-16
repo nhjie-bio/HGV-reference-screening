@@ -1,0 +1,4 @@
+mode	protocol	split_seed	model_seed	e6_threshold	original_main_threshold	abs_delta	threshold_match	source_sha_match	status
+D3	G2	20260915	20260915	0.8092992603778839	0.8092992603778839	0.0	True	True	PASS
+D3	G2	20260915	20260916	0.7605034112930298	0.7605034112930298	0.0	True	True	PASS
+D3	G2	20260915	20260917	0.810662031173706	0.810662031173706	0.0	True	True	PASS

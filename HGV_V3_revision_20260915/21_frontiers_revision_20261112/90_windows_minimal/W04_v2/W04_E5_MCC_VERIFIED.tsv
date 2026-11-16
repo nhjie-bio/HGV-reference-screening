@@ -1,0 +1,10 @@
+protocol	method	n_split_seeds	split_seeds	MCC_mean	MCC_sd_split_seed	split_MCC_values	metric_scope	coverage_type	source
+G2	HGV_Dashing2_tau0p98	3	20260915,20260916,20260917	0.875851648	0.068750529	0.796664933,0.910573318,0.920316692	all_test_pairs	complete	E5 official final frozen tables
+G2	PCA64_Euclidean	3	20260915,20260916,20260917	0.901242503	0.093755820	0.796953659,0.928226803,0.978547046	all_test_pairs	complete	E5 official final frozen tables
+G2	PCA64_L2	3	20260915,20260916,20260917	0.872925596	0.068033954	0.796953659,0.928226803,0.893596325	all_test_pairs	complete	E5 official final frozen tables
+G3	HGV_Dashing2_tau0p98	3	20260915,20260916,20260917	0.915087081	0.041029727	0.868266327,0.944766523,0.932228394	all_test_pairs	complete	E5 official final frozen tables
+G3	PCA64_Euclidean	3	20260915,20260916,20260917	0.934815420	0.048406374	0.889869061,0.986064382,0.928512818	all_test_pairs	complete	E5 official final frozen tables
+G3	PCA64_L2	3	20260915,20260916,20260917	0.860017759	0.169012866	0.665306138,0.968814175,0.945932964	all_test_pairs	complete	E5 official final frozen tables
+G4	HGV_Dashing2_tau0p98	3	20260915,20260916,20260917	0.894009280	0.053359179	0.869978814,0.856890975,0.955158051	all_test_pairs	complete	E5 official final frozen tables
+G4	PCA64_Euclidean	3	20260915,20260916,20260917	0.929793090	0.074166692	0.852216814,0.937162455,1.000000000	all_test_pairs	complete	E5 official final frozen tables
+G4	PCA64_L2	3	20260915,20260916,20260917	0.911094724	0.045594848	0.874011598,0.897270851,0.962001724	all_test_pairs	complete	E5 official final frozen tables

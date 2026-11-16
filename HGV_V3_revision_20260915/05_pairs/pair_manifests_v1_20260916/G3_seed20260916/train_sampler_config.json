@@ -1,0 +1,26 @@
+{
+  "negative_actual_unique_pool_counts": {
+    "easy": 1831,
+    "hard": 4824,
+    "medium": 2498
+  },
+  "negative_examples_per_epoch": 50000,
+  "negative_sampling": "stratified_with_replacement_from_frozen_unique_negative_pool",
+  "negative_target_weights": {
+    "easy": 0.2,
+    "hard": 0.5,
+    "medium": 0.3
+  },
+  "negative_unique_pool_size": 9153,
+  "note": "100000 examples/epoch are generated from frozen unique pools; 100000 does not mean 100000 unique pairs.",
+  "positive_examples_per_epoch": 50000,
+  "positive_sampling": "uniform_with_replacement_from_frozen_unique_positive_pool",
+  "positive_unique_pool_size": 9153,
+  "protocol": "G3",
+  "split_id": "G3_seed20260916",
+  "split_seed": 20260916,
+  "teacher_scope": "train_unique_pair_pool_only",
+  "test_teacher_allowed": false,
+  "train_epoch_examples": 100000,
+  "validation_teacher_allowed": false
+}

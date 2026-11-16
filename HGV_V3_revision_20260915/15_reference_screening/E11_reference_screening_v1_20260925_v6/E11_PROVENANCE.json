@@ -1,0 +1,18 @@
+{
+  "canonical_A_checkpoints": {
+    "20260915": "f72626472b7b9687569305ccf0b7a115549fe56aaa3de4e22976dc5feb372e54",
+    "20260916": "c1a56c9fb56a42881486e730d98c4658d414ea9f3c66c252fc1709d924a9e6d6",
+    "20260917": "eaabe0550756c94568ae59979a47868daa81ad1b8c89a287747449313950f793"
+  },
+  "fastani_hard_failure_fraction": 0.0,
+  "fastani_no_hit_fraction": 0.7322051282051282,
+  "fastani_reported_fraction": 0.26779487179487177,
+  "fastani_top": 50,
+  "feature_npy_sha256": "bf86f75df6a15f49dda348dfac321a2b123b5d5b700676a81a175e34d4b96792",
+  "final_manifest_sha256": "b7c34ba059e221822eca574509f5e8b3a751862f2b1e1a9a8f03620cda40cae3",
+  "skani_hard_failure_fraction": 0.0,
+  "skani_no_hit_fraction": 0.8042307692307692,
+  "skani_reported_fraction": 0.19576923076923078,
+  "skani_top": 50,
+  "workers": 44
+}

@@ -1,0 +1,25 @@
+E5 Mash + Dashing2 Internal Cache Join v1
+========================================================================
+
+Frozen pair occurrences: 34882
+Unique unordered target pairs: 24047
+
+Mash source edges: 2816751
+Expected Mash complete triangle: 2816751
+Mash required-pair coverage: 100%
+
+Dashing2 sources: 2374
+Dashing2 matrix rows: 2374
+Dashing2 required-pair coverage: 100%
+
+Mash semantics:
+  native = distance
+  unified similarity = 1 - distance
+
+Dashing2 semantics:
+  native = SetSketch similarity
+  unified similarity = native similarity
+
+Formal classification metrics are intentionally deferred to the E5 unified evaluator.
+
+STATUS: PASS

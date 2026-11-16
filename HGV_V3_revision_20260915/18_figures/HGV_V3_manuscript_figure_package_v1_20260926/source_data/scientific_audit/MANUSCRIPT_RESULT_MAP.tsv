@@ -1,0 +1,8 @@
+experiment	section_role	recommended_location	source_evidence	reviewer_comments
+E6	Distillation ablation	Main/Supplement	D0-D5 mode metrics + D3 paired AUROC/AUPRC contrasts + geometry	R1-5; R3-4; R3-5
+E7	Sensitivity analysis	Supplement/Main concise	OFAT k, dimension, margin, lambda stability	R1-5
+E8	Fragmentation robustness	Main or Supplement figure	Full vs 100kb/50kb/20kb/5kb/5x5kb degradation	R1-5
+E9	Explainability	Supplement	IG + top-50 permutation + GC/length/contigs/N50/completeness confound audit	R1-4
+E10	Biological fidelity	Main/Supplement	HGV distance vs ANI/AF + ANI range + taxonomic strata; no phylogeny claim	R1-3; R3-5
+E11	Reference screening	Main figure/table	External retrieval, Recall@K/MRR, candidate reduction, ANI confirmation coverage	R1-3
+E12	Scalability	Main/Supplement	Real FASTA HGV pipeline + vector microbenchmark; baseline timing scope must be audited separately	R1-7

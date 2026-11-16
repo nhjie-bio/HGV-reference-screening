@@ -1,0 +1,6 @@
+HGV-V3 E10 BIOLOGICAL FIDELITY v1
+Canonical G2 test pairs=3872; D3 geometry averaged across five frozen E6 model seeds.
+skani reported ANI coverage overall=0.6116; positive=1.0000.
+Analyses: HGV distance vs ANI/AF; positive/negative and difficulty strata; ANI-range fidelity; taxonomy-distance consistency.
+SKIPPED_NO_FROZEN_TREE: no formal GTDB tree retained in the cleaned V3 source-of-truth; no phylogeny reconstruction claim is made.
+Interpretation boundary: these analyses can support taxonomically/genomically consistent geometry, not a claim that HGV reconstructs phylogeny or replaces ANI.

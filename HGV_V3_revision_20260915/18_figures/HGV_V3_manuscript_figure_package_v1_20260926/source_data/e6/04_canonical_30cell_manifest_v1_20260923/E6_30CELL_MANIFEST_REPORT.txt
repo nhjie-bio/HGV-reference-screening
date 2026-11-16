@@ -1,0 +1,39 @@
+================================================================================
+HGV-V3 E6 30-CELL CANONICAL MANIFEST REPORT
+================================================================================
+
+STATUS=PASS
+protocol=G2
+split_seed=20260915
+cells=30
+
+Mode counts:
+  D0=5
+  D1=5
+  D2=5
+  D3=5
+  D4=5
+  D5=5
+
+Canonical D3 composition:
+  frozen_main=20260915,20260916,20260917
+  new_formal_E6=20260918,20260919
+
+Frozen main D3 root:
+  HGV_V3_revision_20260915/08_main_generalization/hgv_d3_dashing2_tau0p98_bn_safe_v1_20260916
+
+Formal E6 root:
+  HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922
+
+Validation header variants=1
+
+Manifest:
+  HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922/04_canonical_30cell_manifest_v1_20260923/E6_30CELL_CANONICAL_MANIFEST.tsv
+Manifest SHA256:
+  dde063cbc4697aeec43b80480223509427a37c0afafa182cac1008aaf268fd26
+
+Historical E6 v1/v2 used: NO
+Test data read: NO
+Threshold selection performed: NO
+
+E6_30CELL_MANIFEST=PASS

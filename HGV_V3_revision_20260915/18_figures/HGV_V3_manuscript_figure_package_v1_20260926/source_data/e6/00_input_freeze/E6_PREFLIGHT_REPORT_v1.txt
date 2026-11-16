@@ -1,0 +1,62 @@
+====================================================================================================
+HGV-V3 FORMAL E6 PREFLIGHT v1
+====================================================================================================
+PARENT_SHA256=97185a30f8651867e0399a5082a9f45d14232fe4df9d449c152d3ee1191ad356
+E6_TRAINER_SHA256=ed84a7dd2dfe4daa9945128f0a2418fa325117ca39439591a79664b673fb829b
+TEACHER_SPLIT=HGV_V3_revision_20260915/06_teacher/teacher_geometry_audit_v1_20260916/teacher_augmented/G2_seed20260915
+
+GATE_PARENT_PROVENANCE=PASS
+GATE_PATCH_REPORT=PASS
+GATE_PROTOCOL_LOCK=PASS
+GATE_SEED_MATRIX=PASS
+GATE_FROZEN_CONSTANTS=PASS
+GATE_DETERMINISTIC_FUNCTION_PARITY=PASS
+GATE_D3_FORWARD_PARITY=PASS
+GATE_D5_NO_L2_SINGLE_FACTOR=PASS
+GATE_D0_D5_MASK_SEMANTICS=PASS
+GATE_D4_DISTRIBUTION_PRESERVATION=PASS
+GATE_D4_DETERMINISM=PASS
+GATE_D3_EVALUATOR_PARITY=PASS
+
+[train]
+rows=18176
+positive=9088
+negative=9088
+informative_negative=1693
+D0_distilled=0
+D1_distilled=18176
+D2_distilled=9088
+D3_distilled=10781
+D4_distilled=10781
+D5_distilled=10781
+D4_changed_selected=10729
+
+[validation]
+rows=3874
+positive=1937
+negative=1937
+informative_negative=144
+D0_distilled=0
+D1_distilled=3874
+D2_distilled=1937
+D3_distilled=2081
+D4_distilled=2081
+D5_distilled=2081
+D4_changed_selected=2067
+
+RUN_ACCOUNTING:
+D0=5 new
+D1=5 new
+D2=5 new
+D3=2 new + 3 reused frozen
+D4=5 new
+D5=5 new
+NEW_RUNS=27
+REUSED_D3=3
+FINAL_E6_CELLS=30
+
+TEST_OPENED=NO
+EXTERNAL_OPENED=NO
+
+E6_PREFLIGHT=PASS
+====================================================================================================

@@ -1,0 +1,17 @@
+HGV V3 W13 | SCIENTIFIC DECISION REPORT
+Post-hoc frozen exploratory analyses
+E11 and E6 have different training/reference splits.
+Single HGV and PCA64: 256 B; HGV ensemble: 768 B.
+
+QUESTION B: E11 B1 minimum candidate counts
+HGV_20260915 | K95=1, K99=5, K100=25
+HGV_20260916 | K95=1, K99=11, K100=37
+HGV_20260917 | K95=1, K99=2, K100=40
+PCA64_Euclidean | K95=1, K99=13, K100=22
+PCA64_L2 | K95=1, K99=12, K100=23
+HGV_ensemble_768B | K95=1, K99=5, K100=13
+Lower K at equal recall means fewer candidates, not necessarily lower end-to-end runtime.
+
+E13: 80 MAG results remain preliminary until near-duplicate and taxonomy QC.
+INCOMPLETE E6_SELECTIVE_DISTILLATION: Cannot uniquely identify D3 seed=20260915 checkpoint; candidate_count=0
+Do not infer universal superiority, ANI replacement, or end-to-end runtime advantage.

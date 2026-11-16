@@ -1,0 +1,46 @@
+HGV-V3 LOCKED EXTERNAL ONE-SHOT EVALUATION
+==============================================================================
+
+STATUS: PASS
+
+Dataset-A references: 2374
+External queries: 780
+B1: 391
+B2_seen_genus: 196
+B2_unseen_genus: 193
+
+G1 test used: NO
+External tuning: NO
+
+B1 MATCHED-SPECIES CROSS-SOURCE
+------------------------------------------------------------------------------
+HGV_Dashing2_tau0p98     R@1=0.984655+/-0.002558; R@10=0.991475+/-0.001477; MRR=0.987532+/-0.002616; AUROC=0.999778+/-0.000050; AUPRC=0.986515+/-0.003100; MCC=0.859728+/-0.042152
+RawK6_BrayCurtis         R@1=0.979540+/-0.000000; R@10=0.987212+/-0.000000; MRR=0.982920+/-0.000000; AUROC=0.999676+/-0.000000; AUPRC=0.937065+/-0.000000; MCC=0.844987+/-0.000000
+RawK6_Cosine             R@1=0.979540+/-0.000000; R@10=0.987212+/-0.000000; MRR=0.982452+/-0.000000; AUROC=0.999650+/-0.000000; AUPRC=0.932602+/-0.000000; MCC=0.842466+/-0.000000
+RawK6_Euclidean          R@1=0.979540+/-0.000000; R@10=0.987212+/-0.000000; MRR=0.982452+/-0.000000; AUROC=0.999628+/-0.000000; AUPRC=0.926784+/-0.000000; MCC=0.855030+/-0.000000
+PCA64_Euclidean          R@1=0.966752+/-0.000000; R@10=0.989770+/-0.000000; MRR=0.973179+/-0.000000; AUROC=0.999516+/-0.000000; AUPRC=0.893524+/-0.000000; MCC=0.842189+/-0.000000
+PCA64_L2                 R@1=0.969309+/-0.000000; R@10=0.989770+/-0.000000; MRR=0.974936+/-0.000000; AUROC=0.999537+/-0.000000; AUPRC=0.902207+/-0.000000; MCC=0.836228+/-0.000000
+
+B2 SEEN-GENUS / UNSEEN-SPECIES
+------------------------------------------------------------------------------
+HGV_Dashing2_tau0p98     genusR@1=0.828231+/-0.012840; genusR@10=0.880952+/-0.031174; genusMRR=0.842885+/-0.005532; pairFPR=0.005715+/-0.000705; queryAnyFalseMatch=0.756803+/-0.020620
+RawK6_BrayCurtis         genusR@1=1.000000+/-0.000000; genusR@10=1.000000+/-0.000000; genusMRR=1.000000+/-0.000000; pairFPR=0.004270+/-0.000000; queryAnyFalseMatch=0.454082+/-0.000000
+RawK6_Cosine             genusR@1=1.000000+/-0.000000; genusR@10=1.000000+/-0.000000; genusMRR=1.000000+/-0.000000; pairFPR=0.003879+/-0.000000; queryAnyFalseMatch=0.387755+/-0.000000
+RawK6_Euclidean          genusR@1=1.000000+/-0.000000; genusR@10=1.000000+/-0.000000; genusMRR=1.000000+/-0.000000; pairFPR=0.004189+/-0.000000; queryAnyFalseMatch=0.484694+/-0.000000
+PCA64_Euclidean          genusR@1=1.000000+/-0.000000; genusR@10=1.000000+/-0.000000; genusMRR=1.000000+/-0.000000; pairFPR=0.005246+/-0.000000; queryAnyFalseMatch=0.566327+/-0.000000
+PCA64_L2                 genusR@1=1.000000+/-0.000000; genusR@10=1.000000+/-0.000000; genusMRR=1.000000+/-0.000000; pairFPR=0.005255+/-0.000000; queryAnyFalseMatch=0.576531+/-0.000000
+
+B2 UNSEEN-GENUS / UNSEEN-SPECIES
+------------------------------------------------------------------------------
+Family retrieval applies to 143/193 queries whose family exists in Dataset A.
+
+HGV_Dashing2_tau0p98     familyR@1=0.365967+/-0.083429; familyR@10=0.396270+/-0.056955; familyMRR=0.389678+/-0.068265; pairFPR=0.000543+/-0.000265; queryAnyFalseMatch=0.119171+/-0.058391
+RawK6_BrayCurtis         familyR@1=0.797203+/-0.000000; familyR@10=0.797203+/-0.000000; familyMRR=0.800678+/-0.000000; pairFPR=0.000000+/-0.000000; queryAnyFalseMatch=0.000000+/-0.000000
+RawK6_Cosine             familyR@1=0.797203+/-0.000000; familyR@10=0.797203+/-0.000000; familyMRR=0.803629+/-0.000000; pairFPR=0.000000+/-0.000000; queryAnyFalseMatch=0.000000+/-0.000000
+RawK6_Euclidean          familyR@1=0.790210+/-0.000000; familyR@10=0.797203+/-0.000000; familyMRR=0.798974+/-0.000000; pairFPR=0.000000+/-0.000000; queryAnyFalseMatch=0.000000+/-0.000000
+PCA64_Euclidean          familyR@1=0.783217+/-0.000000; familyR@10=0.790210+/-0.000000; familyMRR=0.789585+/-0.000000; pairFPR=0.000000+/-0.000000; queryAnyFalseMatch=0.000000+/-0.000000
+PCA64_L2                 familyR@1=0.811189+/-0.000000; familyR@10=0.811189+/-0.000000; familyMRR=0.816665+/-0.000000; pairFPR=0.000000+/-0.000000; queryAnyFalseMatch=0.000000+/-0.000000
+
+No external result was used to alter model, teacher, tau, lambda, checkpoint, PCA transform, model seed set, or validation-derived threshold.
+
+EXTERNAL_ONE_SHOT_EVALUATION=PASS

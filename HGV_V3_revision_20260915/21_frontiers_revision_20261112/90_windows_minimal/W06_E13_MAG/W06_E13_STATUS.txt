@@ -1,0 +1,12 @@
+W06 E13 REAL MAG CANDIDATE SELECTION
+Source: GTDB r232 metadata
+Source category: derived from metagenome
+Completeness range: 50-100%
+Contamination: <=5%
+Reference: original A=2374
+Selection seed: 20261114
+Shortlisted MAGs: 80
+FASTA downloaded: NO
+Frozen model inference: NOT YET
+Sequence-level duplicate check: PENDING
+GTDB taxonomy is not independent ground truth

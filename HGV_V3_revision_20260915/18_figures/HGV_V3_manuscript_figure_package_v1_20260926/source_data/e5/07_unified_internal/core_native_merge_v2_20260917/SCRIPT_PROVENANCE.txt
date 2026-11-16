@@ -1,0 +1,4 @@
+script=HGV_V3_revision_20260915/scripts_v3_20260917_e5_baselines/25b_merge_e5_core_native_internal_v2.py
+script_sha256=5a7f3a18a665eb2d5755b8dee0240f1c535983d5527c2445ea8fda9295bd2e78
+python=3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) 
+[GCC 13.3.0]

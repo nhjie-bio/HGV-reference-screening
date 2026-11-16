@@ -1,0 +1,3 @@
+split_id	role	n_pairs	positive_n	negative_n	tau	informative_negative_n	informative_negative_fraction	teacher_missing	output
+G1_seed20260915	train	12620	6310	6310	0.98	1230	0.1949286846275753	0	/media/nhjie/lucky/HGV_V3_revision_20260915/06_teacher/g1_teacher_augmentation_v2_20260917/teacher_augmented/G1_seed20260915/train_teacher.tsv
+G1_seed20260915	val	504	252	252	0.98	41	0.1626984126984127	0	/media/nhjie/lucky/HGV_V3_revision_20260915/06_teacher/g1_teacher_augmentation_v2_20260917/teacher_augmented/G1_seed20260915/val_teacher.tsv

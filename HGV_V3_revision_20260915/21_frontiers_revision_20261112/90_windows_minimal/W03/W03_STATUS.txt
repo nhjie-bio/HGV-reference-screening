@@ -1,0 +1,7 @@
+W03 E5/E11 source provenance inspection: COMPLETED
+Primary E5 table present: YES
+E5 HGV/PCA candidate rows: 54
+E11/external retrieval candidate files: 22
+Scientific interpretation: PENDING per-metric protocol reconciliation
+W01 B2 family Rank-1 must not be substituted for the manuscript E11 family R@1 without checking retrieval protocol.
+No old model, TSV, or paper file changed.

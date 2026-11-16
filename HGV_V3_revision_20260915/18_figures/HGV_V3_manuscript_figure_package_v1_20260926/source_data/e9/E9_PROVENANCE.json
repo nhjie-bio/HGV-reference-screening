@@ -1,0 +1,7 @@
+{
+  "IG_pair_n": 256,
+  "IG_steps": 16,
+  "checkpoint_sha256": "45c7a12a9c251f2ddf839453bd9e1e614f782d5a21e2d573acacc53abcb4eeb6",
+  "feature_sha256": "bf86f75df6a15f49dda348dfac321a2b123b5d5b700676a81a175e34d4b96792",
+  "test_pair_sha256": "4ff432b84bcfe76743e6ca7d6ce842a094744e5be726527aaf74e09bc9e474ba"
+}

@@ -1,0 +1,42 @@
+HGV-V3 GTDB R232 checksum audit
+Date: 2026-09-16
+
+GTDB release:
+R11-RS232
+
+Scientific/data files:
+PASS
+
+Verified PASS files:
+- bac120_metadata_r232.tsv.gz
+- bac120_taxonomy_r232.tsv.gz
+- bac120_r232.tree
+- auxillary_files/bac120_r232.sp_labels.tree
+- auxillary_files/sp_clusters_r232.tsv
+- auxillary_files/synonyms.bac120_r232.tsv
+- auxillary_files/metadata_field_desc.tsv
+- auxillary_files/qc_failed_r232.tsv
+- VERSION.txt
+- FILE_DESCRIPTIONS.txt
+- METHODS.txt
+
+Documentation checksum exception:
+File:
+RELEASE_NOTES.txt
+
+MD5 listed in GTDB MD5SUM.txt:
+2c9c00351cd6188f2160dd8865065fe4
+
+MD5 obtained from repeated direct downloads from the official GTDB R232 URL:
+08bc7424cb53196e09485cb4729a15e3
+
+The currently served RELEASE_NOTES.txt identifies itself as Release 232.0
+and reports 901,341 genomes organized into 199,923 species clusters.
+
+Interpretation:
+This is treated as an upstream documentation-checksum inconsistency.
+RELEASE_NOTES.txt is not used for taxonomy assignment, QC filtering,
+cohort construction, model training, validation, or testing.
+
+Decision:
+GTDB R232 scientific metadata integrity gate = PASS.

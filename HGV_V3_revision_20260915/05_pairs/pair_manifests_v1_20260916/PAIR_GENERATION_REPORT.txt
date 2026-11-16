@@ -1,0 +1,62 @@
+HGV-V3 PAIR MANIFEST GENERATION
+==============================================================================
+
+STATUS: PASS
+
+PAIR DEFINITIONS
+positive = same GTDB species cluster
+hard = same genus, different species
+medium = same family, different genus
+easy = different family
+
+TRAINING
+Unique positive pool: all available
+Unique negative pool: 1:1 with positives
+Training examples/epoch: 100000
+Positive/negative per epoch: 50000/50000
+Epoch sampling uses replacement from the frozen unique pools.
+
+VALIDATION/TEST
+Validation positive cap: 20000
+Test positive cap: 30000
+All current split capacities are below these caps; actual data determine counts.
+
+NEGATIVE MIX
+Target = 50% hard / 30% medium / 20% easy.
+When unique capacity is insufficient, the deficit is redistributed without duplicating evaluation pairs; actual mix is recorded.
+
+SUMMARY
+G1_seed20260915 train: pos=6310 neg=6310 H/M/E=3155/1893/1262 total=12620
+G1_seed20260915 val: pos=252 neg=252 H/M/E=127/75/50 total=504
+G1_seed20260915 test: pos=295 neg=295 H/M/E=148/88/59 total=590
+G2_seed20260915 train: pos=9088 neg=9088 H/M/E=4966/2304/1818 total=18176
+G2_seed20260915 val: pos=1937 neg=1937 H/M/E=288/110/1539 total=3874
+G2_seed20260915 test: pos=1936 neg=1936 H/M/E=432/144/1360 total=3872
+G2_seed20260916 train: pos=9088 neg=9088 H/M/E=4822/2448/1818 total=18176
+G2_seed20260916 val: pos=1936 neg=1936 H/M/E=852/276/808 total=3872
+G2_seed20260916 test: pos=1937 neg=1937 H/M/E=420/408/1109 total=3874
+G2_seed20260917 train: pos=9087 neg=9087 H/M/E=5422/1848/1817 total=18174
+G2_seed20260917 val: pos=1937 neg=1937 H/M/E=576/110/1251 total=3874
+G2_seed20260917 test: pos=1937 neg=1937 H/M/E=864/276/797 total=3874
+G3_seed20260915 train: pos=9121 neg=9121 H/M/E=5569/1728/1824 total=18242
+G3_seed20260915 val: pos=1882 neg=1882 H/M/E=1074/432/376 total=3764
+G3_seed20260915 test: pos=1958 neg=1958 H/M/E=1134/432/392 total=3916
+G3_seed20260916 train: pos=9153 neg=9153 H/M/E=4824/2498/1831 total=18306
+G3_seed20260916 val: pos=1882 neg=1882 H/M/E=1074/432/376 total=3764
+G3_seed20260916 test: pos=1926 neg=1926 H/M/E=1167/374/385 total=3852
+G3_seed20260917 train: pos=9099 neg=9099 H/M/E=5983/1296/1820 total=18198
+G3_seed20260917 val: pos=1915 neg=1915 H/M/E=1182/350/383 total=3830
+G3_seed20260917 test: pos=1947 neg=1947 H/M/E=1126/432/389 total=3894
+G4_seed20260915 train: pos=9087 neg=9087 H/M/E=4544/2726/1817 total=18174
+G4_seed20260915 val: pos=1958 neg=1958 H/M/E=1134/432/392 total=3916
+G4_seed20260915 test: pos=1916 neg=1916 H/M/E=1159/374/383 total=3832
+G4_seed20260916 train: pos=9121 neg=9121 H/M/E=4561/2736/1824 total=18242
+G4_seed20260916 val: pos=1893 neg=1893 H/M/E=1082/432/379 total=3786
+G4_seed20260916 test: pos=1947 neg=1947 H/M/E=1126/432/389 total=3894
+G4_seed20260917 train: pos=9108 neg=9108 H/M/E=4554/2732/1822 total=18216
+G4_seed20260917 val: pos=1916 neg=1916 H/M/E=1183/350/383 total=3832
+G4_seed20260917 test: pos=1937 neg=1937 H/M/E=1176/374/387 total=3874
+
+External B1/B2 remain untouched at this stage.
+
+PAIR_GENERATION=PASS

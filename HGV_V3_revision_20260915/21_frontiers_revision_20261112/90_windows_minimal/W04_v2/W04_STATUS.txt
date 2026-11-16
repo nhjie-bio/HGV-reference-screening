@@ -1,0 +1,8 @@
+W04 E5 MCC cross-check: PASS
+E5 G2/G3/G4 official values: VERIFIED
+E11 successful v6 source: LOCATED
+E11 summary and query schemas: EXTRACTED
+E11 protocol interpretation: PENDING
+Real MAG evaluation: NOT PERFORMED
+New Q50 runtime measurement: NOT PERFORMED
+Original data and models: UNCHANGED

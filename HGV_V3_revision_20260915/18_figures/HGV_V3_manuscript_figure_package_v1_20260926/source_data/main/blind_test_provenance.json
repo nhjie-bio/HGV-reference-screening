@@ -1,0 +1,34 @@
+{
+  "aggregation": "average 3 model seeds within each taxonomy split, then mean+SD across 3 taxonomy split seeds",
+  "device": "cuda",
+  "evaluation_started_utc": "2026-09-16T16:46:34.780550+00:00",
+  "external_used": false,
+  "frozen_baseline_thresholds": 45,
+  "frozen_hgv_thresholds": 27,
+  "hgv_checkpoints": 27,
+  "model_seeds": [
+    20260915,
+    20260916,
+    20260917
+  ],
+  "numpy": "2.0.2",
+  "pca_refit_on_test": false,
+  "platform": "Linux-6.14.0-37-generic-x86_64-with-glibc2.39",
+  "protocols": [
+    "G2",
+    "G3",
+    "G4"
+  ],
+  "python": "3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) \n[GCC 13.3.0]",
+  "split_seeds": [
+    20260915,
+    20260916,
+    20260917
+  ],
+  "status": "PASS",
+  "test_protocol_sha256": "b0e50345b3f35c205297b83e4953c09257fde4515507c7514eacbcce8920a3f9",
+  "test_threshold_tuning": false,
+  "test_used": true,
+  "threshold_file_sha256": "a0b68c7299221c57f4412acaeb6cba0839943a926e2c4a0acece0a3136c9418c",
+  "torch": "2.8.0+cu128"
+}

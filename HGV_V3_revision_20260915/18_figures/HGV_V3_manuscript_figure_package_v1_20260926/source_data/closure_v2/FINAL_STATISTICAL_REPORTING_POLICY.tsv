@@ -1,0 +1,4 @@
+result_block	primary_manuscript_reporting	formal_inference	do_not_use
+Main G2/G3/G4	mean +/- SD across 3 taxonomy split seeds	use frozen formal bootstrap/paired statistics where defined; do not treat pair observations as independent biological replicates	unbounded diagnostic t intervals outside [0,1] as literal probability limits
+External B1/B2	3-seed mean +/- SD; eligible query counts stated explicitly	retrieval metrics are descriptive external one-shot results; no external tuning	CI on counts/threshold as substantive biological evidence
+E6	observed paired deltas + species-block bootstrap CI + Holm P	formal comparator-specific inference	universal D3 superiority wording

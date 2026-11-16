@@ -1,0 +1,28 @@
+DNABERT-S Validation Threshold Freeze v1
+====================================================================================
+
+No blind-test pair manifest was read.
+
+Score: cosine similarity between frozen L2-normalized 768-D DNABERT-S genome embeddings.
+
+Threshold policy:
+1. max validation MCC
+2. max Balanced Accuracy
+3. max F1
+4. closest threshold to 0.5
+5. lower threshold
+
+protocol split_seed  n_pairs  coverage  validation_auroc  validation_auprc  frozen_threshold  validation_mcc  validation_balanced_accuracy  validation_f1  score_min  score_median  score_max
+      G2   20260915     3874       1.0          0.989678          0.988571          0.946381        0.928016                      0.962829       0.964108   0.111889      0.964750   1.000000
+      G2   20260916     3872       1.0          0.895816          0.839320          0.948510        0.742182                      0.855630       0.873672   0.116360      0.975011   0.999995
+      G2   20260917     3874       1.0          0.964258          0.957252          0.956967        0.855896                      0.922819       0.928349  -0.028951      0.973440   0.999930
+      G3   20260915     3764       1.0          0.841671          0.800411          0.956798        0.558724                      0.752657       0.796146   0.101617      0.970994   0.999917
+      G3   20260916     3764       1.0          0.872369          0.844805          0.958762        0.664409                      0.814028       0.840110   0.127687      0.972948   1.000000
+      G3   20260917     3830       1.0          0.892780          0.885989          0.968131        0.596834                      0.796084       0.808061   0.156874      0.971502   0.999984
+      G4   20260915     3916       1.0          0.950906          0.932730          0.970320        0.780835                      0.889683       0.892963   0.044824      0.972314   1.000000
+      G4   20260916     3786       1.0          0.859042          0.836398          0.956967        0.633169                      0.786846       0.824068   0.111864      0.976082   1.000000
+      G4   20260917     3832       1.0          0.921271          0.909010          0.964086        0.691961                      0.840292       0.853518   0.155927      0.970439   0.999889
+
+n frozen thresholds = 9
+validation coverage = 1.0 for all splits
+STATUS: FROZEN

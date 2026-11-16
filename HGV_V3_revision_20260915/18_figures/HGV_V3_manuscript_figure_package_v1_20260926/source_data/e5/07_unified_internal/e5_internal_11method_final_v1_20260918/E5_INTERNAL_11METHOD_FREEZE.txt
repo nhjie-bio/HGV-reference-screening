@@ -1,0 +1,41 @@
+HGV-V3 E5 Internal 11-Method Freeze v1
+
+Scope:
+Internal fixed-pair G2/G3/G4 benchmark.
+
+Methods:
+11
+
+Split-level rows:
+99
+
+Protocol-summary rows:
+33
+
+Primary-table rows:
+33
+
+Long-format rows:
+363
+
+DNABERT-S:
+included
+n_model_seeds=1
+coverage=complete
+metric_scope=all_test_pairs
+
+HGV:
+3 model seeds averaged within each taxonomy split.
+
+Primary cross-split variability:
+3 taxonomy split seeds.
+
+FastANI/skani:
+retain frozen conditional/covered-only evaluation semantics.
+Missing native scores are not imputed.
+
+External B1/B2:
+not finalized by this internal freeze.
+
+STATUS:
+FROZEN

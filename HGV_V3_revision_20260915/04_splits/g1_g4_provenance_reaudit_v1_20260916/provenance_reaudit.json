@@ -1,0 +1,15 @@
+{
+  "A_external_biosample_overlap": 0,
+  "A_external_canonical_hash_overlap": 0,
+  "A_external_file_md5_overlap": 0,
+  "A_external_paired_assembly_edges": 0,
+  "development_A": 2374,
+  "duplicate_canonical_hash_groups": 0,
+  "duplicate_file_md5_groups": 0,
+  "external": 780,
+  "final_genomes": 3154,
+  "parsed_paired_assembly_edges": 0,
+  "split_failed_checks": 0,
+  "split_manifests_audited": 10,
+  "status": "PASS"
+}

@@ -1,0 +1,6 @@
+HGV-V3 E6 MECHANISM / GEOMETRY SUMMARY v1
+Input predictions: HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922/06_canonical_g2_test_v1_20260924/E6_G2_TEST_PAIR_PREDICTIONS_LONG.tsv
+Input SHA256: 1a056f420deaa20654b310894dcff04424bac67c8f37f636fe51ec2be0725858
+Cells: 30 = 6 modes x 5 model seeds
+This stage performs no training, threshold selection, or test-driven tuning.
+D4 is evaluated as the shuffled-teacher control against the TRUE frozen Dashing2 teacher; D5 retains its no-L2 semantics from frozen E6.

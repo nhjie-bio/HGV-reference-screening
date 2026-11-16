@@ -1,0 +1,44 @@
+E5 Unified Baseline Benchmark v1
+Freeze date: 2026-09-17
+
+NO retraining or retuning of HGV is permitted.
+
+Methods:
+1. HGV-V3
+2. Raw-k6 Bray-Curtis
+3. Raw-k6 Cosine
+4. Raw-k6 Euclidean
+5. PCA64 Euclidean
+6. PCA64 L2
+7. Mash
+8. Dashing2 SetSketch
+9. skani
+10. FastANI
+11. DNABERT-S
+
+INTERNAL TASK:
+G2/G3/G4 fixed blind-test pair manifests
+split seeds:
+20260915
+20260916
+20260917
+
+EXTERNAL REFERENCE:
+Development A = 2374 genomes
+
+EXTERNAL QUERIES:
+B1 = 391
+B2 seen-genus = 196
+B2 unseen-genus = 193
+
+External tasks:
+B1: species retrieval
+B2 seen-genus: genus/family hierarchical retrieval
+B2 unseen-genus: family retrieval where eligible
+
+Frozen rule:
+All methods use exactly the existing frozen pair/query/reference tasks.
+No method-specific resampling.
+No external tuning.
+Missing ANI/sketch outputs remain missing and coverage is reported.
+Runtime preprocessing/build/query are recorded separately.

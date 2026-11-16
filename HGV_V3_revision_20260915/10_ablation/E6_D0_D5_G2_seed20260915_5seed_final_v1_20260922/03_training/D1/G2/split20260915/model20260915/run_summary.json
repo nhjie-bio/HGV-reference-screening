@@ -1,0 +1,18 @@
+{
+  "best_checkpoint_reason": "contrastive_tiebreak",
+  "best_epoch": 9,
+  "epochs_ran": 17,
+  "external_used": false,
+  "model_seed": 20260915,
+  "protocol": "G2",
+  "split_seed": 20260915,
+  "status": "PASS",
+  "test_used": false,
+  "train_pairs": 18176,
+  "val_AUPRC": 1.0,
+  "val_AUROC": 1.0,
+  "val_contrastive_loss": 0.01263305451720953,
+  "val_distill_loss": 0.19643500447273254,
+  "val_pairs": 3874,
+  "val_selection_score": 1.0
+}

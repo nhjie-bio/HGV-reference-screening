@@ -1,0 +1,48 @@
+================================================================================
+HGV-V3 E6 VALIDATION THRESHOLD FREEZE REPORT
+================================================================================
+
+STATUS: PASS
+
+Protocol: G2
+Split seed: 20260915
+Frozen thresholds: 30
+
+Threshold source:
+  saved validation predictions only
+
+Score:
+  similarity_score
+
+Decision rule:
+  similarity_score >= threshold
+
+Candidate thresholds:
+  1. nextafter(max score, +inf)
+  2. midpoint between adjacent unique score groups
+  3. nextafter(min score, -inf)
+
+Selection:
+  1. maximum validation MCC
+  2. higher Balanced Accuracy
+  3. higher F1
+  4. threshold closest to 0.5
+  5. lower numerical threshold
+
+D3 frozen-main parity:
+  seeds 20260915/20260916/20260917 = PASS
+
+Test used: NO
+External used: NO
+Retraining: NO
+Post-test tuning: NO
+
+Threshold summary by mode:
+  D0: n=5 mean=0.8964073718 sd=0.0361965398 min=0.8435300887 max=0.9354444146
+  D1: n=5 mean=0.8012619197 sd=0.0277993018 min=0.7699909508 max=0.8418787718
+  D2: n=5 mean=0.8867056191 sd=0.0276821583 min=0.8422486186 max=0.9099627137
+  D3: n=5 mean=0.7967720151 sd=0.0249902238 min=0.7605034113 max=0.8214997649
+  D4: n=5 mean=0.8616151452 sd=0.0409273796 min=0.7944912016 max=0.9064132571
+  D5: n=5 mean=0.6489880681 sd=0.0214094220 min=0.6241319776 max=0.6678027511
+
+E6_30CELL_VALIDATION_THRESHOLD_FREEZE=PASS

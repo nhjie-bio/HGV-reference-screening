@@ -1,0 +1,1 @@
+SKIPPED_NO_FROZEN_TREE: no formal GTDB tree retained in the cleaned V3 source-of-truth; no phylogeny reconstruction claim is made.

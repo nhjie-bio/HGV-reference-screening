@@ -1,0 +1,13 @@
+HGV-V3 E6 FINAL FREEZE v1
+E6 locked test: HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922/06_canonical_g2_test_v1_20260924
+Mechanism summary: HGV_V3_revision_20260915/10_ablation/E6_D0_D5_G2_seed20260915_5seed_final_v1_20260922/07_mechanism_geometry_v1_20260925_v6
+Formal statistics: HGV_V3_revision_20260915/17_statistics/E6_species_block_bootstrap_v1_20260925_v6
+
+E6 does not support an unconditional statement that D3 improves every ablation comparator on both primary metrics. Report the comparator-specific deltas/CIs/p-values and use geometry/mechanism wording where strict improvement is unsupported.
+
+Immutable rules retained:
+- canonical G2 split_seed=20260915
+- D0-D5 5 model seeds
+- validation-derived thresholds only
+- no test/external retuning
+- historical E6 v1/v2 excluded from manuscript evidence

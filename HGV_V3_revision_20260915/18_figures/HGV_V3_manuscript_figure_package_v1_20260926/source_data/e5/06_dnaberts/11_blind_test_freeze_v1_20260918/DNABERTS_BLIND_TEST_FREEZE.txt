@@ -1,0 +1,63 @@
+HGV-V3 E5 DNABERT-S Blind Test Freeze v1
+Date: 2026-09-18
+
+Source:
+HGV_V3_revision_20260915/09_baselines/E5_unified_baseline_v1_20260917/06_dnaberts/10_blind_test_evaluation_v1_20260918
+
+Method:
+DNABERT-S
+
+Evaluation:
+G2 species holdout
+G3 genus holdout
+G4 family holdout
+
+Split seeds:
+20260915
+20260916
+20260917
+
+Threshold source:
+frozen validation-only thresholds
+
+Threshold retuning on test:
+none
+
+Coverage:
+1.0 for all nine test splits
+
+Total test pair occurrences:
+34882
+
+Primary statistical variability unit:
+three taxonomy split seeds per protocol
+
+Model seeds:
+1
+DNABERT-S baseline is deterministic under the frozen inference protocol.
+
+Protocol summaries:
+
+G2
+AUROC = 0.930822 +/- 0.056472
+AUPRC = 0.904571 +/- 0.089035
+MCC   = 0.826918 +/- 0.087158
+BAcc  = 0.906451 +/- 0.048568
+F1    = 0.915057 +/- 0.042186
+
+G3
+AUROC = 0.908744 +/- 0.022761
+AUPRC = 0.881269 +/- 0.044008
+MCC   = 0.689429 +/- 0.047825
+BAcc  = 0.831267 +/- 0.030665
+F1    = 0.851362 +/- 0.021008
+
+G4
+AUROC = 0.902373 +/- 0.019926
+AUPRC = 0.886895 +/- 0.027364
+MCC   = 0.636967 +/- 0.027327
+BAcc  = 0.805753 +/- 0.014800
+F1    = 0.828702 +/- 0.012183
+
+STATUS:
+FROZEN

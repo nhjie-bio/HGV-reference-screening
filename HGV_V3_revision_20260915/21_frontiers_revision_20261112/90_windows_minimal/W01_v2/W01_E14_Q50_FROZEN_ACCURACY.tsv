@@ -1,0 +1,9 @@
+method	model_seed	n_query	top1_correct	top1_accuracy_pct	provenance
+HGV_Dashing2_tau0p98	20260915	50	49	98.0	recomputed from existing frozen predictions
+HGV_Dashing2_tau0p98	20260916	50	49	98.0	recomputed from existing frozen predictions
+HGV_Dashing2_tau0p98	20260917	50	49	98.0	recomputed from existing frozen predictions
+PCA64_Euclidean	fixed	50	48	96.0	recomputed from existing frozen predictions
+PCA64_L2	fixed	50	48	96.0	recomputed from existing frozen predictions
+RawK6_BrayCurtis	fixed	50	49	98.0	recomputed from existing frozen predictions
+RawK6_Cosine	fixed	50	49	98.0	recomputed from existing frozen predictions
+RawK6_Euclidean	fixed	50	49	98.0	recomputed from existing frozen predictions

@@ -1,0 +1,21 @@
+HGV-V3 CANONICAL VALIDATION THRESHOLD FREEZE
+==============================================================================
+
+STATUS: PASS
+
+G1 test used: NO
+External B1/B2 used: NO
+
+Frozen HGV thresholds: 3
+Frozen baseline thresholds: 5
+Total thresholds: 8
+
+G1 train genomes for PCA: 1662
+PCA refit on validation: NO
+PCA fit scope: G1 TRAIN genomes only
+
+Threshold selection:
+  maximum validation MCC
+  tie-break BalancedAccuracy -> F1 -> closest to 0.5 -> lower threshold
+
+CANONICAL_VALIDATION_THRESHOLD_FREEZE=PASS

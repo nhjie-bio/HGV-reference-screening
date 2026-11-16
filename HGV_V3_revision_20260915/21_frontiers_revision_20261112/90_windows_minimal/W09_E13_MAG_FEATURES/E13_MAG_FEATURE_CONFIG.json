@@ -1,0 +1,30 @@
+{
+  "experiment": "E13 real MAG validation",
+  "feature_version": "canonical_k6_v1",
+  "feature_shape": [
+    80,
+    2080
+  ],
+  "feature_dtype": "float32",
+  "n_mag": 80,
+  "source_mag_manifest_sha256": "10567e45ec5c3047124359df0606b126eb338f2289c3717cf25b4dcb4163f13e",
+  "validated_w07_script_sha256": "bea691ded072f7c133e16ed9b72588db7b9204421c02e13ace9cd007e06d8347",
+  "feature_matrix_sha256": "800cb85bef6c5a86fc61bfe905a7fb8913a4a67d2438ff4c7f52491d14eb19c8",
+  "quality_bin_counts": {
+    "50-70": 20,
+    "70-80": 20,
+    "80-90": 20,
+    "90-100": 20
+  },
+  "taxonomic_target_counts": {
+    "species": 40,
+    "genus": 24,
+    "family": 16
+  },
+  "elapsed_feature_extraction_seconds": 58.05928290000884,
+  "training_performed": false,
+  "model_inference_performed": false,
+  "reference_genomes_recomputed": false,
+  "reference_near_duplicate_screen": "PENDING",
+  "independent_taxonomy_validation": "PENDING"
+}

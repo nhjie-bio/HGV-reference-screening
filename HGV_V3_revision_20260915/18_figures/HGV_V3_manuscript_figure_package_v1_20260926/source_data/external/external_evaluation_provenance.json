@@ -1,0 +1,23 @@
+{
+  "B1": 391,
+  "B2_seen_genus": 196,
+  "B2_unseen_genus": 193,
+  "G1_test_used": false,
+  "HGV_model_seeds": [
+    20260915,
+    20260916,
+    20260917
+  ],
+  "PCA_file_sha256": "518e2bbe76aa9a4ef0d3848ff91fea82f33f4349ef9f71834e93887768d1f4e1",
+  "external_manifest_sha256": "6e556a672c3ea27711a405a8558c8e9e0b838e97e78d7e422890b6a80574b08d",
+  "external_queries": 780,
+  "external_tuning": false,
+  "numpy": "2.0.2",
+  "platform": "Linux-6.14.0-37-generic-x86_64-with-glibc2.39",
+  "protocol_sha256": "befe8671758cf9b3f93d841e13978f76929afadda16a08d9124c8b7db77c9c71",
+  "python": "3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12) \n[GCC 13.3.0]",
+  "reference_genomes": 2374,
+  "status": "PASS",
+  "threshold_file_sha256": "26319c34f0278453c827f67805b2d42b507451286e1c1812c1986ff72481da2a",
+  "torch": "2.8.0+cu128"
+}

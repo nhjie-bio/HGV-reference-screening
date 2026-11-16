@@ -1,0 +1,4 @@
+W07_FEATURE_PARITY=PASS
+Samples=3
+No models loaded or modified.
+No MAG downloaded.

@@ -1,0 +1,5 @@
+HGV-V3 E8 FRAGMENTATION ROBUSTNESS v1
+No model retraining is performed. The frozen full-assembly G2 D3 models are evaluated on reduced sequence amount.
+Conditions: full, 100kb, 50kb, 20kb, 5kb, 5x5kb.
+Fragment selection is deterministic by accession+condition; k-mers never cross contig or sampled-fragment boundaries.
+The original full-assembly validation-derived threshold is retained for every fragmentation condition; no fragment-specific threshold is selected.

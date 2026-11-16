@@ -1,0 +1,9 @@
+E12_V1_REAL_FASTA_TIMING_STATUS=DO_NOT_USE
+REASON=final FASTA payloads are gzip-compressed but the v1 plain C++ extractor did not decompress gzip
+VECTOR_MICROBENCHMARK_V1_STATUS=RETAINABLE
+E12_V2_REAL_FASTA_INPUT=gzip FASTA via zlib-aware canonical-kmer extractor
+REFERENCE=A development cohort
+QUERY=B1 first 50 deterministic sorted accessions
+N=100,500,1000,2000,2374
+REPEATS=3
+TEST_TUNING=NOT_APPLICABLE

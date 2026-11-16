@@ -1,0 +1,14 @@
+hostname=<REDACTED_HOST>
+date=2026-09-22T23:01:30+08:00
+pwd=HGV_V3_revision_20260915
+python=<CONDA_ROOT>/envs/hgv_env/bin/python3
+Python 3.9.23
+
+CONDA_DEFAULT_ENV=hgv_env
+
+python 3.9.23 | packaged by conda-forge | (main, Jun  4 2025, 17:57:12)  [GCC 13.3.0]
+numpy 2.0.2
+sklearn 1.6.1
+torch 2.8.0+cu128
+cuda_available True
+cuda_device NVIDIA GeForce RTX 3060

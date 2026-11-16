@@ -1,0 +1,54 @@
+E5 Core + Native Internal Blind-Test Merge v1
+====================================================================================
+
+Statistical replicate unit:
+  taxonomy split seed
+
+For HGV, 3 model seeds were averaged within each taxonomy split before cross-split aggregation.
+Raw/PCA baselines are deterministic and contribute one score per split.
+Native baselines likewise contribute one score per split.
+No run-level pooling was used.
+
+Core frozen summary reproduction:
+  PASS: 18/18 rows and all reported metrics reproduced.
+
+Unified split-level rows: 90
+Unified protocol-summary rows: 30
+Methods: 10
+
+FastANI/skani metrics remain reported-pair-only metrics; missing scores were not imputed.
+Coverage must accompany their AUROC/AUPRC/MCC/F1/BAcc values.
+
+              method protocol  coverage_mean  positive_coverage_mean  negative_coverage_mean  AUROC_mean  AUROC_sd_split_seed  AUPRC_mean  AUPRC_sd_split_seed  MCC_mean  MCC_sd_split_seed  F1_mean  BalancedAccuracy_mean        metric_scope
+HGV_Dashing2_tau0p98       G2       1.000000                     1.0                1.000000    0.984543         1.271587e-02    0.982942             0.013687  0.875852           0.068751 0.937670               0.933813      all_test_pairs
+HGV_Dashing2_tau0p98       G3       1.000000                     1.0                1.000000    0.994819         5.117580e-03    0.994646             0.005236  0.915087           0.041030 0.955910               0.956597      all_test_pairs
+HGV_Dashing2_tau0p98       G4       1.000000                     1.0                1.000000    0.990895         6.167770e-03    0.990458             0.006604  0.894009           0.053359 0.945337               0.945221      all_test_pairs
+    RawK6_BrayCurtis       G2       1.000000                     1.0                1.000000    0.982281         2.273081e-02    0.982499             0.022027  0.871371           0.067376 0.933849               0.930888      all_test_pairs
+    RawK6_BrayCurtis       G3       1.000000                     1.0                1.000000    0.998228         2.351758e-03    0.998278             0.002278  0.909412           0.039947 0.950350               0.952407      all_test_pairs
+    RawK6_BrayCurtis       G4       1.000000                     1.0                1.000000    0.995542         3.901088e-03    0.995472             0.003940  0.906195           0.076978 0.951911               0.951315      all_test_pairs
+        RawK6_Cosine       G2       1.000000                     1.0                1.000000    0.981644         2.451460e-02    0.981762             0.024232  0.873705           0.068402 0.935299               0.932178      all_test_pairs
+        RawK6_Cosine       G3       1.000000                     1.0                1.000000    0.996605         5.343084e-03    0.996611             0.005342  0.885892           0.076163 0.934107               0.939047      all_test_pairs
+        RawK6_Cosine       G4       1.000000                     1.0                1.000000    0.995711         3.805410e-03    0.995644             0.003840  0.909499           0.074579 0.953771               0.953028      all_test_pairs
+     RawK6_Euclidean       G2       1.000000                     1.0                1.000000    0.983058         2.548282e-02    0.983371             0.024954  0.896027           0.089489 0.948394               0.944483      all_test_pairs
+     RawK6_Euclidean       G3       1.000000                     1.0                1.000000    0.998720         2.092133e-03    0.998738             0.002065  0.880180           0.077602 0.930294               0.935598      all_test_pairs
+     RawK6_Euclidean       G4       1.000000                     1.0                1.000000    0.994806         4.513896e-03    0.994652             0.004631  0.880577           0.101364 0.934724               0.936827      all_test_pairs
+     PCA64_Euclidean       G2       1.000000                     1.0                1.000000    0.979511         2.549920e-02    0.978741             0.026042  0.901243           0.093756 0.950943               0.946806      all_test_pairs
+     PCA64_Euclidean       G3       1.000000                     1.0                1.000000    0.997031         4.672215e-03    0.996907             0.004899  0.934815           0.048406 0.967210               0.966951      all_test_pairs
+     PCA64_Euclidean       G4       1.000000                     1.0                1.000000    0.994491         4.960755e-03    0.994330             0.004983  0.929793           0.074167 0.965322               0.963465      all_test_pairs
+            PCA64_L2       G2       1.000000                     1.0                1.000000    0.976512         2.285759e-02    0.975170             0.023065  0.872926           0.068034 0.934817               0.931748      all_test_pairs
+            PCA64_L2       G3       1.000000                     1.0                1.000000    0.991022         1.083080e-02    0.989844             0.012610  0.860018           0.169013 0.913461               0.924360      all_test_pairs
+            PCA64_L2       G4       1.000000                     1.0                1.000000    0.995553         4.144733e-03    0.995515             0.004108  0.911095           0.045595 0.954734               0.954252      all_test_pairs
+                Mash       G2       1.000000                     1.0                1.000000    1.000000         0.000000e+00    1.000000             0.000000  0.996576           0.005931 0.998270               0.998279      all_test_pairs
+                Mash       G3       1.000000                     1.0                1.000000    1.000000         0.000000e+00    1.000000             0.000000  0.997271           0.003876 0.998627               0.998631      all_test_pairs
+                Mash       G4       1.000000                     1.0                1.000000    1.000000         0.000000e+00    1.000000             0.000000  0.995697           0.002849 0.997836               0.997842      all_test_pairs
+  Dashing2_SetSketch       G2       1.000000                     1.0                1.000000    1.000000         1.570092e-16    1.000000             0.000000  0.995555           0.007698 0.997748               0.997763      all_test_pairs
+  Dashing2_SetSketch       G3       1.000000                     1.0                1.000000    1.000000         0.000000e+00    1.000000             0.000000  0.997613           0.002131 0.998802               0.998804      all_test_pairs
+  Dashing2_SetSketch       G4       1.000000                     1.0                1.000000    1.000000         0.000000e+00    1.000000             0.000000  0.994674           0.003786 0.997318               0.997327      all_test_pairs
+             FastANI       G2       0.685192                     1.0                0.370383    1.000000         0.000000e+00    1.000000             0.000000  0.997783           0.003839 0.999310               0.999312 reported_pairs_only
+             FastANI       G3       0.767162                     1.0                0.534323    1.000000         0.000000e+00    1.000000             0.000000  1.000000           0.000000 1.000000               1.000000 reported_pairs_only
+             FastANI       G4       0.800642                     1.0                0.601284    1.000000         0.000000e+00    1.000000             0.000000  0.996987           0.004086 0.998882               0.998884 reported_pairs_only
+               skani       G2       0.574275                     1.0                0.148550    1.000000         0.000000e+00    1.000000             0.000000  0.994130           0.010167 0.999224               0.999226 reported_pairs_only
+               skani       G3       0.607118                     1.0                0.214235    1.000000         0.000000e+00    1.000000             0.000000  1.000000           0.000000 1.000000               1.000000 reported_pairs_only
+               skani       G4       0.580811                     1.0                0.161622    1.000000         0.000000e+00    1.000000             0.000000  0.990754           0.016014 0.998339               0.998347 reported_pairs_only
+
+STATUS: PASS

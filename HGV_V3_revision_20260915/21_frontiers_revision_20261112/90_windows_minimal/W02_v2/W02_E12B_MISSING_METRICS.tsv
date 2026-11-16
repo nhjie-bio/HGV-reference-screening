@@ -1,0 +1,4 @@
+method	metric	original_value	status
+FastANI	build_s_median		NOT_REPORTED
+FastANI	warm_query_s_median		NOT_REPORTED
+FastANI	reference_index_MiB		NOT_REPORTED

@@ -1,0 +1,56 @@
+HGV-V3 E5 Internal 11-Method Final Merge v1
+========================================================================================
+
+Scope:
+G2 species holdout
+G3 genus holdout
+G4 family holdout
+
+This freeze covers the internal G2/G3/G4 benchmark block. It does not by itself finalize external B1/B2 validation.
+
+Methods: 11
+Split-level rows: 99
+Protocol-summary rows: 33
+Primary-table rows: 33
+Long-format rows: 363
+
+Primary variability unit:
+taxonomy split seed (3 seeds per protocol)
+
+Replicate structure:
+- HGV: 3 model seeds averaged within each taxonomy split before cross-split summary.
+- deterministic baselines: n_model_seeds=1.
+- DNABERT-S: frozen pretrained deterministic baseline, n_model_seeds=1.
+
+Coverage interpretation:
+- complete methods are evaluated on all fixed test pairs.
+- native ANI methods retain their previous frozen covered-only/conditional metric scope and coverage reporting.
+- no missing native ANI scores are imputed.
+
+DNABERT-S PRIMARY RESULTS
+----------------------------------------------------------------------------------------
+   method      method_type protocol  coverage_mean  coverage_sd_split_seed  positive_coverage_mean  negative_coverage_mean  AUROC_mean  AUROC_sd_split_seed  AUPRC_mean  AUPRC_sd_split_seed  MCC_mean  MCC_sd_split_seed  F1_mean  F1_sd_split_seed  BalancedAccuracy_mean  BalancedAccuracy_sd_split_seed   metric_scope coverage_type
+DNABERT-S PretrainedDNA_LM       G2            1.0                     0.0                     1.0                     1.0    0.930822             0.056472    0.904571             0.089035  0.826918           0.087158 0.915057          0.042186               0.906451                        0.048568 all_test_pairs      complete
+DNABERT-S PretrainedDNA_LM       G3            1.0                     0.0                     1.0                     1.0    0.908744             0.022761    0.881269             0.044008  0.689429           0.047825 0.851362          0.021008               0.831267                        0.030665 all_test_pairs      complete
+DNABERT-S PretrainedDNA_LM       G4            1.0                     0.0                     1.0                     1.0    0.902373             0.019926    0.886895             0.027364  0.636967           0.027327 0.828702          0.012183               0.805753                        0.014800 all_test_pairs      complete
+
+METHODS
+----------------------------------------------------------------------------------------
+DNABERT-S
+Dashing2_SetSketch
+FastANI
+HGV_Dashing2_tau0p98
+Mash
+PCA64_Euclidean
+PCA64_L2
+RawK6_BrayCurtis
+RawK6_Cosine
+RawK6_Euclidean
+skani
+
+Frozen prior Core+Native rows preserved unchanged: PASS
+DNABERT-S 26I reproduction: PASS
+Final row-count audits: PASS
+Final duplicate-key audits: PASS
+
+STATUS: FROZEN

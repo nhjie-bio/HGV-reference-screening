@@ -1,0 +1,111 @@
+HGV-V3 FINAL MODEL CONFIGURATION FREEZE
+========================================
+
+Freeze date: 2026-09-16
+
+MODEL
+-----
+Input:
+  canonical RC-invariant k=6 composition
+  dimension = 2080
+
+Encoder:
+  2080 -> 256 -> 128 -> 64
+
+Hidden normalization:
+  BatchNorm
+
+Pair training implementation:
+  BN-safe concatenated endpoint forward
+
+Output:
+  L2-normalized 64-D embedding
+
+TRAINING
+--------
+Primary objective:
+  contrastive loss
+
+Margin:
+  1.0
+
+Teacher:
+  Dashing2 SetSketch
+
+Teacher tau:
+  0.98
+
+Distillation weight:
+  lambda_dist = 0.25
+
+Optimizer:
+  AdamW
+
+Learning rate:
+  5e-4
+
+Weight decay:
+  1e-4
+
+Pair batch size:
+  512
+
+Training examples per epoch:
+  100000
+  50000 positive
+  50000 negative
+  sampled with replacement from frozen unique pools
+
+Maximum epochs:
+  50
+
+Early stopping patience:
+  8
+
+Checkpoint selection:
+  primary = validation mean(AUROC, AUPRC)
+  tie-break under ranking ceiling = minimum validation contrastive loss
+
+Seeds:
+  20260915
+  20260916
+  20260917
+
+VALIDATION-BASED TEACHER SELECTION
+----------------------------------
+Primary selection metric:
+  positive-only ANI Spearman correlation
+
+D0:
+  0.543911 +/- 0.019335
+
+Dashing2 tau=0.90:
+  0.571378 +/- 0.038065
+
+Dashing2 tau=0.95:
+  0.577897 +/- 0.048782
+
+Dashing2 tau=0.98:
+  0.587694 +/- 0.021123
+
+Mash tau=0.90:
+  0.556739 +/- 0.042094
+
+Selected configuration:
+  Dashing2 tau=0.98
+
+TEST STATUS AT FREEZE
+---------------------
+G2 test:
+  NOT USED
+
+G3 test:
+  NOT USED
+
+G4 test:
+  NOT USED
+
+External B1/B2:
+  NOT USED
+
+FINAL_CONFIG_FREEZE=PASS

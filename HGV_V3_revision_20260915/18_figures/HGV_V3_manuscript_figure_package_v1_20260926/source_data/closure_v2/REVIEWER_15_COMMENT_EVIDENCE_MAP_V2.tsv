@@ -1,0 +1,16 @@
+reviewer_id	need	evidence	status	manuscript_target
+R1-1	>1000 genomes + cross-dataset validation	E0-E4; 3154 genomes; A=2374; external=780	EVIDENCE_READY	Methods Data; Results Generalization; Fig.2
+R1-2	strong baselines + accuracy/runtime/memory	E5 + E12-v2 + final runtime closure	EVIDENCE_READY	Results Baselines; Table 2-3
+R1-3	biological interpretation/use case	E10 ANI/taxonomy/tree + E11 screening	EVIDENCE_GAP	Results Biological fidelity; screening
+R1-4	model explainability	E9 attribution + confound audit	EVIDENCE_READY	Supplementary / explainability
+R1-5	CI/p-values/sensitivity/ablation	E6 statistics + E7-v2	EVIDENCE_READY	Fig.3-4 + Supplement
+R1-6	generalization across broader taxa	G2/G3/G4 + B1/B2	EVIDENCE_READY	Results Generalization
+R1-7	scalability credibility	E12-v2 real gzip FASTA + vector microbenchmark	EVIDENCE_READY	Fig.6 / Table 3
+R1-8	clear novelty statement	writing-only: contributions rewrite	READY_FOR_WRITING	Introduction
+R1-9	updated literature	writing-only: 2020-2026 literature update	READY_FOR_WRITING	Introduction / Discussion
+R1-10	writing and clarity	writing-only	READY_FOR_WRITING	whole manuscript
+R3-1	broader taxonomic coverage	E0-E4	EVIDENCE_READY	Data / Generalization
+R3-2	MinHash / embedding baselines	Mash, Dashing2, DNABERT-S, skani, FastANI, Raw/PCA	EVIDENCE_READY	Table 2-3
+R3-3	suggested image preprocessing citation	writing-only domain-scope response	READY_FOR_WRITING	Rebuttal
+R3-4	selective vs full vs no distillation	E6 D0-D5	EVIDENCE_READY	Fig.3
+R3-5	teacher fidelity	E6 teacher controls + E10 ANI fidelity	EVIDENCE_READY	Fig.3 / Fig.5

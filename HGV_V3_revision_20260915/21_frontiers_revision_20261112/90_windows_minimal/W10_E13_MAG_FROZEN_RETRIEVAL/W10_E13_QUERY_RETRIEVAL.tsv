@@ -1,0 +1,481 @@
+method	accession	quality_bin	target_level	target_taxon	completeness	contamination	first_relevant_rank	R1	R5	R20	top1_reference	top1_reference_target_taxon	top1_distance
+HGV_seed20260915	GCA_949461025.1	50-70	species	s__Phocaeicola vulgatus	62.210	0.160	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.09700113657
+HGV_seed20260915	GCA_047024075.1	50-70	species	s__Mediterraneibacter faecis	59.290	0.000	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.1833594622
+HGV_seed20260915	GCA_949438145.1	50-70	species	s__Akkermansia muciniphila	51.630	0.120	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.03304019968
+HGV_seed20260915	GCA_949480135.1	50-70	species	s__Parabacteroides distasonis	63.940	0.510	1	1	1	1	GCF_024759645.1	s__Parabacteroides distasonis	0.08831191849
+HGV_seed20260915	GCA_949527775.1	50-70	species	s__Phocaeicola vulgatus	66.630	0.080	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.0461276517
+HGV_seed20260915	GCA_938074225.1	50-70	species	s__Stenotrophomonas maltophilia	65.510	1.150	1	1	1	1	GCF_041294385.1	s__Stenotrophomonas maltophilia	0.3662247491
+HGV_seed20260915	GCA_949544425.1	50-70	species	s__Akkermansia muciniphila	58.280	0.060	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.02462099752
+HGV_seed20260915	GCA_023457635.1	50-70	species	s__Aliarcobacter skirrowii	58.380	0.450	1	1	1	1	GCF_033796345.1	s__Aliarcobacter skirrowii	0.1390671554
+HGV_seed20260915	GCA_046709825.1	50-70	species	s__Pseudoalteromonas distincta	69.840	0.120	1	1	1	1	GCF_014918315.1	s__Pseudoalteromonas distincta	0.2071775395
+HGV_seed20260915	GCA_022650165.1	50-70	species	s__Lacticaseibacillus paracasei	67.910	0.000	1	1	1	1	GCF_000829035.1	s__Lacticaseibacillus paracasei	0.155979552
+HGV_seed20260915	GCA_905204725.1	50-70	genus	g__Bifidobacterium	65.890	0.890	1	1	1	1	GCF_020541865.1	g__Bifidobacterium	0.1974815132
+HGV_seed20260915	GCA_041845475.1	50-70	genus	g__Porphyromonas	67.560	0.810	1483	0	0	0	GCF_023066195.1	g__Flavobacterium	0.8672260909
+HGV_seed20260915	GCA_905201685.1	50-70	genus	g__Bacteroides	55.500	0.190	1	1	1	1	GCF_024760085.1	g__Bacteroides	0.6276215663
+HGV_seed20260915	GCA_948923355.1	50-70	genus	g__Bacteroides	64.950	0.630	1	1	1	1	GCF_009734165.1	g__Bacteroides	0.5628670484
+HGV_seed20260915	GCA_958435405.1	50-70	genus	g__Alistipes	65.920	0.040	102	0	0	0	GCF_021378725.1	g__Eggerthella	0.7615927149
+HGV_seed20260915	GCA_032162845.1	50-70	genus	g__Mycobacterium	69.500	1.890	1	1	1	1	GCF_000445035.1	g__Mycobacterium	0.7336492745
+HGV_seed20260915	GCA_949498825.1	50-70	family	f__Oscillospiraceae	57.850	0.170	1	1	1	1	GCF_020181555.1	f__Oscillospiraceae	0.4475959329
+HGV_seed20260915	GCA_949094115.1	50-70	family	f__Lachnospiraceae	66.890	0.760	61	0	0	0	GCF_028328695.1	f__Marinifilaceae	0.4660767306
+HGV_seed20260915	GCA_948838125.1	50-70	family	f__Lachnospiraceae	55.130	1.000	47	0	0	0	GCF_002887275.1	f__Weeksellaceae	0.5812318854
+HGV_seed20260915	GCA_948674785.1	50-70	family	f__Bacteroidaceae	60.020	0.040	35	0	0	0	GCF_019469205.1	f__Orbaceae	0.6915316576
+HGV_seed20260915	GCA_008667935.1	70-80	species	s__Mediterraneibacter faecis	79.840	2.720	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.2803533586
+HGV_seed20260915	GCA_052309555.1	70-80	species	s__Blautia_A faecis	72.380	2.380	1	1	1	1	GCF_015554365.1	s__Blautia_A faecis	0.3001012402
+HGV_seed20260915	GCA_018059005.1	70-80	species	s__Akkermansia massiliensis	73.800	1.120	1	1	1	1	GCF_045011645.1	s__Akkermansia massiliensis	0.1348665918
+HGV_seed20260915	GCA_052108315.1	70-80	species	s__Lactiplantibacillus plantarum	73.860	2.070	1	1	1	1	GCF_002174195.1	s__Lactiplantibacillus plantarum	0.0786321256
+HGV_seed20260915	GCA_949540585.1	70-80	species	s__Phocaeicola vulgatus	74.400	0.390	1	1	1	1	GCF_020885715.1	s__Phocaeicola vulgatus	0.08177601835
+HGV_seed20260915	GCA_948876955.1	70-80	species	s__Phocaeicola vulgatus	71.140	3.200	1	1	1	1	GCF_020885775.1	s__Phocaeicola vulgatus	0.1112705877
+HGV_seed20260915	GCA_037045485.1	70-80	species	s__Bifidobacterium adolescentis	78.980	2.090	1	1	1	1	GCF_029855065.1	s__Bifidobacterium adolescentis	0.1562525742
+HGV_seed20260915	GCA_023442145.1	70-80	species	s__Bacteroides uniformis	78.280	3.030	1	1	1	1	GCF_024760085.1	s__Bacteroides uniformis	0.1875869218
+HGV_seed20260915	GCA_963519165.1	70-80	species	s__Fusobacterium polymorphum	70.710	2.320	1	1	1	1	GCF_037897495.1	s__Fusobacterium polymorphum	0.4510249846
+HGV_seed20260915	GCA_949547765.1	70-80	species	s__Bacteroides thetaiotaomicron	78.120	3.060	1	1	1	1	GCF_041014885.1	s__Bacteroides thetaiotaomicron	0.1454771692
+HGV_seed20260915	GCA_037275265.1	70-80	genus	g__Alistipes	70.940	0.190	1	1	1	1	GCF_025145285.1	g__Alistipes	0.7865681729
+HGV_seed20260915	GCA_023454855.1	70-80	genus	g__Brachyspira	70.960	0.980	61	0	0	0	GCF_965184075.1	g__Methylopumilus	0.4928929831
+HGV_seed20260915	GCA_948915575.1	70-80	genus	g__Alistipes	79.310	0.140	1	1	1	1	GCF_025145285.1	g__Alistipes	0.7186325382
+HGV_seed20260915	GCA_963509955.1	70-80	genus	g__Corynebacterium	70.160	0.800	218	0	0	0	GCF_000429885.1	g__Dermatophilus	0.5197833928
+HGV_seed20260915	GCA_963539785.1	70-80	genus	g__Porphyromonas	75.500	0.330	1	1	1	1	GCF_002754035.1	g__Porphyromonas	0.6669758307
+HGV_seed20260915	GCA_048400405.1	70-80	genus	g__Mediterraneibacter	79.530	0.010	465	0	0	0	GCF_025151215.1	g__Parabacteroides	0.4894565504
+HGV_seed20260915	GCA_017623935.1	70-80	family	f__Lachnospiraceae	79.970	0.850	13	0	0	1	GCF_015767715.1	f__Enterococcaceae	0.4526862292
+HGV_seed20260915	GCA_913020745.1	70-80	family	f__Pseudomonadaceae	71.980	0.220	83	0	0	0	GCF_019047025.1	f__Enterobacteriaceae	0.7306802506
+HGV_seed20260915	GCA_037264915.1	70-80	family	f__Bacteroidaceae	77.700	0.720	1	1	1	1	GCF_024760085.1	f__Bacteroidaceae	0.7359462743
+HGV_seed20260915	GCA_036650595.1	70-80	family	f__Enterobacteriaceae	78.040	1.040	623	0	0	0	GCF_001592705.1	f__Legionellaceae	0.5329190509
+HGV_seed20260915	GCA_052370595.1	80-90	species	s__Faecalibacterium prausnitzii	80.850	0.520	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.2122950079
+HGV_seed20260915	GCA_037456395.1	80-90	species	s__Faecalibacterium duncaniae	86.180	0.920	1	1	1	1	GCF_002586945.1	s__Faecalibacterium duncaniae	0.2115546115
+HGV_seed20260915	GCA_002471165.1	80-90	species	s__Acinetobacter nosocomialis	89.670	0.290	1	1	1	1	GCF_041021935.1	s__Acinetobacter nosocomialis	0.07725865909
+HGV_seed20260915	GCA_934202755.1	80-90	species	s__Turicibacter sanguinis	86.550	0.390	1	1	1	1	GCF_028325185.1	s__Turicibacter sanguinis	0.01361375052
+HGV_seed20260915	GCA_020054375.1	80-90	species	s__Enterococcus faecalis	87.360	0.720	1	1	1	1	GCF_050540995.1	s__Enterococcus faecalis	0.06843769259
+HGV_seed20260915	GCA_032474695.1	80-90	species	s__Staphylococcus epidermidis	85.820	1.790	1	1	1	1	GCF_003325735.1	s__Staphylococcus epidermidis	0.07216986342
+HGV_seed20260915	GCA_003507255.1	80-90	species	s__Phocaeicola vulgatus	81.180	0.200	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.1209089905
+HGV_seed20260915	GCA_022723275.1	80-90	species	s__Bifidobacterium breve	80.340	5.000	1	1	1	1	GCF_002838745.1	s__Bifidobacterium breve	0.1852798621
+HGV_seed20260915	GCA_948663795.1	80-90	species	s__Akkermansia muciniphila	89.140	2.020	1	1	1	1	GCF_010223405.1	s__Akkermansia muciniphila	0.04149831752
+HGV_seed20260915	GCA_031983265.1	80-90	species	s__Klebsiella pneumoniae	88.670	0.670	1	1	1	1	GCF_001952835.1	s__Klebsiella pneumoniae	0.07797937082
+HGV_seed20260915	GCA_048241515.1	80-90	genus	g__Bifidobacterium	83.440	2.520	1	1	1	1	GCF_036872545.1	g__Bifidobacterium	0.2184500252
+HGV_seed20260915	GCA_035295025.1	80-90	genus	g__Bradyrhizobium	86.170	2.030	77	0	0	0	GCF_009875895.1	g__Collinsella	0.4637954277
+HGV_seed20260915	GCA_947245685.1	80-90	genus	g__Parabacteroides	85.530	1.360	1	1	1	1	GCF_006739545.1	g__Parabacteroides	0.08574946527
+HGV_seed20260915	GCA_048507615.1	80-90	genus	g__Bacteroides	86.520	4.050	1	1	1	1	GCF_009734165.1	g__Bacteroides	0.4882116109
+HGV_seed20260915	GCA_902755525.1	80-90	genus	g__Hominimerdicola	86.650	0.530	85	0	0	0	GCF_032142815.1	g__Blautia_A	0.5961358025
+HGV_seed20260915	GCA_049791715.1	80-90	genus	g__Micromonospora	89.260	3.380	14	0	0	1	GCF_042800675.1	g__Microbacterium	0.332365357
+HGV_seed20260915	GCA_949433585.1	80-90	family	f__Lachnospiraceae	84.920	1.560	133	0	0	0	GCF_009679965.1	f__Ruminococcaceae	0.6435504952
+HGV_seed20260915	GCA_949098555.1	80-90	family	f__Lachnospiraceae	85.940	3.110	1	1	1	1	GCF_003459025.1	f__Lachnospiraceae	0.7374102614
+HGV_seed20260915	GCA_948482635.1	80-90	family	f__Lachnospiraceae	82.350	3.150	138	0	0	0	GCF_009679965.1	f__Ruminococcaceae	0.665651569
+HGV_seed20260915	GCA_037266885.1	80-90	family	f__Bacteroidaceae	83.910	0.170	92	0	0	0	GCF_020541965.1	f__Streptococcaceae	0.7303753856
+HGV_seed20260915	GCA_963634065.1	90-100	species	s__Bifidobacterium adolescentis	96.130	2.170	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.05800972743
+HGV_seed20260915	GCA_040758555.1	90-100	species	s__Cutibacterium acnes	99.990	0.930	1	1	1	1	GCF_003812785.1	s__Cutibacterium acnes	0.01648548919
+HGV_seed20260915	GCA_037312185.1	90-100	species	s__Bifidobacterium adolescentis	99.820	0.140	1	1	1	1	GCF_029855065.1	s__Bifidobacterium adolescentis	0.1152750335
+HGV_seed20260915	GCA_948631515.1	90-100	species	s__Akkermansia muciniphila	100.000	0.240	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.04890406728
+HGV_seed20260915	GCA_963543465.1	90-100	species	s__Porphyromonas gingivalis	95.650	0.000	1	1	1	1	GCF_002754035.1	s__Porphyromonas gingivalis	0.07899726412
+HGV_seed20260915	GCA_948796545.1	90-100	species	s__Akkermansia muciniphila	100.000	0.270	1	1	1	1	GCF_018847215.1	s__Akkermansia muciniphila	0.03814470079
+HGV_seed20260915	GCA_048405945.1	90-100	species	s__Faecalibacterium prausnitzii	93.500	4.510	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1615220699
+HGV_seed20260915	GCA_946223405.1	90-100	species	s__Stenotrophomonas maltophilia	91.120	2.570	1	1	1	1	GCF_028891445.1	s__Stenotrophomonas maltophilia	0.1283139662
+HGV_seed20260915	GCA_902644875.1	90-100	species	s__Wolbachia pipientis	98.510	1.150	1	1	1	1	GCF_964031025.1	s__Wolbachia pipientis	0.2314572435
+HGV_seed20260915	GCA_902636375.1	90-100	species	s__Wolbachia pipientis	97.010	0.200	1	1	1	1	GCF_964031025.1	s__Wolbachia pipientis	0.1157664127
+HGV_seed20260915	GCA_947447375.1	90-100	genus	g__Flavobacterium	95.740	0.010	90	0	0	0	GCF_027864255.1	g__Listeria	0.5349534364
+HGV_seed20260915	GCA_902493725.1	90-100	genus	g__Alistipes	97.950	0.280	416	0	0	0	GCF_003312465.1	g__Faecalibacterium	0.8868957869
+HGV_seed20260915	GCA_048368755.1	90-100	genus	g__Faecalibacterium	99.630	0.360	37	0	0	0	GCF_015553885.1	g__Flavonifractor	0.7291419291
+HGV_seed20260915	GCA_034131585.1	90-100	genus	g__Bacteroides	94.830	1.210	1	1	1	1	GCF_009734165.1	g__Bacteroides	0.4394625682
+HGV_seed20260915	GCA_963822655.1	90-100	genus	g__Mycobacterium	97.930	0.100	1	1	1	1	GCF_003076795.1	g__Mycobacterium	0.490036884
+HGV_seed20260915	GCA_035566355.1	90-100	genus	g__Pedobacter	94.320	2.620	663	0	0	0	GCF_964027025.1	g__Wolbachia	0.3785402952
+HGV_seed20260915	GCA_902486935.1	90-100	family	f__Lachnospiraceae	99.910	1.790	1	1	1	1	GCF_001404755.1	f__Lachnospiraceae	0.7569159215
+HGV_seed20260915	GCA_948628605.1	90-100	family	f__Ruminococcaceae	92.510	4.870	13	0	0	1	GCF_010508875.1	f__Oscillospiraceae	0.4590662749
+HGV_seed20260915	GCA_945910525.1	90-100	family	f__Lachnospiraceae	100.000	1.870	1	1	1	1	GCF_025148125.1	f__Lachnospiraceae	0.6362246191
+HGV_seed20260915	GCA_948507895.1	90-100	family	f__Lachnospiraceae	99.550	0.630	13	0	0	1	GCF_029537015.2	f__Bacillaceae_H	0.7500667787
+HGV_seed20260916	GCA_949461025.1	50-70	species	s__Phocaeicola vulgatus	62.210	0.160	1	1	1	1	GCF_036419465.1	s__Phocaeicola vulgatus	0.05409612241
+HGV_seed20260916	GCA_047024075.1	50-70	species	s__Mediterraneibacter faecis	59.290	0.000	1	1	1	1	GCF_027669685.1	s__Mediterraneibacter faecis	0.1346223686
+HGV_seed20260916	GCA_949438145.1	50-70	species	s__Akkermansia muciniphila	51.630	0.120	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.1655011188
+HGV_seed20260916	GCA_949480135.1	50-70	species	s__Parabacteroides distasonis	63.940	0.510	1	1	1	1	GCF_051904065.1	s__Parabacteroides distasonis	0.09458737663
+HGV_seed20260916	GCA_949527775.1	50-70	species	s__Phocaeicola vulgatus	66.630	0.080	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.05811251687
+HGV_seed20260916	GCA_938074225.1	50-70	species	s__Stenotrophomonas maltophilia	65.510	1.150	1	1	1	1	GCF_002951115.1	s__Stenotrophomonas maltophilia	0.07578428561
+HGV_seed20260916	GCA_949544425.1	50-70	species	s__Akkermansia muciniphila	58.280	0.060	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.1226292002
+HGV_seed20260916	GCA_023457635.1	50-70	species	s__Aliarcobacter skirrowii	58.380	0.450	1	1	1	1	GCF_025335865.1	s__Aliarcobacter skirrowii	0.09897060885
+HGV_seed20260916	GCA_046709825.1	50-70	species	s__Pseudoalteromonas distincta	69.840	0.120	1	1	1	1	GCF_030710225.1	s__Pseudoalteromonas distincta	0.132532227
+HGV_seed20260916	GCA_022650165.1	50-70	species	s__Lacticaseibacillus paracasei	67.910	0.000	1	1	1	1	GCF_015377585.1	s__Lacticaseibacillus paracasei	0.1047224156
+HGV_seed20260916	GCA_905204725.1	50-70	genus	g__Bifidobacterium	65.890	0.890	1	1	1	1	GCF_020541885.1	g__Bifidobacterium	0.1018949838
+HGV_seed20260916	GCA_041845475.1	50-70	genus	g__Porphyromonas	67.560	0.810	479	0	0	0	GCF_000012825.1	g__Phocaeicola	0.7837730954
+HGV_seed20260916	GCA_905201685.1	50-70	genus	g__Bacteroides	55.500	0.190	1	1	1	1	GCF_013874375.1	g__Bacteroides	0.3670737182
+HGV_seed20260916	GCA_948923355.1	50-70	genus	g__Bacteroides	64.950	0.630	1	1	1	1	GCF_024759225.1	g__Bacteroides	0.3154672057
+HGV_seed20260916	GCA_958435405.1	50-70	genus	g__Alistipes	65.920	0.040	193	0	0	0	GCF_022845935.1	g__Eggerthella	0.3141939026
+HGV_seed20260916	GCA_032162845.1	50-70	genus	g__Mycobacterium	69.500	1.890	59	0	0	0	GCF_036873195.1	g__Streptomyces	0.2813109191
+HGV_seed20260916	GCA_949498825.1	50-70	family	f__Oscillospiraceae	57.850	0.170	1	1	1	1	GCF_042854215.1	f__Oscillospiraceae	0.2480712057
+HGV_seed20260916	GCA_949094115.1	50-70	family	f__Lachnospiraceae	66.890	0.760	83	0	0	0	GCF_001870065.1	f__Bacillaceae_C	0.5535907971
+HGV_seed20260916	GCA_948838125.1	50-70	family	f__Lachnospiraceae	55.130	1.000	13	0	0	1	GCF_003184245.1	f__Bacillaceae_C	0.6157376796
+HGV_seed20260916	GCA_948674785.1	50-70	family	f__Bacteroidaceae	60.020	0.040	35	0	0	0	GCF_015554045.1	f__Tannerellaceae	0.563209922
+HGV_seed20260916	GCA_008667935.1	70-80	species	s__Mediterraneibacter faecis	79.840	2.720	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.3062291563
+HGV_seed20260916	GCA_052309555.1	70-80	species	s__Blautia_A faecis	72.380	2.380	1	1	1	1	GCF_040908925.1	s__Blautia_A faecis	0.2379835429
+HGV_seed20260916	GCA_018059005.1	70-80	species	s__Akkermansia massiliensis	73.800	1.120	1	1	1	1	GCF_045011645.1	s__Akkermansia massiliensis	0.06013274205
+HGV_seed20260916	GCA_052108315.1	70-80	species	s__Lactiplantibacillus plantarum	73.860	2.070	1	1	1	1	GCF_002174195.1	s__Lactiplantibacillus plantarum	0.1183182181
+HGV_seed20260916	GCA_949540585.1	70-80	species	s__Phocaeicola vulgatus	74.400	0.390	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.09993465642
+HGV_seed20260916	GCA_948876955.1	70-80	species	s__Phocaeicola vulgatus	71.140	3.200	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.1168465105
+HGV_seed20260916	GCA_037045485.1	70-80	species	s__Bifidobacterium adolescentis	78.980	2.090	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.1030552443
+HGV_seed20260916	GCA_023442145.1	70-80	species	s__Bacteroides uniformis	78.280	3.030	1	1	1	1	GCF_044361425.1	s__Bacteroides uniformis	0.1159188743
+HGV_seed20260916	GCA_963519165.1	70-80	species	s__Fusobacterium polymorphum	70.710	2.320	1	1	1	1	GCF_037906365.1	s__Fusobacterium polymorphum	0.1712375268
+HGV_seed20260916	GCA_949547765.1	70-80	species	s__Bacteroides thetaiotaomicron	78.120	3.060	1	1	1	1	GCF_024758905.1	s__Bacteroides thetaiotaomicron	0.09557294691
+HGV_seed20260916	GCA_037275265.1	70-80	genus	g__Alistipes	70.940	0.190	288	0	0	0	GCF_049860725.1	g__Ralstonia	0.2767043032
+HGV_seed20260916	GCA_023454855.1	70-80	genus	g__Brachyspira	70.960	0.980	13	0	0	1	GCF_040790775.1	g__Borreliella	0.4711021545
+HGV_seed20260916	GCA_948915575.1	70-80	genus	g__Alistipes	79.310	0.140	651	0	0	0	GCF_042852915.1	g__Faecalibacterium	0.6102595536
+HGV_seed20260916	GCA_963509955.1	70-80	genus	g__Corynebacterium	70.160	0.800	708	0	0	0	GCF_900187045.1	g__Dermatophilus	0.5402497081
+HGV_seed20260916	GCA_963539785.1	70-80	genus	g__Porphyromonas	75.500	0.330	71	0	0	0	GCF_029773505.1	g__Aeromonas	0.6383454472
+HGV_seed20260916	GCA_048400405.1	70-80	genus	g__Mediterraneibacter	79.530	0.010	866	0	0	0	GCF_039759155.1	g__Blautia_A	0.5543124409
+HGV_seed20260916	GCA_017623935.1	70-80	family	f__Lachnospiraceae	79.970	0.850	277	0	0	0	GCF_000021525.1	f__Rickettsiaceae	0.6461215751
+HGV_seed20260916	GCA_913020745.1	70-80	family	f__Pseudomonadaceae	71.980	0.220	76	0	0	0	GCF_040939785.1	f__Xanthobacteraceae	0.3656431543
+HGV_seed20260916	GCA_037264915.1	70-80	family	f__Bacteroidaceae	77.700	0.720	1	1	1	1	GCF_017309675.2	f__Bacteroidaceae	0.6031557453
+HGV_seed20260916	GCA_036650595.1	70-80	family	f__Enterobacteriaceae	78.040	1.040	435	0	0	0	GCF_020181695.1	f__Paenibacillaceae	0.417059841
+HGV_seed20260916	GCA_052370595.1	80-90	species	s__Faecalibacterium prausnitzii	80.850	0.520	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1720572471
+HGV_seed20260916	GCA_037456395.1	80-90	species	s__Faecalibacterium duncaniae	86.180	0.920	1	1	1	1	GCF_002586945.1	s__Faecalibacterium duncaniae	0.2713853634
+HGV_seed20260916	GCA_002471165.1	80-90	species	s__Acinetobacter nosocomialis	89.670	0.290	1	1	1	1	GCF_019048685.1	s__Acinetobacter nosocomialis	0.06811219747
+HGV_seed20260916	GCA_934202755.1	80-90	species	s__Turicibacter sanguinis	86.550	0.390	1	1	1	1	GCF_025595115.1	s__Turicibacter sanguinis	0.03054370447
+HGV_seed20260916	GCA_020054375.1	80-90	species	s__Enterococcus faecalis	87.360	0.720	1	1	1	1	GCF_050541555.1	s__Enterococcus faecalis	0.02969591615
+HGV_seed20260916	GCA_032474695.1	80-90	species	s__Staphylococcus epidermidis	85.820	1.790	1	1	1	1	GCF_045937765.1	s__Staphylococcus epidermidis	0.08876884375
+HGV_seed20260916	GCA_003507255.1	80-90	species	s__Phocaeicola vulgatus	81.180	0.200	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.110977131
+HGV_seed20260916	GCA_022723275.1	80-90	species	s__Bifidobacterium breve	80.340	5.000	1	1	1	1	GCF_013267755.1	s__Bifidobacterium breve	0.3654391058
+HGV_seed20260916	GCA_948663795.1	80-90	species	s__Akkermansia muciniphila	89.140	2.020	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.06758344147
+HGV_seed20260916	GCA_031983265.1	80-90	species	s__Klebsiella pneumoniae	88.670	0.670	1	1	1	1	GCF_001952835.1	s__Klebsiella pneumoniae	0.04426765
+HGV_seed20260916	GCA_048241515.1	80-90	genus	g__Bifidobacterium	83.440	2.520	1	1	1	1	GCF_036872545.1	g__Bifidobacterium	0.3106605711
+HGV_seed20260916	GCA_035295025.1	80-90	genus	g__Bradyrhizobium	86.170	2.030	76	0	0	0	GCF_004319505.1	g__Xanthomonas	0.5912560138
+HGV_seed20260916	GCA_947245685.1	80-90	genus	g__Parabacteroides	85.530	1.360	1	1	1	1	GCF_051904065.1	g__Parabacteroides	0.08319980872
+HGV_seed20260916	GCA_048507615.1	80-90	genus	g__Bacteroides	86.520	4.050	1	1	1	1	GCF_024759225.1	g__Bacteroides	0.3013594502
+HGV_seed20260916	GCA_902755525.1	80-90	genus	g__Hominimerdicola	86.650	0.530	62	0	0	0	GCF_003184245.1	g__Weizmannia	0.5931001873
+HGV_seed20260916	GCA_049791715.1	80-90	genus	g__Micromonospora	89.260	3.380	85	0	0	0	GCF_050907895.1	g__Comamonas	0.2234622655
+HGV_seed20260916	GCA_949433585.1	80-90	family	f__Lachnospiraceae	84.920	1.560	213	0	0	0	GCF_050920505.1	f__Treponemataceae	0.6144041602
+HGV_seed20260916	GCA_949098555.1	80-90	family	f__Lachnospiraceae	85.940	3.110	83	0	0	0	GCF_007012325.1	f__Bacteroidaceae	0.3313355324
+HGV_seed20260916	GCA_948482635.1	80-90	family	f__Lachnospiraceae	82.350	3.150	305	0	0	0	GCF_000604125.1	f__Treponemataceae	0.5961373209
+HGV_seed20260916	GCA_037266885.1	80-90	family	f__Bacteroidaceae	83.910	0.170	1	1	1	1	GCF_013874375.1	f__Bacteroidaceae	0.5334031462
+HGV_seed20260916	GCA_963634065.1	90-100	species	s__Bifidobacterium adolescentis	96.130	2.170	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.03964502999
+HGV_seed20260916	GCA_040758555.1	90-100	species	s__Cutibacterium acnes	99.990	0.930	1	1	1	1	GCF_029338475.1	s__Cutibacterium acnes	0.008718641419
+HGV_seed20260916	GCA_037312185.1	90-100	species	s__Bifidobacterium adolescentis	99.820	0.140	1	1	1	1	GCF_017815835.1	s__Bifidobacterium adolescentis	0.06352069117
+HGV_seed20260916	GCA_948631515.1	90-100	species	s__Akkermansia muciniphila	100.000	0.240	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.07491940521
+HGV_seed20260916	GCA_963543465.1	90-100	species	s__Porphyromonas gingivalis	95.650	0.000	1	1	1	1	GCF_002754015.1	s__Porphyromonas gingivalis	0.1091785491
+HGV_seed20260916	GCA_948796545.1	90-100	species	s__Akkermansia muciniphila	100.000	0.270	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.07962979362
+HGV_seed20260916	GCA_048405945.1	90-100	species	s__Faecalibacterium prausnitzii	93.500	4.510	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1917894035
+HGV_seed20260916	GCA_946223405.1	90-100	species	s__Stenotrophomonas maltophilia	91.120	2.570	1	1	1	1	GCF_012971765.1	s__Stenotrophomonas maltophilia	0.03385999668
+HGV_seed20260916	GCA_902644875.1	90-100	species	s__Wolbachia pipientis	98.510	1.150	13	0	0	1	GCF_000833455.1	s__Francisella philomiragia	0.1828014977
+HGV_seed20260916	GCA_902636375.1	90-100	species	s__Wolbachia pipientis	97.010	0.200	1	1	1	1	GCF_964026835.1	s__Wolbachia pipientis	0.1828814532
+HGV_seed20260916	GCA_947447375.1	90-100	genus	g__Flavobacterium	95.740	0.010	3	0	1	1	GCF_027682325.1	g__Megamonas	0.7512326012
+HGV_seed20260916	GCA_902493725.1	90-100	genus	g__Alistipes	97.950	0.280	667	0	0	0	GCF_020541865.1	g__Bifidobacterium	0.4809099727
+HGV_seed20260916	GCA_048368755.1	90-100	genus	g__Faecalibacterium	99.630	0.360	1	1	1	1	GCF_002586945.1	g__Faecalibacterium	0.4085577824
+HGV_seed20260916	GCA_034131585.1	90-100	genus	g__Bacteroides	94.830	1.210	1	1	1	1	GCF_024759965.1	g__Bacteroides	0.334054147
+HGV_seed20260916	GCA_963822655.1	90-100	genus	g__Mycobacterium	97.930	0.100	71	0	0	0	GCF_036873195.1	g__Streptomyces	0.2872547779
+HGV_seed20260916	GCA_035566355.1	90-100	genus	g__Pedobacter	94.320	2.620	103	0	0	0	GCF_029203955.1	g__Paenibacillus	0.3633044488
+HGV_seed20260916	GCA_902486935.1	90-100	family	f__Lachnospiraceae	99.910	1.790	51	0	0	0	GCF_012317185.1	f__Erysipelotrichaceae	0.4674511219
+HGV_seed20260916	GCA_948628605.1	90-100	family	f__Ruminococcaceae	92.510	4.870	67	0	0	0	GCF_042854215.1	f__Oscillospiraceae	0.2961093314
+HGV_seed20260916	GCA_945910525.1	90-100	family	f__Lachnospiraceae	100.000	1.870	1	1	1	1	GCF_009881425.1	f__Lachnospiraceae	0.6206399492
+HGV_seed20260916	GCA_948507895.1	90-100	family	f__Lachnospiraceae	99.550	0.630	55	0	0	0	GCF_030168555.1	f__Bacteroidaceae	0.334474233
+HGV_seed20260917	GCA_949461025.1	50-70	species	s__Phocaeicola vulgatus	62.210	0.160	1	1	1	1	GCF_036419465.1	s__Phocaeicola vulgatus	0.06888643073
+HGV_seed20260917	GCA_047024075.1	50-70	species	s__Mediterraneibacter faecis	59.290	0.000	1	1	1	1	GCF_027669685.1	s__Mediterraneibacter faecis	0.1872715714
+HGV_seed20260917	GCA_949438145.1	50-70	species	s__Akkermansia muciniphila	51.630	0.120	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.08860103652
+HGV_seed20260917	GCA_949480135.1	50-70	species	s__Parabacteroides distasonis	63.940	0.510	1	1	1	1	GCF_051904065.1	s__Parabacteroides distasonis	0.1065836404
+HGV_seed20260917	GCA_949527775.1	50-70	species	s__Phocaeicola vulgatus	66.630	0.080	1	1	1	1	GCF_047777885.1	s__Phocaeicola vulgatus	0.03323514653
+HGV_seed20260917	GCA_938074225.1	50-70	species	s__Stenotrophomonas maltophilia	65.510	1.150	1	1	1	1	GCF_041294385.1	s__Stenotrophomonas maltophilia	0.1454810409
+HGV_seed20260917	GCA_949544425.1	50-70	species	s__Akkermansia muciniphila	58.280	0.060	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.07675120515
+HGV_seed20260917	GCA_023457635.1	50-70	species	s__Aliarcobacter skirrowii	58.380	0.450	1	1	1	1	GCF_033796225.1	s__Aliarcobacter skirrowii	0.08654629025
+HGV_seed20260917	GCA_046709825.1	50-70	species	s__Pseudoalteromonas distincta	69.840	0.120	1	1	1	1	GCF_005877035.1	s__Pseudoalteromonas distincta	0.1422580723
+HGV_seed20260917	GCA_022650165.1	50-70	species	s__Lacticaseibacillus paracasei	67.910	0.000	1	1	1	1	GCF_034079445.1	s__Lacticaseibacillus paracasei	0.1071802888
+HGV_seed20260917	GCA_905204725.1	50-70	genus	g__Bifidobacterium	65.890	0.890	1	1	1	1	GCF_020541885.1	g__Bifidobacterium	0.1332017198
+HGV_seed20260917	GCA_041845475.1	50-70	genus	g__Porphyromonas	67.560	0.810	480	0	0	0	GCF_014191695.1	g__Streptococcus	0.5887650191
+HGV_seed20260917	GCA_905201685.1	50-70	genus	g__Bacteroides	55.500	0.190	1	1	1	1	GCF_006742345.1	g__Bacteroides	0.5160241059
+HGV_seed20260917	GCA_948923355.1	50-70	genus	g__Bacteroides	64.950	0.630	1	1	1	1	GCF_020091525.1	g__Bacteroides	0.3958571754
+HGV_seed20260917	GCA_958435405.1	50-70	genus	g__Alistipes	65.920	0.040	1	1	1	1	GCF_040247385.1	g__Alistipes	0.4523880153
+HGV_seed20260917	GCA_032162845.1	50-70	genus	g__Mycobacterium	69.500	1.890	139	0	0	0	GCF_023101105.1	g__Bradyrhizobium	0.4995712167
+HGV_seed20260917	GCA_949498825.1	50-70	family	f__Oscillospiraceae	57.850	0.170	1	1	1	1	GCF_028321425.1	f__Oscillospiraceae	0.3803840715
+HGV_seed20260917	GCA_949094115.1	50-70	family	f__Lachnospiraceae	66.890	0.760	13	0	0	1	GCF_020736405.1	f__Marinifilaceae	0.4023483476
+HGV_seed20260917	GCA_948838125.1	50-70	family	f__Lachnospiraceae	55.130	1.000	13	0	0	1	GCF_020736405.1	f__Marinifilaceae	0.432189853
+HGV_seed20260917	GCA_948674785.1	50-70	family	f__Bacteroidaceae	60.020	0.040	57	0	0	0	GCF_015558365.1	f__Ruminococcaceae	0.5710727829
+HGV_seed20260917	GCA_008667935.1	70-80	species	s__Mediterraneibacter faecis	79.840	2.720	1	1	1	1	GCF_027669685.1	s__Mediterraneibacter faecis	0.3470070699
+HGV_seed20260917	GCA_052309555.1	70-80	species	s__Blautia_A faecis	72.380	2.380	1	1	1	1	GCF_040908925.1	s__Blautia_A faecis	0.3270177183
+HGV_seed20260917	GCA_018059005.1	70-80	species	s__Akkermansia massiliensis	73.800	1.120	1	1	1	1	GCF_018847375.1	s__Akkermansia massiliensis	0.0763430813
+HGV_seed20260917	GCA_052108315.1	70-80	species	s__Lactiplantibacillus plantarum	73.860	2.070	1	1	1	1	GCF_037290055.1	s__Lactiplantibacillus plantarum	0.1314784932
+HGV_seed20260917	GCA_949540585.1	70-80	species	s__Phocaeicola vulgatus	74.400	0.390	1	1	1	1	GCF_020091465.1	s__Phocaeicola vulgatus	0.08746224449
+HGV_seed20260917	GCA_948876955.1	70-80	species	s__Phocaeicola vulgatus	71.140	3.200	1	1	1	1	GCF_024759565.1	s__Phocaeicola vulgatus	0.1099401063
+HGV_seed20260917	GCA_037045485.1	70-80	species	s__Bifidobacterium adolescentis	78.980	2.090	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.04983993692
+HGV_seed20260917	GCA_023442145.1	70-80	species	s__Bacteroides uniformis	78.280	3.030	1	1	1	1	GCF_044361425.1	s__Bacteroides uniformis	0.1592332819
+HGV_seed20260917	GCA_963519165.1	70-80	species	s__Fusobacterium polymorphum	70.710	2.320	1	1	1	1	GCF_037893865.1	s__Fusobacterium polymorphum	0.1224284048
+HGV_seed20260917	GCA_949547765.1	70-80	species	s__Bacteroides thetaiotaomicron	78.120	3.060	1	1	1	1	GCF_024758905.1	s__Bacteroides thetaiotaomicron	0.1414163379
+HGV_seed20260917	GCA_037275265.1	70-80	genus	g__Alistipes	70.940	0.190	13	0	0	1	GCF_025560345.1	g__Agrobacterium	0.6080011551
+HGV_seed20260917	GCA_023454855.1	70-80	genus	g__Brachyspira	70.960	0.980	14	0	0	1	GCF_001572745.1	g__Coxiella	1.011279198
+HGV_seed20260917	GCA_948915575.1	70-80	genus	g__Alistipes	79.310	0.140	527	0	0	0	GCF_003459795.1	g__Collinsella	0.4377489062
+HGV_seed20260917	GCA_963509955.1	70-80	genus	g__Corynebacterium	70.160	0.800	253	0	0	0	GCF_900187045.1	g__Dermatophilus	0.532488393
+HGV_seed20260917	GCA_963539785.1	70-80	genus	g__Porphyromonas	75.500	0.330	715	0	0	0	GCF_025258945.1	g__Vibrio	0.774163086
+HGV_seed20260917	GCA_048400405.1	70-80	genus	g__Mediterraneibacter	79.530	0.010	486	0	0	0	GCF_020091365.1	g__Parabacteroides	0.6242702883
+HGV_seed20260917	GCA_017623935.1	70-80	family	f__Lachnospiraceae	79.970	0.850	40	0	0	0	GCF_964031185.1	f__Anaplasmataceae	0.62741209
+HGV_seed20260917	GCA_913020745.1	70-80	family	f__Pseudomonadaceae	71.980	0.220	192	0	0	0	GCF_900475685.1	f__Xanthomonadaceae	0.4552373859
+HGV_seed20260917	GCA_037264915.1	70-80	family	f__Bacteroidaceae	77.700	0.720	1	1	1	1	GCF_044361425.1	f__Bacteroidaceae	0.814154914
+HGV_seed20260917	GCA_036650595.1	70-80	family	f__Enterobacteriaceae	78.040	1.040	124	0	0	0	GCF_013357725.1	f__Vibrionaceae	0.473895248
+HGV_seed20260917	GCA_052370595.1	80-90	species	s__Faecalibacterium prausnitzii	80.850	0.520	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1290908027
+HGV_seed20260917	GCA_037456395.1	80-90	species	s__Faecalibacterium duncaniae	86.180	0.920	1	1	1	1	GCF_002586945.1	s__Faecalibacterium duncaniae	0.1657136039
+HGV_seed20260917	GCA_002471165.1	80-90	species	s__Acinetobacter nosocomialis	89.670	0.290	1	1	1	1	GCF_015602685.1	s__Acinetobacter nosocomialis	0.1692100925
+HGV_seed20260917	GCA_934202755.1	80-90	species	s__Turicibacter sanguinis	86.550	0.390	1	1	1	1	GCF_028325305.1	s__Turicibacter sanguinis	0.02395836698
+HGV_seed20260917	GCA_020054375.1	80-90	species	s__Enterococcus faecalis	87.360	0.720	1	1	1	1	GCF_040436435.1	s__Enterococcus faecalis	0.04142733248
+HGV_seed20260917	GCA_032474695.1	80-90	species	s__Staphylococcus epidermidis	85.820	1.790	1	1	1	1	GCF_052063145.1	s__Staphylococcus epidermidis	0.04460620245
+HGV_seed20260917	GCA_003507255.1	80-90	species	s__Phocaeicola vulgatus	81.180	0.200	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.09340445484
+HGV_seed20260917	GCA_022723275.1	80-90	species	s__Bifidobacterium breve	80.340	5.000	1	1	1	1	GCF_024665435.1	s__Bifidobacterium breve	0.259770567
+HGV_seed20260917	GCA_948663795.1	80-90	species	s__Akkermansia muciniphila	89.140	2.020	1	1	1	1	GCF_018847115.1	s__Akkermansia muciniphila	0.07486439514
+HGV_seed20260917	GCA_031983265.1	80-90	species	s__Klebsiella pneumoniae	88.670	0.670	1	1	1	1	GCF_001952835.1	s__Klebsiella pneumoniae	0.04110583376
+HGV_seed20260917	GCA_048241515.1	80-90	genus	g__Bifidobacterium	83.440	2.520	1	1	1	1	GCF_036872545.1	g__Bifidobacterium	0.2630857546
+HGV_seed20260917	GCA_035295025.1	80-90	genus	g__Bradyrhizobium	86.170	2.030	558	0	0	0	GCF_001610655.1	g__Mycobacterium	0.622875241
+HGV_seed20260917	GCA_947245685.1	80-90	genus	g__Parabacteroides	85.530	1.360	1	1	1	1	GCF_018292145.1	g__Parabacteroides	0.1266956728
+HGV_seed20260917	GCA_048507615.1	80-90	genus	g__Bacteroides	86.520	4.050	1	1	1	1	GCF_020091525.1	g__Bacteroides	0.3831924482
+HGV_seed20260917	GCA_902755525.1	80-90	genus	g__Hominimerdicola	86.650	0.530	13	0	0	1	GCF_000307345.1	g__Parabacteroides	0.4895224653
+HGV_seed20260917	GCA_049791715.1	80-90	genus	g__Micromonospora	89.260	3.380	28	0	0	0	GCF_040028385.1	g__Kocuria	0.2234085794
+HGV_seed20260917	GCA_949433585.1	80-90	family	f__Lachnospiraceae	84.920	1.560	83	0	0	0	GCF_040909185.1	f__Tannerellaceae	0.5945758707
+HGV_seed20260917	GCA_949098555.1	80-90	family	f__Lachnospiraceae	85.940	3.110	119	0	0	0	GCF_013874375.1	f__Bacteroidaceae	0.4335148125
+HGV_seed20260917	GCA_948482635.1	80-90	family	f__Lachnospiraceae	82.350	3.150	85	0	0	0	GCF_040909185.1	f__Tannerellaceae	0.6137604939
+HGV_seed20260917	GCA_037266885.1	80-90	family	f__Bacteroidaceae	83.910	0.170	18	0	0	1	GCF_017655665.1	f__Carnobacteriaceae_A	0.6702355365
+HGV_seed20260917	GCA_963634065.1	90-100	species	s__Bifidobacterium adolescentis	96.130	2.170	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.02113365161
+HGV_seed20260917	GCA_040758555.1	90-100	species	s__Cutibacterium acnes	99.990	0.930	1	1	1	1	GCF_003812785.1	s__Cutibacterium acnes	0.01246758882
+HGV_seed20260917	GCA_037312185.1	90-100	species	s__Bifidobacterium adolescentis	99.820	0.140	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.03488197116
+HGV_seed20260917	GCA_948631515.1	90-100	species	s__Akkermansia muciniphila	100.000	0.240	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.06529126049
+HGV_seed20260917	GCA_963543465.1	90-100	species	s__Porphyromonas gingivalis	95.650	0.000	1	1	1	1	GCF_002754015.1	s__Porphyromonas gingivalis	0.1568816333
+HGV_seed20260917	GCA_948796545.1	90-100	species	s__Akkermansia muciniphila	100.000	0.270	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.04517936838
+HGV_seed20260917	GCA_048405945.1	90-100	species	s__Faecalibacterium prausnitzii	93.500	4.510	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1166421683
+HGV_seed20260917	GCA_946223405.1	90-100	species	s__Stenotrophomonas maltophilia	91.120	2.570	1	1	1	1	GCF_012971765.1	s__Stenotrophomonas maltophilia	0.05891309326
+HGV_seed20260917	GCA_902644875.1	90-100	species	s__Wolbachia pipientis	98.510	1.150	1	1	1	1	GCF_964026835.1	s__Wolbachia pipientis	0.1833661571
+HGV_seed20260917	GCA_902636375.1	90-100	species	s__Wolbachia pipientis	97.010	0.200	1	1	1	1	GCF_964026835.1	s__Wolbachia pipientis	0.1548809931
+HGV_seed20260917	GCA_947447375.1	90-100	genus	g__Flavobacterium	95.740	0.010	1327	0	0	0	GCF_003004175.1	g__Legionella	0.7495961481
+HGV_seed20260917	GCA_902493725.1	90-100	genus	g__Alistipes	97.950	0.280	990	0	0	0	GCF_018617255.1	g__Exiguobacterium	0.6652215461
+HGV_seed20260917	GCA_048368755.1	90-100	genus	g__Faecalibacterium	99.630	0.360	195	0	0	0	GCF_050995055.1	g__Brevundimonas	0.4080939052
+HGV_seed20260917	GCA_034131585.1	90-100	genus	g__Bacteroides	94.830	1.210	1	1	1	1	GCF_018292045.1	g__Bacteroides	0.3977965929
+HGV_seed20260917	GCA_963822655.1	90-100	genus	g__Mycobacterium	97.930	0.100	193	0	0	0	GCF_023101105.1	g__Bradyrhizobium	0.5269820143
+HGV_seed20260917	GCA_035566355.1	90-100	genus	g__Pedobacter	94.320	2.620	1	1	1	1	GCF_044760875.1	g__Pedobacter	0.6323113793
+HGV_seed20260917	GCA_902486935.1	90-100	family	f__Lachnospiraceae	99.910	1.790	141	0	0	0	GCF_018291785.1	f__Bacteroidaceae	0.4216053408
+HGV_seed20260917	GCA_948628605.1	90-100	family	f__Ruminococcaceae	92.510	4.870	1	1	1	1	GCF_023347355.1	f__Ruminococcaceae	0.4347384009
+HGV_seed20260917	GCA_945910525.1	90-100	family	f__Lachnospiraceae	100.000	1.870	8	0	0	1	GCF_030123045.1	f__DSM-1321	0.3765287388
+HGV_seed20260917	GCA_948507895.1	90-100	family	f__Lachnospiraceae	99.550	0.630	142	0	0	0	GCF_013488105.1	f__Streptococcaceae	0.4530314717
+HGV_3seed_ensemble	GCA_949461025.1	50-70	species	s__Phocaeicola vulgatus	62.210	0.160	1	1	1	1	GCF_036419465.1	s__Phocaeicola vulgatus	0.0735268817
+HGV_3seed_ensemble	GCA_047024075.1	50-70	species	s__Mediterraneibacter faecis	59.290	0.000	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.169745711
+HGV_3seed_ensemble	GCA_949438145.1	50-70	species	s__Akkermansia muciniphila	51.630	0.120	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.09571411834
+HGV_3seed_ensemble	GCA_949480135.1	50-70	species	s__Parabacteroides distasonis	63.940	0.510	1	1	1	1	GCF_006739545.1	s__Parabacteroides distasonis	0.1038304388
+HGV_3seed_ensemble	GCA_949527775.1	50-70	species	s__Phocaeicola vulgatus	66.630	0.080	1	1	1	1	GCF_047777885.1	s__Phocaeicola vulgatus	0.05195440623
+HGV_3seed_ensemble	GCA_938074225.1	50-70	species	s__Stenotrophomonas maltophilia	65.510	1.150	1	1	1	1	GCF_041294385.1	s__Stenotrophomonas maltophilia	0.2012448605
+HGV_3seed_ensemble	GCA_949544425.1	50-70	species	s__Akkermansia muciniphila	58.280	0.060	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.07466713429
+HGV_3seed_ensemble	GCA_023457635.1	50-70	species	s__Aliarcobacter skirrowii	58.380	0.450	1	1	1	1	GCF_025335865.1	s__Aliarcobacter skirrowii	0.1230764017
+HGV_3seed_ensemble	GCA_046709825.1	50-70	species	s__Pseudoalteromonas distincta	69.840	0.120	1	1	1	1	GCF_014918315.1	s__Pseudoalteromonas distincta	0.1668638204
+HGV_3seed_ensemble	GCA_022650165.1	50-70	species	s__Lacticaseibacillus paracasei	67.910	0.000	1	1	1	1	GCF_000829035.1	s__Lacticaseibacillus paracasei	0.1302434271
+HGV_3seed_ensemble	GCA_905204725.1	50-70	genus	g__Bifidobacterium	65.890	0.890	1	1	1	1	GCF_020541885.1	g__Bifidobacterium	0.1494256686
+HGV_3seed_ensemble	GCA_041845475.1	50-70	genus	g__Porphyromonas	67.560	0.810	661	0	0	0	GCF_050274475.1	g__Pedobacter	0.9289304495
+HGV_3seed_ensemble	GCA_905201685.1	50-70	genus	g__Bacteroides	55.500	0.190	1	1	1	1	GCF_024760085.1	g__Bacteroides	0.5200315712
+HGV_3seed_ensemble	GCA_948923355.1	50-70	genus	g__Bacteroides	64.950	0.630	1	1	1	1	GCF_009734165.1	g__Bacteroides	0.4362970358
+HGV_3seed_ensemble	GCA_958435405.1	50-70	genus	g__Alistipes	65.920	0.040	25	0	0	0	GCF_021378725.1	g__Eggerthella	0.5428325776
+HGV_3seed_ensemble	GCA_032162845.1	50-70	genus	g__Mycobacterium	69.500	1.890	129	0	0	0	GCF_040685075.1	g__Microbacterium	0.585726541
+HGV_3seed_ensemble	GCA_949498825.1	50-70	family	f__Oscillospiraceae	57.850	0.170	1	1	1	1	GCF_020181555.1	f__Oscillospiraceae	0.3619538742
+HGV_3seed_ensemble	GCA_949094115.1	50-70	family	f__Lachnospiraceae	66.890	0.760	43	0	0	0	GCF_000190535.1	f__Marinifilaceae	0.517655876
+HGV_3seed_ensemble	GCA_948838125.1	50-70	family	f__Lachnospiraceae	55.130	1.000	35	0	0	0	GCF_000012825.1	f__Bacteroidaceae	0.6737272401
+HGV_3seed_ensemble	GCA_948674785.1	50-70	family	f__Bacteroidaceae	60.020	0.040	31	0	0	0	GCF_015558365.1	f__Ruminococcaceae	0.6890287327
+HGV_3seed_ensemble	GCA_008667935.1	70-80	species	s__Mediterraneibacter faecis	79.840	2.720	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.3175098036
+HGV_3seed_ensemble	GCA_052309555.1	70-80	species	s__Blautia_A faecis	72.380	2.380	1	1	1	1	GCF_039750735.1	s__Blautia_A faecis	0.3028793176
+HGV_3seed_ensemble	GCA_018059005.1	70-80	species	s__Akkermansia massiliensis	73.800	1.120	1	1	1	1	GCF_045011645.1	s__Akkermansia massiliensis	0.09384713537
+HGV_3seed_ensemble	GCA_052108315.1	70-80	species	s__Lactiplantibacillus plantarum	73.860	2.070	1	1	1	1	GCF_002174195.1	s__Lactiplantibacillus plantarum	0.1150397318
+HGV_3seed_ensemble	GCA_949540585.1	70-80	species	s__Phocaeicola vulgatus	74.400	0.390	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.09829235053
+HGV_3seed_ensemble	GCA_948876955.1	70-80	species	s__Phocaeicola vulgatus	71.140	3.200	1	1	1	1	GCF_020885855.1	s__Phocaeicola vulgatus	0.1212135568
+HGV_3seed_ensemble	GCA_037045485.1	70-80	species	s__Bifidobacterium adolescentis	78.980	2.090	1	1	1	1	GCF_029855065.1	s__Bifidobacterium adolescentis	0.1094040092
+HGV_3seed_ensemble	GCA_023442145.1	70-80	species	s__Bacteroides uniformis	78.280	3.030	1	1	1	1	GCF_044361425.1	s__Bacteroides uniformis	0.1642179387
+HGV_3seed_ensemble	GCA_963519165.1	70-80	species	s__Fusobacterium polymorphum	70.710	2.320	1	1	1	1	GCF_037897495.1	s__Fusobacterium polymorphum	0.2577594714
+HGV_3seed_ensemble	GCA_949547765.1	70-80	species	s__Bacteroides thetaiotaomicron	78.120	3.060	1	1	1	1	GCF_024758905.1	s__Bacteroides thetaiotaomicron	0.1286835638
+HGV_3seed_ensemble	GCA_037275265.1	70-80	genus	g__Alistipes	70.940	0.190	5	0	1	1	GCF_021378705.1	g__Eggerthella	0.6665428865
+HGV_3seed_ensemble	GCA_023454855.1	70-80	genus	g__Brachyspira	70.960	0.980	1	1	1	1	GCF_017751205.1	g__Brachyspira	0.8185263013
+HGV_3seed_ensemble	GCA_948915575.1	70-80	genus	g__Alistipes	79.310	0.140	121	0	0	0	GCF_021378665.1	g__Eggerthella	0.7757651377
+HGV_3seed_ensemble	GCA_963509955.1	70-80	genus	g__Corynebacterium	70.160	0.800	366	0	0	0	GCF_000429885.1	g__Dermatophilus	0.531478317
+HGV_3seed_ensemble	GCA_963539785.1	70-80	genus	g__Porphyromonas	75.500	0.330	1	1	1	1	GCF_002754015.1	g__Porphyromonas	0.8928592412
+HGV_3seed_ensemble	GCA_048400405.1	70-80	genus	g__Mediterraneibacter	79.530	0.010	459	0	0	0	GCF_020735605.1	g__Parabacteroides	0.5715388206
+HGV_3seed_ensemble	GCA_017623935.1	70-80	family	f__Lachnospiraceae	79.970	0.850	13	0	0	1	GCF_019048325.1	f__Enterococcaceae	0.7237390966
+HGV_3seed_ensemble	GCA_913020745.1	70-80	family	f__Pseudomonadaceae	71.980	0.220	55	0	0	0	GCF_050883145.1	f__Enterobacteriaceae	0.664854313
+HGV_3seed_ensemble	GCA_037264915.1	70-80	family	f__Bacteroidaceae	77.700	0.720	1	1	1	1	GCF_044361425.1	f__Bacteroidaceae	0.7211271371
+HGV_3seed_ensemble	GCA_036650595.1	70-80	family	f__Enterobacteriaceae	78.040	1.040	159	0	0	0	GCF_020181695.1	f__Paenibacillaceae	0.6544220675
+HGV_3seed_ensemble	GCA_052370595.1	80-90	species	s__Faecalibacterium prausnitzii	80.850	0.520	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1711476859
+HGV_3seed_ensemble	GCA_037456395.1	80-90	species	s__Faecalibacterium duncaniae	86.180	0.920	1	1	1	1	GCF_002586945.1	s__Faecalibacterium duncaniae	0.2162178596
+HGV_3seed_ensemble	GCA_002471165.1	80-90	species	s__Acinetobacter nosocomialis	89.670	0.290	1	1	1	1	GCF_041021935.1	s__Acinetobacter nosocomialis	0.1170135367
+HGV_3seed_ensemble	GCA_934202755.1	80-90	species	s__Turicibacter sanguinis	86.550	0.390	1	1	1	1	GCF_025595115.1	s__Turicibacter sanguinis	0.03109731511
+HGV_3seed_ensemble	GCA_020054375.1	80-90	species	s__Enterococcus faecalis	87.360	0.720	1	1	1	1	GCF_050541555.1	s__Enterococcus faecalis	0.0552495059
+HGV_3seed_ensemble	GCA_032474695.1	80-90	species	s__Staphylococcus epidermidis	85.820	1.790	1	1	1	1	GCF_003325735.1	s__Staphylococcus epidermidis	0.07103839853
+HGV_3seed_ensemble	GCA_003507255.1	80-90	species	s__Phocaeicola vulgatus	81.180	0.200	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.1098190938
+HGV_3seed_ensemble	GCA_022723275.1	80-90	species	s__Bifidobacterium breve	80.340	5.000	1	1	1	1	GCF_013267755.1	s__Bifidobacterium breve	0.280965667
+HGV_3seed_ensemble	GCA_948663795.1	80-90	species	s__Akkermansia muciniphila	89.140	2.020	1	1	1	1	GCF_018847495.1	s__Akkermansia muciniphila	0.06949454989
+HGV_3seed_ensemble	GCA_031983265.1	80-90	species	s__Klebsiella pneumoniae	88.670	0.670	1	1	1	1	GCF_001952835.1	s__Klebsiella pneumoniae	0.05445095153
+HGV_3seed_ensemble	GCA_048241515.1	80-90	genus	g__Bifidobacterium	83.440	2.520	1	1	1	1	GCF_036872545.1	g__Bifidobacterium	0.2640654503
+HGV_3seed_ensemble	GCA_035295025.1	80-90	genus	g__Bradyrhizobium	86.170	2.030	197	0	0	0	GCF_020829785.1	g__Kocuria	0.6772406535
+HGV_3seed_ensemble	GCA_947245685.1	80-90	genus	g__Parabacteroides	85.530	1.360	1	1	1	1	GCF_051904065.1	g__Parabacteroides	0.1006739876
+HGV_3seed_ensemble	GCA_048507615.1	80-90	genus	g__Bacteroides	86.520	4.050	1	1	1	1	GCF_009734165.1	g__Bacteroides	0.4031299994
+HGV_3seed_ensemble	GCA_902755525.1	80-90	genus	g__Hominimerdicola	86.650	0.530	1	1	1	1	GCF_028327625.1	g__Hominimerdicola	0.7336555269
+HGV_3seed_ensemble	GCA_049791715.1	80-90	genus	g__Micromonospora	89.260	3.380	32	0	0	0	GCF_049532735.1	g__Kocuria	0.309104203
+HGV_3seed_ensemble	GCA_949433585.1	80-90	family	f__Lachnospiraceae	84.920	1.560	94	0	0	0	GCF_000217655.1	f__Treponemataceae	0.7094423645
+HGV_3seed_ensemble	GCA_949098555.1	80-90	family	f__Lachnospiraceae	85.940	3.110	23	0	0	0	GCF_013874375.1	f__Bacteroidaceae	0.6361099062
+HGV_3seed_ensemble	GCA_948482635.1	80-90	family	f__Lachnospiraceae	82.350	3.150	152	0	0	0	GCF_000217655.1	f__Treponemataceae	0.7271684114
+HGV_3seed_ensemble	GCA_037266885.1	80-90	family	f__Bacteroidaceae	83.910	0.170	14	0	0	1	GCF_002285535.2	f__Streptococcaceae	0.6866158725
+HGV_3seed_ensemble	GCA_963634065.1	90-100	species	s__Bifidobacterium adolescentis	96.130	2.170	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.03959613634
+HGV_3seed_ensemble	GCA_040758555.1	90-100	species	s__Cutibacterium acnes	99.990	0.930	1	1	1	1	GCF_003812785.1	s__Cutibacterium acnes	0.01298464629
+HGV_3seed_ensemble	GCA_037312185.1	90-100	species	s__Bifidobacterium adolescentis	99.820	0.140	1	1	1	1	GCF_017815835.1	s__Bifidobacterium adolescentis	0.08015475277
+HGV_3seed_ensemble	GCA_948631515.1	90-100	species	s__Akkermansia muciniphila	100.000	0.240	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.06430070945
+HGV_3seed_ensemble	GCA_963543465.1	90-100	species	s__Porphyromonas gingivalis	95.650	0.000	1	1	1	1	GCF_002754015.1	s__Porphyromonas gingivalis	0.1220132396
+HGV_3seed_ensemble	GCA_948796545.1	90-100	species	s__Akkermansia muciniphila	100.000	0.270	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.05479505425
+HGV_3seed_ensemble	GCA_048405945.1	90-100	species	s__Faecalibacterium prausnitzii	93.500	4.510	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1566512139
+HGV_3seed_ensemble	GCA_946223405.1	90-100	species	s__Stenotrophomonas maltophilia	91.120	2.570	1	1	1	1	GCF_028891445.1	s__Stenotrophomonas maltophilia	0.07838561295
+HGV_3seed_ensemble	GCA_902644875.1	90-100	species	s__Wolbachia pipientis	98.510	1.150	1	1	1	1	GCF_964026835.1	s__Wolbachia pipientis	0.232183129
+HGV_3seed_ensemble	GCA_902636375.1	90-100	species	s__Wolbachia pipientis	97.010	0.200	1	1	1	1	GCF_964026835.1	s__Wolbachia pipientis	0.1576339312
+HGV_3seed_ensemble	GCA_947447375.1	90-100	genus	g__Flavobacterium	95.740	0.010	94	0	0	0	GCF_046603945.1	g__Thomasclavelia	0.8023896127
+HGV_3seed_ensemble	GCA_902493725.1	90-100	genus	g__Alistipes	97.950	0.280	531	0	0	0	GCF_004355365.1	g__Xanthomonas	0.8631750872
+HGV_3seed_ensemble	GCA_048368755.1	90-100	genus	g__Faecalibacterium	99.630	0.360	75	0	0	0	GCF_000963645.1	g__Aeromonas	0.5559461
+HGV_3seed_ensemble	GCA_034131585.1	90-100	genus	g__Bacteroides	94.830	1.210	1	1	1	1	GCF_009734165.1	g__Bacteroides	0.4015693067
+HGV_3seed_ensemble	GCA_963822655.1	90-100	genus	g__Mycobacterium	97.930	0.100	121	0	0	0	GCF_036873195.1	g__Streptomyces	0.5303932808
+HGV_3seed_ensemble	GCA_035566355.1	90-100	genus	g__Pedobacter	94.320	2.620	41	0	0	0	GCF_947250685.1	g__Wolbachia	0.6080441588
+HGV_3seed_ensemble	GCA_902486935.1	90-100	family	f__Lachnospiraceae	99.910	1.790	25	0	0	0	GCF_044336395.1	f__Erysipelotrichaceae	0.7715619771
+HGV_3seed_ensemble	GCA_948628605.1	90-100	family	f__Ruminococcaceae	92.510	4.870	13	0	0	1	GCF_010508875.1	f__Oscillospiraceae	0.4710011614
+HGV_3seed_ensemble	GCA_945910525.1	90-100	family	f__Lachnospiraceae	100.000	1.870	1	1	1	1	GCF_025148125.1	f__Lachnospiraceae	0.5717381121
+HGV_3seed_ensemble	GCA_948507895.1	90-100	family	f__Lachnospiraceae	99.550	0.630	72	0	0	0	GCF_000025805.1	f__Bacillaceae_H	0.6548203042
+PCA64_Euclidean	GCA_949461025.1	50-70	species	s__Phocaeicola vulgatus	62.210	0.160	1	1	1	1	GCF_036419465.1	s__Phocaeicola vulgatus	0.0004712557693
+PCA64_Euclidean	GCA_047024075.1	50-70	species	s__Mediterraneibacter faecis	59.290	0.000	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.001252907974
+PCA64_Euclidean	GCA_949438145.1	50-70	species	s__Akkermansia muciniphila	51.630	0.120	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.0003966123886
+PCA64_Euclidean	GCA_949480135.1	50-70	species	s__Parabacteroides distasonis	63.940	0.510	1	1	1	1	GCF_051904065.1	s__Parabacteroides distasonis	0.0005547780384
+PCA64_Euclidean	GCA_949527775.1	50-70	species	s__Phocaeicola vulgatus	66.630	0.080	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.0003446977621
+PCA64_Euclidean	GCA_938074225.1	50-70	species	s__Stenotrophomonas maltophilia	65.510	1.150	3	0	1	1	GCF_036319565.1	s__Stenotrophomonas geniculata	0.0006394610971
+PCA64_Euclidean	GCA_949544425.1	50-70	species	s__Akkermansia muciniphila	58.280	0.060	1	1	1	1	GCF_004015045.1	s__Akkermansia muciniphila	0.0002964442899
+PCA64_Euclidean	GCA_023457635.1	50-70	species	s__Aliarcobacter skirrowii	58.380	0.450	1	1	1	1	GCF_033796225.1	s__Aliarcobacter skirrowii	0.0009355430608
+PCA64_Euclidean	GCA_046709825.1	50-70	species	s__Pseudoalteromonas distincta	69.840	0.120	1	1	1	1	GCF_031198785.1	s__Pseudoalteromonas distincta	0.000674832762
+PCA64_Euclidean	GCA_022650165.1	50-70	species	s__Lacticaseibacillus paracasei	67.910	0.000	1	1	1	1	GCF_049532865.1	s__Lacticaseibacillus paracasei	0.0007269438249
+PCA64_Euclidean	GCA_905204725.1	50-70	genus	g__Bifidobacterium	65.890	0.890	1	1	1	1	GCF_036419215.1	g__Bifidobacterium	0.0008391896752
+PCA64_Euclidean	GCA_041845475.1	50-70	genus	g__Porphyromonas	67.560	0.810	85	0	0	0	GCF_900149385.2	g__Chlamydia	0.007529065649
+PCA64_Euclidean	GCA_905201685.1	50-70	genus	g__Bacteroides	55.500	0.190	1	1	1	1	GCF_006742345.1	g__Bacteroides	0.003477482933
+PCA64_Euclidean	GCA_948923355.1	50-70	genus	g__Bacteroides	64.950	0.630	1	1	1	1	GCF_018289275.1	g__Bacteroides	0.002040920255
+PCA64_Euclidean	GCA_958435405.1	50-70	genus	g__Alistipes	65.920	0.040	1	1	1	1	GCF_040247365.1	g__Alistipes	0.004871718954
+PCA64_Euclidean	GCA_032162845.1	50-70	genus	g__Mycobacterium	69.500	1.890	1	1	1	1	GCF_002219285.1	g__Mycobacterium	0.004972636144
+PCA64_Euclidean	GCA_949498825.1	50-70	family	f__Oscillospiraceae	57.850	0.170	1	1	1	1	GCF_001688625.2	f__Oscillospiraceae	0.003289683946
+PCA64_Euclidean	GCA_949094115.1	50-70	family	f__Lachnospiraceae	66.890	0.760	109	0	0	0	GCF_003464465.1	f__Marinifilaceae	0.006729035665
+PCA64_Euclidean	GCA_948838125.1	50-70	family	f__Lachnospiraceae	55.130	1.000	1	1	1	1	GCF_032142815.1	f__Lachnospiraceae	0.00507941574
+PCA64_Euclidean	GCA_948674785.1	50-70	family	f__Bacteroidaceae	60.020	0.040	1	1	1	1	GCF_018291785.1	f__Bacteroidaceae	0.006208013931
+PCA64_Euclidean	GCA_008667935.1	70-80	species	s__Mediterraneibacter faecis	79.840	2.720	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.002735581546
+PCA64_Euclidean	GCA_052309555.1	70-80	species	s__Blautia_A faecis	72.380	2.380	1	1	1	1	GCF_039750595.1	s__Blautia_A faecis	0.001889004516
+PCA64_Euclidean	GCA_018059005.1	70-80	species	s__Akkermansia massiliensis	73.800	1.120	1	1	1	1	GCF_018847375.1	s__Akkermansia massiliensis	0.001397142189
+PCA64_Euclidean	GCA_052108315.1	70-80	species	s__Lactiplantibacillus plantarum	73.860	2.070	1	1	1	1	GCF_037290055.1	s__Lactiplantibacillus plantarum	0.0006084845313
+PCA64_Euclidean	GCA_949540585.1	70-80	species	s__Phocaeicola vulgatus	74.400	0.390	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.0006672781924
+PCA64_Euclidean	GCA_948876955.1	70-80	species	s__Phocaeicola vulgatus	71.140	3.200	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.001358203636
+PCA64_Euclidean	GCA_037045485.1	70-80	species	s__Bifidobacterium adolescentis	78.980	2.090	1	1	1	1	GCF_029855065.1	s__Bifidobacterium adolescentis	0.001189458679
+PCA64_Euclidean	GCA_023442145.1	70-80	species	s__Bacteroides uniformis	78.280	3.030	1	1	1	1	GCF_018289175.1	s__Bacteroides uniformis	0.001391540274
+PCA64_Euclidean	GCA_963519165.1	70-80	species	s__Fusobacterium polymorphum	70.710	2.320	1	1	1	1	GCF_037906365.1	s__Fusobacterium polymorphum	0.0004858748715
+PCA64_Euclidean	GCA_949547765.1	70-80	species	s__Bacteroides thetaiotaomicron	78.120	3.060	1	1	1	1	GCF_024758905.1	s__Bacteroides thetaiotaomicron	0.001040512051
+PCA64_Euclidean	GCA_037275265.1	70-80	genus	g__Alistipes	70.940	0.190	1	1	1	1	GCF_040247365.1	g__Alistipes	0.004467612169
+PCA64_Euclidean	GCA_023454855.1	70-80	genus	g__Brachyspira	70.960	0.980	1	1	1	1	GCF_033555435.1	g__Brachyspira	0.01232372988
+PCA64_Euclidean	GCA_948915575.1	70-80	genus	g__Alistipes	79.310	0.140	1	1	1	1	GCF_040247385.1	g__Alistipes	0.004954566329
+PCA64_Euclidean	GCA_963509955.1	70-80	genus	g__Corynebacterium	70.160	0.800	27	0	0	0	GCF_900187045.1	g__Dermatophilus	0.005723059222
+PCA64_Euclidean	GCA_963539785.1	70-80	genus	g__Porphyromonas	75.500	0.330	13	0	0	1	GCF_963556575.1	g__Corynebacterium	0.01116294067
+PCA64_Euclidean	GCA_048400405.1	70-80	genus	g__Mediterraneibacter	79.530	0.010	26	0	0	0	GCF_039759155.1	g__Blautia_A	0.004272417439
+PCA64_Euclidean	GCA_017623935.1	70-80	family	f__Lachnospiraceae	79.970	0.850	1	1	1	1	GCF_039946315.1	f__Lachnospiraceae	0.004470418552
+PCA64_Euclidean	GCA_913020745.1	70-80	family	f__Pseudomonadaceae	71.980	0.220	1	1	1	1	GCF_044499975.1	f__Pseudomonadaceae	0.005587791695
+PCA64_Euclidean	GCA_037264915.1	70-80	family	f__Bacteroidaceae	77.700	0.720	95	0	0	0	GCF_004758745.1	f__Mycobacteriaceae	0.008746675478
+PCA64_Euclidean	GCA_036650595.1	70-80	family	f__Enterobacteriaceae	78.040	1.040	133	0	0	0	GCF_030144385.1	f__Vibrionaceae	0.004657530599
+PCA64_Euclidean	GCA_052370595.1	80-90	species	s__Faecalibacterium prausnitzii	80.850	0.520	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.00353712385
+PCA64_Euclidean	GCA_037456395.1	80-90	species	s__Faecalibacterium duncaniae	86.180	0.920	1	1	1	1	GCF_024167885.1	s__Faecalibacterium duncaniae	0.002898920983
+PCA64_Euclidean	GCA_002471165.1	80-90	species	s__Acinetobacter nosocomialis	89.670	0.290	1	1	1	1	GCF_002951295.1	s__Acinetobacter nosocomialis	0.000432741434
+PCA64_Euclidean	GCA_934202755.1	80-90	species	s__Turicibacter sanguinis	86.550	0.390	1	1	1	1	GCF_025595115.1	s__Turicibacter sanguinis	0.0002482638384
+PCA64_Euclidean	GCA_020054375.1	80-90	species	s__Enterococcus faecalis	87.360	0.720	1	1	1	1	GCF_040436435.1	s__Enterococcus faecalis	0.0002595431572
+PCA64_Euclidean	GCA_032474695.1	80-90	species	s__Staphylococcus epidermidis	85.820	1.790	1	1	1	1	GCF_052063145.1	s__Staphylococcus epidermidis	0.000268485734
+PCA64_Euclidean	GCA_003507255.1	80-90	species	s__Phocaeicola vulgatus	81.180	0.200	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.0006876019838
+PCA64_Euclidean	GCA_022723275.1	80-90	species	s__Bifidobacterium breve	80.340	5.000	1	1	1	1	GCF_013267755.1	s__Bifidobacterium breve	0.002543686718
+PCA64_Euclidean	GCA_948663795.1	80-90	species	s__Akkermansia muciniphila	89.140	2.020	1	1	1	1	GCF_010230725.1	s__Akkermansia muciniphila	0.0006131247542
+PCA64_Euclidean	GCA_031983265.1	80-90	species	s__Klebsiella pneumoniae	88.670	0.670	1	1	1	1	GCF_001952835.1	s__Klebsiella pneumoniae	0.001113831474
+PCA64_Euclidean	GCA_048241515.1	80-90	genus	g__Bifidobacterium	83.440	2.520	1	1	1	1	GCF_036872545.1	g__Bifidobacterium	0.002499064604
+PCA64_Euclidean	GCA_035295025.1	80-90	genus	g__Bradyrhizobium	86.170	2.030	1	1	1	1	GCF_032917965.1	g__Bradyrhizobium	0.006645923522
+PCA64_Euclidean	GCA_947245685.1	80-90	genus	g__Parabacteroides	85.530	1.360	1	1	1	1	GCF_051904065.1	g__Parabacteroides	0.0005534922371
+PCA64_Euclidean	GCA_048507615.1	80-90	genus	g__Bacteroides	86.520	4.050	1	1	1	1	GCF_024759225.1	g__Bacteroides	0.002029594381
+PCA64_Euclidean	GCA_902755525.1	80-90	genus	g__Hominimerdicola	86.650	0.530	1	1	1	1	GCF_015558365.1	g__Hominimerdicola	0.004829348384
+PCA64_Euclidean	GCA_049791715.1	80-90	genus	g__Micromonospora	89.260	3.380	1	1	1	1	GCF_044456405.1	g__Micromonospora	0.003127347558
+PCA64_Euclidean	GCA_949433585.1	80-90	family	f__Lachnospiraceae	84.920	1.560	74	0	0	0	GCF_018289175.1	f__Bacteroidaceae	0.008445159321
+PCA64_Euclidean	GCA_949098555.1	80-90	family	f__Lachnospiraceae	85.940	3.110	1	1	1	1	GCF_039946315.1	f__Lachnospiraceae	0.004250354771
+PCA64_Euclidean	GCA_948482635.1	80-90	family	f__Lachnospiraceae	82.350	3.150	74	0	0	0	GCF_018289175.1	f__Bacteroidaceae	0.008940991488
+PCA64_Euclidean	GCA_037266885.1	80-90	family	f__Bacteroidaceae	83.910	0.170	1	1	1	1	GCF_017309675.2	f__Bacteroidaceae	0.0064871858
+PCA64_Euclidean	GCA_963634065.1	90-100	species	s__Bifidobacterium adolescentis	96.130	2.170	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.0004064645313
+PCA64_Euclidean	GCA_040758555.1	90-100	species	s__Cutibacterium acnes	99.990	0.930	1	1	1	1	GCF_011399315.1	s__Cutibacterium acnes	0.0001574559155
+PCA64_Euclidean	GCA_037312185.1	90-100	species	s__Bifidobacterium adolescentis	99.820	0.140	1	1	1	1	GCF_029855065.1	s__Bifidobacterium adolescentis	0.0009533779592
+PCA64_Euclidean	GCA_948631515.1	90-100	species	s__Akkermansia muciniphila	100.000	0.240	1	1	1	1	GCF_010230725.1	s__Akkermansia muciniphila	0.0004970080217
+PCA64_Euclidean	GCA_963543465.1	90-100	species	s__Porphyromonas gingivalis	95.650	0.000	1	1	1	1	GCF_002754015.1	s__Porphyromonas gingivalis	0.0006777627247
+PCA64_Euclidean	GCA_948796545.1	90-100	species	s__Akkermansia muciniphila	100.000	0.270	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.000243024907
+PCA64_Euclidean	GCA_048405945.1	90-100	species	s__Faecalibacterium prausnitzii	93.500	4.510	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.002535297408
+PCA64_Euclidean	GCA_946223405.1	90-100	species	s__Stenotrophomonas maltophilia	91.120	2.570	1	1	1	1	GCF_028891445.1	s__Stenotrophomonas maltophilia	0.0007237594107
+PCA64_Euclidean	GCA_902644875.1	90-100	species	s__Wolbachia pipientis	98.510	1.150	3	0	1	1	GCF_964027115.1	s__Wolbachia sp947250775	0.0004258021501
+PCA64_Euclidean	GCA_902636375.1	90-100	species	s__Wolbachia pipientis	97.010	0.200	2	0	1	1	GCF_964027115.1	s__Wolbachia sp947250775	0.0003995278954
+PCA64_Euclidean	GCA_947447375.1	90-100	genus	g__Flavobacterium	95.740	0.010	1	1	1	1	GCF_013343195.2	g__Flavobacterium	0.007041826359
+PCA64_Euclidean	GCA_902493725.1	90-100	genus	g__Alistipes	97.950	0.280	1	1	1	1	GCF_025145285.1	g__Alistipes	0.009875991391
+PCA64_Euclidean	GCA_048368755.1	90-100	genus	g__Faecalibacterium	99.630	0.360	1	1	1	1	GCF_023347315.1	g__Faecalibacterium	0.006967577611
+PCA64_Euclidean	GCA_034131585.1	90-100	genus	g__Bacteroides	94.830	1.210	1	1	1	1	GCF_024759965.1	g__Bacteroides	0.001795237481
+PCA64_Euclidean	GCA_963822655.1	90-100	genus	g__Mycobacterium	97.930	0.100	1	1	1	1	GCF_002240155.1	g__Mycobacterium	0.004248249842
+PCA64_Euclidean	GCA_035566355.1	90-100	genus	g__Pedobacter	94.320	2.620	1	1	1	1	GCF_050274475.1	g__Pedobacter	0.004858754959
+PCA64_Euclidean	GCA_902486935.1	90-100	family	f__Lachnospiraceae	99.910	1.790	4	0	1	1	GCF_022845735.1	f__Erysipelotrichaceae	0.006255716405
+PCA64_Euclidean	GCA_948628605.1	90-100	family	f__Ruminococcaceae	92.510	4.870	25	0	0	0	GCF_001688625.2	f__Oscillospiraceae	0.007493008606
+PCA64_Euclidean	GCA_945910525.1	90-100	family	f__Lachnospiraceae	100.000	1.870	1	1	1	1	GCF_025148125.1	f__Lachnospiraceae	0.008508437279
+PCA64_Euclidean	GCA_948507895.1	90-100	family	f__Lachnospiraceae	99.550	0.630	1	1	1	1	GCF_964246465.1	f__Lachnospiraceae	0.00466509539
+PCA64_L2	GCA_949461025.1	50-70	species	s__Phocaeicola vulgatus	62.210	0.160	1	1	1	1	GCF_036419465.1	s__Phocaeicola vulgatus	0.04406773524
+PCA64_L2	GCA_047024075.1	50-70	species	s__Mediterraneibacter faecis	59.290	0.000	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.09127414895
+PCA64_L2	GCA_949438145.1	50-70	species	s__Akkermansia muciniphila	51.630	0.120	1	1	1	1	GCF_004015325.1	s__Akkermansia muciniphila	0.02481630715
+PCA64_L2	GCA_949480135.1	50-70	species	s__Parabacteroides distasonis	63.940	0.510	1	1	1	1	GCF_051904065.1	s__Parabacteroides distasonis	0.04244344447
+PCA64_L2	GCA_949527775.1	50-70	species	s__Phocaeicola vulgatus	66.630	0.080	1	1	1	1	GCF_000012825.1	s__Phocaeicola vulgatus	0.03035241137
+PCA64_L2	GCA_938074225.1	50-70	species	s__Stenotrophomonas maltophilia	65.510	1.150	1	1	1	1	GCF_021117175.1	s__Stenotrophomonas maltophilia	0.01511350644
+PCA64_L2	GCA_949544425.1	50-70	species	s__Akkermansia muciniphila	58.280	0.060	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.01794900367
+PCA64_L2	GCA_023457635.1	50-70	species	s__Aliarcobacter skirrowii	58.380	0.450	1	1	1	1	GCF_004116445.1	s__Aliarcobacter skirrowii	0.02081444087
+PCA64_L2	GCA_046709825.1	50-70	species	s__Pseudoalteromonas distincta	69.840	0.120	1	1	1	1	GCF_031198785.1	s__Pseudoalteromonas distincta	0.04453079568
+PCA64_L2	GCA_022650165.1	50-70	species	s__Lacticaseibacillus paracasei	67.910	0.000	1	1	1	1	GCF_049532865.1	s__Lacticaseibacillus paracasei	0.06873682094
+PCA64_L2	GCA_905204725.1	50-70	genus	g__Bifidobacterium	65.890	0.890	1	1	1	1	GCF_020541885.1	g__Bifidobacterium	0.04424385128
+PCA64_L2	GCA_041845475.1	50-70	genus	g__Porphyromonas	67.560	0.810	95	0	0	0	GCF_900149385.2	g__Chlamydia	0.6092828414
+PCA64_L2	GCA_905201685.1	50-70	genus	g__Bacteroides	55.500	0.190	1	1	1	1	GCF_024760085.1	g__Bacteroides	0.3749252671
+PCA64_L2	GCA_948923355.1	50-70	genus	g__Bacteroides	64.950	0.630	1	1	1	1	GCF_018289275.1	g__Bacteroides	0.1940195906
+PCA64_L2	GCA_958435405.1	50-70	genus	g__Alistipes	65.920	0.040	1	1	1	1	GCF_040247405.1	g__Alistipes	0.2704646994
+PCA64_L2	GCA_032162845.1	50-70	genus	g__Mycobacterium	69.500	1.890	1	1	1	1	GCF_002240155.1	g__Mycobacterium	0.1797175775
+PCA64_L2	GCA_949498825.1	50-70	family	f__Oscillospiraceae	57.850	0.170	1	1	1	1	GCF_001688625.2	f__Oscillospiraceae	0.1743942099
+PCA64_L2	GCA_949094115.1	50-70	family	f__Lachnospiraceae	66.890	0.760	4	0	1	1	GCF_003464465.1	f__Marinifilaceae	0.7012059793
+PCA64_L2	GCA_948838125.1	50-70	family	f__Lachnospiraceae	55.130	1.000	1	1	1	1	GCF_032142815.1	f__Lachnospiraceae	0.4068072451
+PCA64_L2	GCA_948674785.1	50-70	family	f__Bacteroidaceae	60.020	0.040	1	1	1	1	GCF_018291785.1	f__Bacteroidaceae	0.6655547289
+PCA64_L2	GCA_008667935.1	70-80	species	s__Mediterraneibacter faecis	79.840	2.720	1	1	1	1	GCF_001406755.1	s__Mediterraneibacter faecis	0.1860921257
+PCA64_L2	GCA_052309555.1	70-80	species	s__Blautia_A faecis	72.380	2.380	1	1	1	1	GCF_039750595.1	s__Blautia_A faecis	0.1420438933
+PCA64_L2	GCA_018059005.1	70-80	species	s__Akkermansia massiliensis	73.800	1.120	1	1	1	1	GCF_045011645.1	s__Akkermansia massiliensis	0.03080003141
+PCA64_L2	GCA_052108315.1	70-80	species	s__Lactiplantibacillus plantarum	73.860	2.070	1	1	1	1	GCF_037290055.1	s__Lactiplantibacillus plantarum	0.05386035113
+PCA64_L2	GCA_949540585.1	70-80	species	s__Phocaeicola vulgatus	74.400	0.390	1	1	1	1	GCF_024758205.1	s__Phocaeicola vulgatus	0.05559135481
+PCA64_L2	GCA_948876955.1	70-80	species	s__Phocaeicola vulgatus	71.140	3.200	1	1	1	1	GCF_024758205.1	s__Phocaeicola vulgatus	0.1150718988
+PCA64_L2	GCA_037045485.1	70-80	species	s__Bifidobacterium adolescentis	78.980	2.090	1	1	1	1	GCF_029855065.1	s__Bifidobacterium adolescentis	0.06432300317
+PCA64_L2	GCA_023442145.1	70-80	species	s__Bacteroides uniformis	78.280	3.030	1	1	1	1	GCF_018289175.1	s__Bacteroides uniformis	0.1312157321
+PCA64_L2	GCA_963519165.1	70-80	species	s__Fusobacterium polymorphum	70.710	2.320	1	1	1	1	GCF_037906365.1	s__Fusobacterium polymorphum	0.0136757298
+PCA64_L2	GCA_949547765.1	70-80	species	s__Bacteroides thetaiotaomicron	78.120	3.060	1	1	1	1	GCF_024758905.1	s__Bacteroides thetaiotaomicron	0.09820685689
+PCA64_L2	GCA_037275265.1	70-80	genus	g__Alistipes	70.940	0.190	1	1	1	1	GCF_040247365.1	g__Alistipes	0.224758511
+PCA64_L2	GCA_023454855.1	70-80	genus	g__Brachyspira	70.960	0.980	1	1	1	1	GCF_033555435.1	g__Brachyspira	0.3830587499
+PCA64_L2	GCA_948915575.1	70-80	genus	g__Alistipes	79.310	0.140	1	1	1	1	GCF_040247385.1	g__Alistipes	0.3050224038
+PCA64_L2	GCA_963509955.1	70-80	genus	g__Corynebacterium	70.160	0.800	50	0	0	0	GCF_000429885.1	g__Dermatophilus	0.3582472043
+PCA64_L2	GCA_963539785.1	70-80	genus	g__Porphyromonas	75.500	0.330	13	0	0	1	GCF_963556575.1	g__Corynebacterium	0.7690316349
+PCA64_L2	GCA_048400405.1	70-80	genus	g__Mediterraneibacter	79.530	0.010	22	0	0	0	GCF_039759155.1	g__Blautia_A	0.313720599
+PCA64_L2	GCA_017623935.1	70-80	family	f__Lachnospiraceae	79.970	0.850	1	1	1	1	GCF_001406755.1	f__Lachnospiraceae	0.3326705525
+PCA64_L2	GCA_913020745.1	70-80	family	f__Pseudomonadaceae	71.980	0.220	1	1	1	1	GCF_044499975.1	f__Pseudomonadaceae	0.2731653154
+PCA64_L2	GCA_037264915.1	70-80	family	f__Bacteroidaceae	77.700	0.720	543	0	0	0	GCF_004758745.1	f__Mycobacteriaceae	0.7368290557
+PCA64_L2	GCA_036650595.1	70-80	family	f__Enterobacteriaceae	78.040	1.040	108	0	0	0	GCF_002796765.2	f__Vibrionaceae	0.4793814063
+PCA64_L2	GCA_052370595.1	80-90	species	s__Faecalibacterium prausnitzii	80.850	0.520	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.1222095448
+PCA64_L2	GCA_037456395.1	80-90	species	s__Faecalibacterium duncaniae	86.180	0.920	1	1	1	1	GCF_024167885.1	s__Faecalibacterium duncaniae	0.1066475177
+PCA64_L2	GCA_002471165.1	80-90	species	s__Acinetobacter nosocomialis	89.670	0.290	1	1	1	1	GCF_002951295.1	s__Acinetobacter nosocomialis	0.03414473071
+PCA64_L2	GCA_934202755.1	80-90	species	s__Turicibacter sanguinis	86.550	0.390	1	1	1	1	GCF_025595115.1	s__Turicibacter sanguinis	0.01459946303
+PCA64_L2	GCA_020054375.1	80-90	species	s__Enterococcus faecalis	87.360	0.720	1	1	1	1	GCF_040436435.1	s__Enterococcus faecalis	0.01691093022
+PCA64_L2	GCA_032474695.1	80-90	species	s__Staphylococcus epidermidis	85.820	1.790	1	1	1	1	GCF_052063145.1	s__Staphylococcus epidermidis	0.01417048855
+PCA64_L2	GCA_003507255.1	80-90	species	s__Phocaeicola vulgatus	81.180	0.200	1	1	1	1	GCF_024758205.1	s__Phocaeicola vulgatus	0.05850011516
+PCA64_L2	GCA_022723275.1	80-90	species	s__Bifidobacterium breve	80.340	5.000	1	1	1	1	GCF_013267755.1	s__Bifidobacterium breve	0.09317721463
+PCA64_L2	GCA_948663795.1	80-90	species	s__Akkermansia muciniphila	89.140	2.020	1	1	1	1	GCF_018847215.1	s__Akkermansia muciniphila	0.02020650551
+PCA64_L2	GCA_031983265.1	80-90	species	s__Klebsiella pneumoniae	88.670	0.670	1	1	1	1	GCF_040436885.1	s__Klebsiella pneumoniae	0.03203527744
+PCA64_L2	GCA_048241515.1	80-90	genus	g__Bifidobacterium	83.440	2.520	1	1	1	1	GCF_036872545.1	g__Bifidobacterium	0.1213337067
+PCA64_L2	GCA_035295025.1	80-90	genus	g__Bradyrhizobium	86.170	2.030	1	1	1	1	GCF_042691665.1	g__Bradyrhizobium	0.323564838
+PCA64_L2	GCA_947245685.1	80-90	genus	g__Parabacteroides	85.530	1.360	1	1	1	1	GCF_051904065.1	g__Parabacteroides	0.05046644682
+PCA64_L2	GCA_048507615.1	80-90	genus	g__Bacteroides	86.520	4.050	1	1	1	1	GCF_024759225.1	g__Bacteroides	0.1891897354
+PCA64_L2	GCA_902755525.1	80-90	genus	g__Hominimerdicola	86.650	0.530	1	1	1	1	GCF_028327625.1	g__Hominimerdicola	0.393477662
+PCA64_L2	GCA_049791715.1	80-90	genus	g__Micromonospora	89.260	3.380	1	1	1	1	GCF_044456405.1	g__Micromonospora	0.09246620335
+PCA64_L2	GCA_949433585.1	80-90	family	f__Lachnospiraceae	84.920	1.560	24	0	0	0	GCF_044336395.1	f__Erysipelotrichaceae	0.8150115557
+PCA64_L2	GCA_949098555.1	80-90	family	f__Lachnospiraceae	85.940	3.110	1	1	1	1	GCF_964246465.1	f__Lachnospiraceae	0.3087409381
+PCA64_L2	GCA_948482635.1	80-90	family	f__Lachnospiraceae	82.350	3.150	51	0	0	0	GCF_004015325.1	f__Akkermansiaceae	0.8079621779
+PCA64_L2	GCA_037266885.1	80-90	family	f__Bacteroidaceae	83.910	0.170	1	1	1	1	GCF_017309675.2	f__Bacteroidaceae	0.6429787265
+PCA64_L2	GCA_963634065.1	90-100	species	s__Bifidobacterium adolescentis	96.130	2.170	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.01544829416
+PCA64_L2	GCA_040758555.1	90-100	species	s__Cutibacterium acnes	99.990	0.930	1	1	1	1	GCF_011399315.1	s__Cutibacterium acnes	0.006819773256
+PCA64_L2	GCA_037312185.1	90-100	species	s__Bifidobacterium adolescentis	99.820	0.140	1	1	1	1	GCF_003856735.1	s__Bifidobacterium adolescentis	0.03109802197
+PCA64_L2	GCA_948631515.1	90-100	species	s__Akkermansia muciniphila	100.000	0.240	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.02012626394
+PCA64_L2	GCA_963543465.1	90-100	species	s__Porphyromonas gingivalis	95.650	0.000	1	1	1	1	GCF_002754015.1	s__Porphyromonas gingivalis	0.05669321733
+PCA64_L2	GCA_948796545.1	90-100	species	s__Akkermansia muciniphila	100.000	0.270	1	1	1	1	GCF_010229055.1	s__Akkermansia muciniphila	0.01396384025
+PCA64_L2	GCA_048405945.1	90-100	species	s__Faecalibacterium prausnitzii	93.500	4.510	1	1	1	1	GCF_047946905.1	s__Faecalibacterium prausnitzii	0.09116669354
+PCA64_L2	GCA_946223405.1	90-100	species	s__Stenotrophomonas maltophilia	91.120	2.570	1	1	1	1	GCF_021117175.1	s__Stenotrophomonas maltophilia	0.01153921918
+PCA64_L2	GCA_902644875.1	90-100	species	s__Wolbachia pipientis	98.510	1.150	3	0	1	1	GCF_964027115.1	s__Wolbachia sp947250775	0.02557478162
+PCA64_L2	GCA_902636375.1	90-100	species	s__Wolbachia pipientis	97.010	0.200	2	0	1	1	GCF_964027115.1	s__Wolbachia sp947250775	0.02473212891
+PCA64_L2	GCA_947447375.1	90-100	genus	g__Flavobacterium	95.740	0.010	1	1	1	1	GCF_023066175.1	g__Flavobacterium	0.3376031953
+PCA64_L2	GCA_902493725.1	90-100	genus	g__Alistipes	97.950	0.280	1	1	1	1	GCF_025145285.1	g__Alistipes	0.6478207666
+PCA64_L2	GCA_048368755.1	90-100	genus	g__Faecalibacterium	99.630	0.360	1	1	1	1	GCF_023347315.1	g__Faecalibacterium	0.4090419518
+PCA64_L2	GCA_034131585.1	90-100	genus	g__Bacteroides	94.830	1.210	1	1	1	1	GCF_024759965.1	g__Bacteroides	0.1699254207
+PCA64_L2	GCA_963822655.1	90-100	genus	g__Mycobacterium	97.930	0.100	1	1	1	1	GCF_002240155.1	g__Mycobacterium	0.1581380839
+PCA64_L2	GCA_035566355.1	90-100	genus	g__Pedobacter	94.320	2.620	1	1	1	1	GCF_050276655.1	g__Pedobacter	0.4182261406
+PCA64_L2	GCA_902486935.1	90-100	family	f__Lachnospiraceae	99.910	1.790	1	1	1	1	GCF_003437665.1	f__Lachnospiraceae	0.494412504
+PCA64_L2	GCA_948628605.1	90-100	family	f__Ruminococcaceae	92.510	4.870	37	0	0	0	GCF_028321425.1	f__Oscillospiraceae	0.3824700381
+PCA64_L2	GCA_945910525.1	90-100	family	f__Lachnospiraceae	100.000	1.870	1	1	1	1	GCF_039837475.1	f__Lachnospiraceae	0.6291749581
+PCA64_L2	GCA_948507895.1	90-100	family	f__Lachnospiraceae	99.550	0.630	1	1	1	1	GCF_964246465.1	f__Lachnospiraceae	0.3505401609

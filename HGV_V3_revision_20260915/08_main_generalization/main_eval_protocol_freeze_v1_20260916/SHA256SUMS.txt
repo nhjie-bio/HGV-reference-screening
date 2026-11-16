@@ -1,0 +1,1 @@
+fd66138e9f7b6949a9f0cc00809a6d773c63877a074c3cc7b84172f57704e5d8  /media/nhjie/lucky/HGV_V3_revision_20260915/08_main_generalization/main_eval_protocol_freeze_v1_20260916/MAIN_EVAL_PROTOCOL.txt

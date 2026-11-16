@@ -1,0 +1,7 @@
+cohort	pre_exclusion	excluded	final_retained	expected_final	gate
+A	2400	26	2374	2374	PASS
+B1	400	9	391	391	PASS
+B2_seen_genus	200	4	196	196	PASS
+B2_unseen_genus	200	7	193	193	PASS
+External_total	800	20	780	780	PASS
+TOTAL	3200	46	3154	3154	PASS

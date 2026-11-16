@@ -1,0 +1,7 @@
+method	strict_numeric_runtime_available	n_source_rows	n_numeric_source_rows
+Mash	True	17	3
+Dashing2	True	17	1
+skani	True	48	19
+FastANI	True	7549	20
+HGV	True	16	1
+DNABERT-S	True	10	2

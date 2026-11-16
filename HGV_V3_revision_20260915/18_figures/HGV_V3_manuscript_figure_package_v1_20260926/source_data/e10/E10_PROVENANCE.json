@@ -1,0 +1,8 @@
+{
+  "E6_predictions_sha256": "1a056f420deaa20654b310894dcff04424bac67c8f37f636fe51ec2be0725858",
+  "overall_ANI_coverage": 0.6115702479338843,
+  "positive_ANI_coverage": 1.0,
+  "skani_version": "skani 0.3.2",
+  "test_pairs_sha256": "4ff432b84bcfe76743e6ca7d6ce842a094744e5be726527aaf74e09bc9e474ba",
+  "workers": 44
+}

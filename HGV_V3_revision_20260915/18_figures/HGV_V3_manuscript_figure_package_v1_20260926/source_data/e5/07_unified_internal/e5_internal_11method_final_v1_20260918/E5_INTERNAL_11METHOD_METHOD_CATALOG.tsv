@@ -1,0 +1,12 @@
+method	method_type	n_model_seeds	n_split_seeds	coverage_type	metric_scope	n_split_level_rows
+DNABERT-S	PretrainedDNA_LM	1	3	complete	all_test_pairs	9
+Dashing2_SetSketch	native_baseline		3	complete	all_test_pairs	9
+FastANI	native_baseline		3	censored_native	reported_pairs_only	9
+HGV_Dashing2_tau0p98	HGV	3	3	complete	all_test_pairs	9
+Mash	native_baseline		3	complete	all_test_pairs	9
+PCA64_Euclidean	baseline	1	3	complete	all_test_pairs	9
+PCA64_L2	baseline	1	3	complete	all_test_pairs	9
+RawK6_BrayCurtis	baseline	1	3	complete	all_test_pairs	9
+RawK6_Cosine	baseline	1	3	complete	all_test_pairs	9
+RawK6_Euclidean	baseline	1	3	complete	all_test_pairs	9
+skani	native_baseline		3	censored_native	reported_pairs_only	9

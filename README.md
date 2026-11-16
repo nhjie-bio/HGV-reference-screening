@@ -37,3 +37,15 @@ No project-wide reuse license is assigned in this release. Third-party data and 
 ## Contact
 
 For questions about the HGV implementation and supplementary materials, contact the corresponding author listed in the associated manuscript.
+
+## Browsable implementation and frozen assets (incremental update 001)
+
+The original code and data archives are now also exposed under [HGV_V3_revision_20260915](HGV_V3_revision_20260915/). The existing ZIP downloads remain unchanged.
+
+- Start with the [experiment-to-code/data map](docs/HGV_REPRODUCTION_MAP.md).
+- Browse the [model checkpoint inventory](docs/MODEL_CHECKPOINTS.tsv) and [code index](docs/CODE_INDEX.tsv).
+- Frozen pair manifests, Dashing2-augmented training/validation pairs and protocol/configuration freezes have also been added from the original project; these inputs were missing from the replay ZIP.
+- Check the [incremental update source inventory](docs/releases/update_001_source_inventory.tsv) for exact paths, provenance and SHA256 values.
+- Future updates use [the Windows incremental updater](tools/hgv_incremental/README.md); only added or changed paths are committed.
+
+Code visibility and checkpoint availability do not imply that every historical run has been repeated on a clean environment. The map identifies external dependencies, retained historical scripts and remaining gaps.

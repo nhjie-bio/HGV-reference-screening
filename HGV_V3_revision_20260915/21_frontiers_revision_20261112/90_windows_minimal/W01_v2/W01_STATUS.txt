@@ -1,0 +1,7 @@
+E15 paired HGV/PCA and Rank-1 analysis: COMPLETE
+E14 frozen Q50 prediction accuracy: COMPLETE
+E14 new 11-method runtime measurement: NOT DONE
+E13 real MAG evaluation: NOT DONE
+G2/G3/G4 internal MCC: NOT YET AUDITED
+Public repository: NOT YET PUBLISHED
+Original experiments and models unchanged.

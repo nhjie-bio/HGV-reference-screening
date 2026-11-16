@@ -1,0 +1,41 @@
+W15 EXTERNAL E11-B1 / G2 FROZEN REFERENCE
+B1 total=391
+Eligible=254
+Excluded=137
+G2 references=1662
+Species clusters=26
+
+All 15 frozen checkpoints verified.
+No HGV retraining.
+PCA fitted on G2 training references only.
+Single HGV and PCA64: 256 bytes/genome.
+Post-hoc exploratory analysis.
+
+FIVE-SEED RESULTS:
+D0 R@1=0.98031 SD=0.00000; K99 median=13 range=6-13
+D0 R@20=0.99843 SD=0.00352; K99 median=13 range=6-13
+D1 R@1=0.98031 SD=0.00000; K99 median=13 range=13-42
+D1 R@20=0.99606 SD=0.00482; K99 median=13 range=13-42
+D3 R@1=0.98346 SD=0.00329; K99 median=9 range=4-13
+D3 R@20=0.99685 SD=0.00329; K99 median=9 range=4-13
+
+D3 VS D0/D1:
+D3-D0 R@1 delta=+0.00315 CI=[+0.00000,+0.00964] seed_deltas=+0.000000;+0.000000;+0.007874;+0.003937;+0.003937
+D3-D0 R@20 delta=-0.00157 CI=[-0.00484,+0.00000] seed_deltas=+0.000000;+0.000000;+0.000000;-0.003937;-0.003937
+D3-D1 R@1 delta=+0.00315 CI=[+0.00000,+0.00964] seed_deltas=+0.000000;+0.000000;+0.007874;+0.003937;+0.003937
+D3-D1 R@20 delta=+0.00079 CI=[+0.00000,+0.00242] seed_deltas=+0.003937;+0.000000;+0.003937;-0.003937;+0.000000
+
+PCA64 COMPARISON:
+G2train_PCA64_Euclidean R@1=0.98031 R@20=0.99213
+G2train_PCA64_L2 R@1=0.98031 R@20=1.00000
+G2train_PCA64_Euclidean K99=20
+G2train_PCA64_L2 K99=17
+
+INTERPRETATION:
+D3 benefit requires a reproducible paired gain
+over D0 on this external matched-species subset.
+Five model seeds are not independent taxonomy splits.
+Bootstrap confidence intervals are exploratory.
+Do not pool G2-trained results with G1-trained E11.
+Smaller K does not imply faster end-to-end runtime.
+Near-duplicate screening is outside W15 scope.

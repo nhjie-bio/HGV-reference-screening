@@ -1,0 +1,13 @@
+metric	value
+downloaded_unique_accessions	3200
+sequence_qc_failure_exclusions	36
+duplicate_exclusion_targets_total	12
+qc_duplicate_overlap	2
+additional_duplicate_exclusions	10
+unique_final_exclusions	46
+canonical_duplicate_groups_before	11
+canonical_duplicate_members_before	22
+cross_cohort_duplicate_groups_before	0
+canonical_duplicate_groups_after	0
+cross_cohort_duplicate_groups_after	0
+final_retained	3154

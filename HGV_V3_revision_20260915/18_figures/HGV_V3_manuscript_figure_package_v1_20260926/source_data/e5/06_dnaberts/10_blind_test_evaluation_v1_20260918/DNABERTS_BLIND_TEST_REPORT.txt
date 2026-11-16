@@ -1,0 +1,35 @@
+DNABERT-S Blind Test Evaluation v1
+====================================================================================
+
+Thresholds were frozen using validation pairs before blind-test evaluation.
+No test-specific threshold search or retuning was performed.
+
+Frozen threshold file SHA256:
+395e7e5e464e2eccb1a783fcf1abf4c6d5a9beaf71302f7bf7eb87eadaa10e90
+
+Total test pair occurrences: 34882
+Coverage: 1.0 for every split.
+Statistical variability unit: three taxonomy split seeds per protocol.
+DNABERT-S is deterministic here; n_model_seeds=1.
+
+SPLIT-LEVEL RESULTS
+------------------------------------------------------------------------------------
+protocol split_seed  n_pairs  frozen_threshold    auroc    auprc      mcc  balanced_accuracy       f1  precision   recall  specificity
+      G2   20260915     3872          0.946381 0.866414 0.802047 0.792577           0.886622 0.897836   0.817027 0.996384     0.776860
+      G2   20260916     3874          0.948510 0.971847 0.962467 0.926015           0.961797 0.963129   0.930669 0.997935     0.925658
+      G2   20260917     3874          0.956967 0.954206 0.949198 0.762162           0.870934 0.884206   0.801764 0.985545     0.756324
+      G3   20260915     3916          0.956798 0.891066 0.836541 0.720985           0.844484 0.864456   0.766075 0.991828     0.697140
+      G3   20260916     3852          0.958762 0.900742 0.882744 0.634403           0.796210 0.827131   0.718164 0.975078     0.617342
+      G3   20260917     3894          0.968131 0.934426 0.924520 0.712899           0.853107 0.862500   0.810664 0.921418     0.784797
+      G4   20260915     3832          0.970320 0.879391 0.855360 0.621688           0.806367 0.821463   0.762054 0.890919     0.721816
+      G4   20260916     3894          0.956967 0.914806 0.900933 0.668515           0.820236 0.842767   0.748902 0.963534     0.676939
+      G4   20260917     3874          0.964086 0.912924 0.904390 0.620696           0.790656 0.821876   0.715214 0.965927     0.615385
+
+PROTOCOL SUMMARY (mean +/- sample SD over three split seeds)
+------------------------------------------------------------------------------------
+   method protocol  n_split_seeds  coverage_mean  coverage_sd  auroc_mean  auroc_sd  auprc_mean  auprc_sd  mcc_mean   mcc_sd  balanced_accuracy_mean  balanced_accuracy_sd  f1_mean    f1_sd
+DNABERT-S       G2              3            1.0          0.0    0.930822  0.056472    0.904571  0.089035  0.826918 0.087158                0.906451              0.048568 0.915057 0.042186
+DNABERT-S       G3              3            1.0          0.0    0.908744  0.022761    0.881269  0.044008  0.689429 0.047825                0.831267              0.030665 0.851362 0.021008
+DNABERT-S       G4              3            1.0          0.0    0.902373  0.019926    0.886895  0.027364  0.636967 0.027327                0.805753              0.014800 0.828702 0.012183
+
+STATUS: PASS

@@ -1,0 +1,4 @@
+mode	model_seed	pair_order_match	label_match	predicted_label_match	max_abs_distance_delta	max_abs_score_delta	numeric_tolerance	original_prediction	status
+D3	20260915	True	True	True	0.0	0.0	1e-6	HGV_V3_revision_20260915/08_main_generalization/blind_test_evaluation_v1_20260917/hgv_test_predictions/G2_split20260915_model20260915.tsv	PASS
+D3	20260916	True	True	True	0.0	0.0	1e-6	HGV_V3_revision_20260915/08_main_generalization/blind_test_evaluation_v1_20260917/hgv_test_predictions/G2_split20260915_model20260916.tsv	PASS
+D3	20260917	True	True	True	0.0	0.0	1e-6	HGV_V3_revision_20260915/08_main_generalization/blind_test_evaluation_v1_20260917/hgv_test_predictions/G2_split20260915_model20260917.tsv	PASS

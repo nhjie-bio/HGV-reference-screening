@@ -1,0 +1,66 @@
+HGV-V3 G1-G4 SPLIT GENERATION REPORT
+==============================================================================
+
+STATUS: PASS
+
+INPUT
+Development A genomes: 2374
+External held-out genomes: 780
+Train/Val/Test target: 70/15/15
+
+PROTOCOLS
+G1 random genome: seed 20260915
+G2 species holdout: 20260915,20260916,20260917
+G3 genus holdout: 20260915,20260916,20260917
+G4 family holdout: 20260915,20260916,20260917
+
+SPLIT COUNTS
+G1_seed20260915 train: n=1662 target=1662 groups=1662
+G1_seed20260915 val: n=356 target=356 groups=356
+G1_seed20260915 test: n=356 target=356 groups=356
+G2_seed20260915 train: n=1662 target=1662 groups=140
+G2_seed20260915 val: n=356 target=356 groups=30
+G2_seed20260915 test: n=356 target=356 groups=30
+G2_seed20260916 train: n=1662 target=1662 groups=140
+G2_seed20260916 val: n=356 target=356 groups=30
+G2_seed20260916 test: n=356 target=356 groups=30
+G2_seed20260917 train: n=1662 target=1662 groups=140
+G2_seed20260917 val: n=356 target=356 groups=30
+G2_seed20260917 test: n=356 target=356 groups=30
+G3_seed20260915 train: n=1671 target=1662 groups=61
+G3_seed20260915 val: n=345 target=356 groups=21
+G3_seed20260915 test: n=358 target=356 groups=18
+G3_seed20260916 train: n=1672 target=1662 groups=60
+G3_seed20260916 val: n=347 target=356 groups=20
+G3_seed20260916 test: n=355 target=356 groups=20
+G3_seed20260917 train: n=1663 target=1662 groups=60
+G3_seed20260917 val: n=354 target=356 groups=20
+G3_seed20260917 test: n=357 target=356 groups=20
+G4_seed20260915 train: n=1660 target=1662 groups=53
+G4_seed20260915 val: n=358 target=356 groups=17
+G4_seed20260915 test: n=356 target=356 groups=18
+G4_seed20260916 train: n=1669 target=1662 groups=56
+G4_seed20260916 val: n=348 target=356 groups=17
+G4_seed20260916 test: n=357 target=356 groups=15
+G4_seed20260917 train: n=1662 target=1662 groups=51
+G4_seed20260917 val: n=356 target=356 groups=18
+G4_seed20260917 test: n=356 target=356 groups=19
+
+LEAKAGE
+All required accession/group/hash/BioSample/paired-assembly checks: PASS
+
+SEED DIVERSITY
+G2 20260915 vs 20260916: 1059 genomes changed role (0.446082561078)
+G2 20260915 vs 20260917: 1048 genomes changed role (0.441449031171)
+G2 20260916 vs 20260917: 1129 genomes changed role (0.475568660489)
+G3 20260915 vs 20260916: 931 genomes changed role (0.392165122157)
+G3 20260915 vs 20260917: 871 genomes changed role (0.366891322662)
+G3 20260916 vs 20260917: 950 genomes changed role (0.400168491997)
+G4 20260915 vs 20260916: 1014 genomes changed role (0.427127211457)
+G4 20260915 vs 20260917: 1017 genomes changed role (0.428390901432)
+G4 20260916 vs 20260917: 805 genomes changed role (0.339090143218)
+
+EXTERNAL
+B1/B2 external genomes remain fully held out: 780
+
+SPLIT_GENERATION=PASS

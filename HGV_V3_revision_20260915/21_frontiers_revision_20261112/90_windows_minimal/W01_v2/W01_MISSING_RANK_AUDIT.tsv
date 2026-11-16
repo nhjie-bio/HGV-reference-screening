@@ -1,0 +1,401 @@
+cohort	method	model_seed	query_accession	rank_level	raw_rank	query_taxon	top1_taxon	any_hit	references_above_threshold	status
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_000752675.2	family		f__Atopobiaceae	f__Micrococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003461485.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003461985.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003462025.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003466205.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003466225.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003473585.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003478645.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003479465.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_003480615.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_009881305.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_015550625.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_015552745.1	family		f__Butyricicoccaceae	f__Tannerellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_018783565.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_018785515.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027664705.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027664965.1	family		f__Atopobiaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027665385.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027681565.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027681735.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027684795.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027684855.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027684895.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027684935.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027685005.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027685025.1	family		f__Atopobiaceae	f__Burkholderiaceae_B	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027685035.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_027692865.1	family		f__Butyricicoccaceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_032142755.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036700465.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036700945.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036700965.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036700985.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036701005.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036701025.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036701495.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036701585.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036701705.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_036702355.1	family		f__Microcoleaceae	f__Marinifilaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_947383695.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_964241425.1	family		f__Acutalibacteraceae	f__Lachnospiraceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267445.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267455.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267465.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267515.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267525.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267585.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267615.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267635.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260915	GCA_965267905.1	family		f__Nanopelagicaceae	f__Anaplasmataceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_000752675.2	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003461485.1	family		f__Acutalibacteraceae	f__Erysipelotrichaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003461985.1	family		f__Acutalibacteraceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003462025.1	family		f__Acutalibacteraceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003466205.1	family		f__Acutalibacteraceae	f__Erysipelotrichaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003466225.1	family		f__Acutalibacteraceae	f__Erysipelotrichaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003473585.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003478645.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003479465.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_003480615.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_009881305.1	family		f__Butyricicoccaceae	f__Streptomycetaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_015550625.1	family		f__Acutalibacteraceae	f__Erysipelotrichaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_015552745.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_018783565.1	family		f__Acutalibacteraceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_018785515.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027664705.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027664965.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	13	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027665385.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027681565.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027681735.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027684795.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027684855.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027684895.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	13	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027684935.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027685005.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	12	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027685025.1	family		f__Atopobiaceae	f__Xanthobacteraceae	1	11	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027685035.1	family		f__Acutalibacteraceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_027692865.1	family		f__Butyricicoccaceae	f__Bifidobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_032142755.1	family		f__Acutalibacteraceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036700465.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036700945.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036700965.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036700985.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036701005.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036701025.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036701495.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036701585.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036701705.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_036702355.1	family		f__Microcoleaceae	f__Bacillaceae_C	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_947383695.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_964241425.1	family		f__Acutalibacteraceae	f__Bacteroidaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267445.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267455.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267465.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267515.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267525.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267585.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267615.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267635.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260916	GCA_965267905.1	family		f__Nanopelagicaceae	f__Staphylococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_000752675.2	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003461485.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003461985.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003462025.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003466205.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003466225.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003473585.1	family		f__Butyricicoccaceae	f__Burkholderiaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003478645.1	family		f__Butyricicoccaceae	f__Burkholderiaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003479465.1	family		f__Butyricicoccaceae	f__Burkholderiaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_003480615.1	family		f__Butyricicoccaceae	f__Burkholderiaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_009881305.1	family		f__Butyricicoccaceae	f__Enterobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_015550625.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_015552745.1	family		f__Butyricicoccaceae	f__Enterobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_018783565.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_018785515.1	family		f__Butyricicoccaceae	f__Enterobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027664705.1	family		f__Butyricicoccaceae	f__Enterobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027664965.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027665385.1	family		f__Butyricicoccaceae	f__Burkholderiaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027681565.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027681735.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027684795.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027684855.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027684895.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027684935.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027685005.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027685025.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027685035.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_027692865.1	family		f__Butyricicoccaceae	f__Burkholderiaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_032142755.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036700465.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036700945.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036700965.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036700985.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036701005.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036701025.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036701495.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036701585.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036701705.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_036702355.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_947383695.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_964241425.1	family		f__Acutalibacteraceae	f__Pasteurellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267445.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267455.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267465.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267515.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267525.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267585.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267615.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267635.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	HGV_Dashing2_tau0p98	20260917	GCA_965267905.1	family		f__Nanopelagicaceae	f__Carnobacteriaceae_A	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_000752675.2	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003461485.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003461985.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003462025.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003466205.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003466225.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003473585.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003478645.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003479465.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_003480615.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_009881305.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_015550625.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_015552745.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_018783565.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_018785515.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027664705.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027664965.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027665385.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027681565.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027681735.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027684795.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027684855.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027684895.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027684935.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027685005.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027685025.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027685035.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_027692865.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_032142755.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036700465.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036700945.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036700965.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036700985.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036701005.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036701025.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036701495.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036701585.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036701705.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_036702355.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_947383695.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_964241425.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267445.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267455.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267465.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267515.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267525.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267585.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267615.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267635.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_BrayCurtis		GCA_965267905.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_000752675.2	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003461485.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003461985.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003462025.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003466205.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003466225.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003473585.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003478645.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003479465.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_003480615.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_009881305.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_015550625.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_015552745.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_018783565.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_018785515.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027664705.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027664965.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027665385.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027681565.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027681735.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027684795.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027684855.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027684895.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027684935.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027685005.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027685025.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027685035.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_027692865.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_032142755.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036700465.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036700945.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036700965.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036700985.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036701005.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036701025.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036701495.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036701585.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036701705.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_036702355.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_947383695.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_964241425.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267445.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267455.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267465.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267515.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267525.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267585.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267615.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267635.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Cosine		GCA_965267905.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_000752675.2	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003461485.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003461985.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003462025.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003466205.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003466225.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003473585.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003478645.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003479465.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_003480615.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_009881305.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_015550625.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_015552745.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_018783565.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_018785515.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027664705.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027664965.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027665385.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027681565.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027681735.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027684795.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027684855.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027684895.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027684935.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027685005.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027685025.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027685035.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_027692865.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_032142755.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036700465.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036700945.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036700965.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036700985.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036701005.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036701025.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036701495.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036701585.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036701705.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_036702355.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_947383695.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_964241425.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267445.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267455.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267465.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267515.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267525.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267585.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267615.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267635.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	RawK6_Euclidean		GCA_965267905.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_000752675.2	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003461485.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003461985.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003462025.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003466205.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003466225.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003473585.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003478645.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003479465.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_003480615.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_009881305.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_015550625.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_015552745.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_018783565.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_018785515.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027664705.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027664965.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027665385.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027681565.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027681735.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027684795.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027684855.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027684895.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027684935.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027685005.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027685025.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027685035.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_027692865.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_032142755.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036700465.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036700945.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036700965.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036700985.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036701005.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036701025.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036701495.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036701585.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036701705.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_036702355.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_947383695.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_964241425.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267445.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267455.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267465.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267515.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267525.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267585.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267615.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267635.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_Euclidean		GCA_965267905.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_000752675.2	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003461485.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003461985.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003462025.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003466205.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003466225.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003473585.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003478645.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003479465.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_003480615.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_009881305.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_015550625.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_015552745.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_018783565.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_018785515.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027664705.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027664965.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027665385.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027681565.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027681735.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027684795.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027684855.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027684895.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027684935.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027685005.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027685025.1	family		f__Atopobiaceae	f__Coriobacteriaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027685035.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_027692865.1	family		f__Butyricicoccaceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_032142755.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036700465.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036700945.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036700965.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036700985.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036701005.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036701025.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036701495.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036701585.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036701705.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_036702355.1	family		f__Microcoleaceae	f__Shewanellaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_947383695.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_964241425.1	family		f__Acutalibacteraceae	f__Ruminococcaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267445.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267455.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267465.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267515.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267525.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267585.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267615.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267635.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG
+B2_unseen_genus	PCA64_L2		GCA_965267905.1	family		f__Nanopelagicaceae	f__Vibrionaceae	0	0	VERIFIED_TOP1_WRONG

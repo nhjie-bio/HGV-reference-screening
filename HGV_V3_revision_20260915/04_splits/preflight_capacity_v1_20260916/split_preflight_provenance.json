@@ -1,0 +1,20 @@
+{
+  "development_families": 88,
+  "development_genera": 100,
+  "development_genomes": 2374,
+  "development_species_clusters": 200,
+  "external_B1": 391,
+  "external_B2_seen_genus": 196,
+  "external_B2_unseen_genus": 193,
+  "feature_matrix": "HGV_V3_revision_20260915/03_features/canonical_k6_full3154_v1/canonical_k6_features.float32.npy",
+  "feature_matrix_sha256": "bf86f75df6a15f49dda348dfac321a2b123b5d5b700676a81a175e34d4b96792",
+  "feature_rows": "HGV_V3_revision_20260915/03_features/canonical_k6_full3154_v1/canonical_k6_rows.tsv",
+  "feature_rows_sha256": "e73b17862041bc9f52febd6b91796cee94452552ed2605bd01ad0f9990576657",
+  "feature_shape": [
+    3154,
+    2080
+  ],
+  "manifest": "HGV_V3_revision_20260915/01_manifest/final_3154_freeze_v1_20260916/final_master_manifest_3154.tsv",
+  "manifest_sha256": "b7c34ba059e221822eca574509f5e8b3a751862f2b1e1a9a8f03620cda40cae3",
+  "max_abs_row_sum_error": 6.912159733474255e-09
+}
