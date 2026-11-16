@@ -1,51 +1,51 @@
-# HGV: Compact Whole-Genome Embeddings for Bacterial Reference Screening
+# HGV reference screening
 
-This repository accompanies the HGV V3 manuscript revision. It provides the revision analysis scripts and the complete supplementary data/code archives.
+HGV maps canonical whole-assembly 6-mer profiles to normalized 64-dimensional vectors for bacterial reference candidate screening. This repository accompanies the manuscript **HGV: compact whole-genome embeddings for bacterial reference screening across taxonomic holdouts**.
 
-## What is included
+## Start here
 
-- `supplementary/HGV_Supplementary_Data_1_PUBLIC.zip`: frozen accession manifests, source tables, figure data, external evaluation results, E12B resource records, and W13-W15 revision results.
-- `supplementary/HGV_Supplementary_Code_1_PUBLIC.zip`: original implementation and analysis scripts, canonical feature matrix, frozen model checkpoints, PCA transform, saved embeddings, and revision scripts.
-- `HGV_V3_revision_20260915/scripts_frontiers_windows/`: directly browsable Windows revision scripts W01-W10 and W13-W15.
+1. Clone this repository, or use GitHub's **Code → Download ZIP** and extract it once.
+2. Open the [experiment-to-code/data map](docs/HGV_REPRODUCTION_MAP.md) to locate the training, evaluation and analysis entry points.
+3. Read the [reproduction notes](docs/REPRODUCIBILITY.md) before running an experiment. The project tree is already expanded; a clone does not require extracting the two supplementary archives over it.
 
-## Download and extract the complete replay package
+```bash
+git clone https://github.com/nhjie-bio/HGV-reference-screening.git
+cd HGV-reference-screening
+```
 
-1. Download both ZIP archives from `supplementary/`.
-2. Create a folder named `HGV_V3_revision_20260915` in the repository root.
-3. Extract **both** archives into that same `HGV_V3_revision_20260915` folder, preserving their internal relative paths. Merge folders when Windows asks.
-4. Read the `README.txt` inside each archive before running any script.
-5. Run W13-W15 from the extracted project layout. These analyses reuse frozen inputs/checkpoints and do not retrain HGV.
+The browsable project is [HGV_V3_revision_20260915/](HGV_V3_revision_20260915/). Original filenames preserve experiment provenance. Use the final entry points in the map; historical scripts are also retained where later code depends on them.
 
-The archives normalize historical machine-specific absolute paths to the portable project-root prefix `HGV_V3_revision_20260915/`. The W13-W15 scripts derive their project root from their own location. Some older historical scripts may require environment-specific tools or targeted path adaptation.
+## Available materials
 
-## Data availability
+| Material | Location |
+|---|---|
+| Exact assembly accessions, taxonomy and cohort assignments | [01_manifest](HGV_V3_revision_20260915/01_manifest/) |
+| Canonical features and split records | [03_features](HGV_V3_revision_20260915/03_features/), [04_splits](HGV_V3_revision_20260915/04_splits/) |
+| Pair manifests, teacher-augmented pairs and training configuration | [05_pairs](HGV_V3_revision_20260915/05_pairs/), [06_teacher](HGV_V3_revision_20260915/06_teacher/), [07_hgv](HGV_V3_revision_20260915/07_hgv/) |
+| HGV training and evaluation implementation | [training scripts](HGV_V3_revision_20260915/scripts_v3_20260916_hgv/), [full code index](docs/CODE_INDEX.tsv) |
+| Baseline implementations | [internal comparisons](HGV_V3_revision_20260915/scripts_v3_20260917_e5_baselines/); external and finalization entry points in the experiment map |
+| Frozen HGV checkpoints and PCA transform | [18-checkpoint inventory](docs/MODEL_CHECKPOINTS.tsv), [external evaluation assets](HGV_V3_revision_20260915/09_external_validation/) |
+| Screening and synchronized resource records | [15_reference_screening](HGV_V3_revision_20260915/15_reference_screening/), [16_scalability](HGV_V3_revision_20260915/16_scalability/) |
+| Figure source data and additional revision analyses | [18_figures](HGV_V3_revision_20260915/18_figures/), [21_frontiers_revision_20261112](HGV_V3_revision_20260915/21_frontiers_revision_20261112/) |
 
-The 3,154-genome accession/version manifest and GTDB taxonomy records are supplied in Supplementary Data 1. Raw genome FASTA files are not redistributed; they should be retrieved from the accession versions in the manifest and the original source databases.
+## Scope and external inputs
 
-## Reproducibility scope
+The supplied checkpoints, feature matrices, saved embeddings and source tables support inspection and targeted replay. The added pair/teacher tables and configuration freezes supply inputs for the original HGV training entry points. Full reconstruction of every historical run has not been tested on a clean installation.
 
-The supplementary code archive is an inspection and targeted-replay package. It contains frozen models, feature matrices, transforms, manifests, and selected scripts, but it does **not** claim that every historical experiment can be reconstructed in one command on a clean machine. Some external tools, raw FASTA downloads, and third-party pretrained DNABERT-S weights are not included. See the archive README files and `docs/REPRODUCIBILITY.md`.
+Raw benchmark/MAG FASTA files, complete GTDB release downloads, third-party DNABERT-S pretrained weights, external executables and every historical checkpoint/intermediate are not redistributed. Retrieve exact assembly versions from NCBI using the supplied manifests, and obtain the documented GTDB release and third-party tools separately. Native sketch/ANI workflows require the relevant Linux/WSL environment; the Windows update tool manages repository files.
 
-## License
+The matched-species screening results, distant-taxon retrieval results and their denominators are distinct. The MAG pilot's sequence-level near-duplicate and independent label audits remain incomplete. Species-stratified resampling supplies accuracy results, not new resource timings. See the [experiment map](docs/HGV_REPRODUCTION_MAP.md) for these boundaries.
 
-No project-wide reuse license is assigned in this release. Third-party data and software remain subject to their respective terms. The authors should add an explicit license only after confirming ownership and co-author approval.
+## Version and integrity
 
-## Release integrity
+The manuscript's public code/data snapshot is [commit adb9202b5d4a12fd6460f71fe862ccf3650d911c](https://github.com/nhjie-bio/HGV-reference-screening/tree/adb9202b5d4a12fd6460f71fe862ccf3650d911c). Later documentation updates do not change that snapshot. [The source inventory](docs/releases/update_001_source_inventory.tsv) records exposed file provenance and SHA256 values; [the model inventory](docs/MODEL_CHECKPOINTS.tsv) records checkpoint hashes.
 
-`supplementary/SHA256SUMS.txt` records SHA256 checksums for the two public supplementary archives. Each archive also contains a regenerated `FILE_INVENTORY.tsv` for every included payload file.
+The two [supplementary ZIP files](supplementary/) remain historical downloads with their original checksums. They contain the earlier replay package and do not include all subsequently added training inputs. Use the expanded repository for the current material collection. Their separate README/inventory files are preserved under [archive provenance](docs/archive_provenance/).
 
-## Contact
+## Maintaining the repository
 
-For questions about the HGV implementation and supplementary materials, contact the corresponding author listed in the associated manuscript.
+For prepared incremental packages, the [one-click Windows launcher](tools/hgv_incremental/README.md) checks files, applies changes, commits only listed paths and verifies the push. Future updates contain only new or changed files. User-specific local repository paths are stored in each local package, not in this repository.
 
-## Browsable implementation and frozen assets (incremental update 001)
+## License and contact
 
-The original code and data archives are now also exposed under [HGV_V3_revision_20260915](HGV_V3_revision_20260915/). The existing ZIP downloads remain unchanged.
-
-- Start with the [experiment-to-code/data map](docs/HGV_REPRODUCTION_MAP.md).
-- Browse the [model checkpoint inventory](docs/MODEL_CHECKPOINTS.tsv) and [code index](docs/CODE_INDEX.tsv).
-- Frozen pair manifests, Dashing2-augmented training/validation pairs and protocol/configuration freezes have also been added from the original project; these inputs were missing from the replay ZIP.
-- Check the [incremental update source inventory](docs/releases/update_001_source_inventory.tsv) for exact paths, provenance and SHA256 values.
-- Future updates use [the Windows incremental updater](tools/hgv_incremental/README.md); only added or changed paths are committed.
-
-Code visibility and checkpoint availability do not imply that every historical run has been repeated on a clean environment. The map identifies external dependencies, retained historical scripts and remaining gaps.
+No project-wide reuse license has been assigned; see [LICENSE_STATUS.md](LICENSE_STATUS.md). Third-party materials retain their original terms. For scientific or implementation questions, contact the corresponding author listed in the manuscript.

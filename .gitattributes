@@ -1096,3 +1096,14 @@
 "/tools/hgv_incremental/New-HGV-Delta.py" -text
 "/tools/hgv_incremental/README.md" -text
 "/tools/hgv_incremental/Update-HGV.ps1" -text
+
+# Documentation and one-click update 002
+"/.gitattributes" -text
+"/README.md" -text
+"/docs/HGV_REPRODUCTION_MAP.md" -text
+"/docs/REPRODUCIBILITY.md" -text
+"/tools/hgv_incremental/Launch-HGV.cmd" -text
+"/tools/hgv_incremental/New-HGV-Delta.py" -text
+"/tools/hgv_incremental/OneClick-HGV.ps1" -text
+"/tools/hgv_incremental/README.md" -text
+"/tools/hgv_incremental/Update-HGV.ps1" -text

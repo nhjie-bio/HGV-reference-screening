@@ -66,6 +66,12 @@ def main():
     shutil.copyfile(Path(__file__).with_name('Update-HGV.ps1'),out/'Update-HGV.ps1')
     for name,mode in [('01_CHECK','Plan'),('02_APPLY','Apply'),('03_COMMIT_AND_PUSH','Publish'),('04_VERIFY','Verify')]:
         (out/(name+'.cmd')).write_bytes(('@echo off\r\nsetlocal\r\nset "PSModulePath="\r\npowershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Update-HGV.ps1" -Mode '+mode+' -RepoPath "%~1"\r\nset "HGV_EXIT=%ERRORLEVEL%"\r\nif "%~1"=="" pause\r\nexit /b %HGV_EXIT%\r\n').encode())
+    helper=Path(__file__).with_name('OneClick-HGV.ps1')
+    launcher=Path(__file__).with_name('Launch-HGV.cmd')
+    if helper.is_file() and launcher.is_file():
+        shutil.copyfile(helper,out/'OneClick-HGV.ps1')
+        shutil.copyfile(launcher,out/'双击更新GitHub.cmd')
+        (out/'LOCAL_REPOSITORY.txt').write_text(str(repo)+'\n',encoding='utf-8')
     print(f'Prepared {len(rows)} changed files in {out}. Existing identical files were omitted. No Git mutations performed.')
 
 if __name__=='__main__':main()

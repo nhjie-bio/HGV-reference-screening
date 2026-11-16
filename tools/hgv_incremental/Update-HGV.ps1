@@ -1,4 +1,4 @@
-[CmdletBinding()]
+﻿[CmdletBinding()]
 param(
     [string]$RepoPath,
     [ValidateSet('Plan','Apply','Verify','Publish')][string]$Mode = 'Plan'
@@ -146,6 +146,12 @@ try {
     if ($rows.Count -ne $meta.file_count) { throw 'Manifest count mismatch.' }
     $script:payload = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot 'payload')).TrimEnd('\','/')
     if (!$RepoPath) {
+        $savedRepository = Join-Path $PSScriptRoot 'LOCAL_REPOSITORY.txt'
+        if (Test-Path -LiteralPath $savedRepository -PathType Leaf) {
+            $RepoPath = (Get-Content -LiteralPath $savedRepository -Raw -Encoding UTF8).Trim()
+        }
+    }
+    if (!$RepoPath) {
         $candidates = @(
             (Join-Path (Split-Path $PSScriptRoot -Parent) 'HGV-reference-screening'),
             (Join-Path (Split-Path $PSScriptRoot -Parent) 'HGV-reference-screening_GitHub_upload_bundle/HGV-reference-screening')
@@ -155,7 +161,10 @@ try {
         }
         if (!$RepoPath) { $RepoPath = Read-Host 'Enter the local HGV-reference-screening Git repository path' }
     }
-    $script:repo = [IO.Path]::GetFullPath($RepoPath.Trim('"')).TrimEnd('\','/')
+    if ($RepoPath -match 'https?://|git@github\.com') {
+        throw 'A local folder is required, not a GitHub web URL. Use the one-click launcher or the path saved in LOCAL_REPOSITORY.txt.'
+    }
+    $script:repo = [IO.Path]::GetFullPath($RepoPath.Trim().Trim('"')).TrimEnd('\','/')
     if (!(Get-Command git.exe -ErrorAction SilentlyContinue)) { throw 'Install Git for Windows first.' }
     $top = [IO.Path]::GetFullPath((Git -Arguments @('rev-parse','--show-toplevel'))).TrimEnd('\','/')
     if ($top -ne $repo) { throw 'RepoPath must be the repository root, not an inner folder.' }
@@ -213,6 +222,7 @@ try {
     $remote = Git -Arguments @('rev-parse','origin/main')
     $head = Git -Arguments @('rev-parse','HEAD')
     $message = 'HGV incremental update ' + $meta.update_id + ': expose original workflows and frozen assets'
+    if ($meta.PSObject.Properties.Name -contains 'commit_message' -and $meta.commit_message) { $message = [string]$meta.commit_message }
     if ($head -ne $remote) {
         # A previous push might have failed after this exact update was committed.
         $subject = Git -Arguments @('log','-1','--format=%s')
